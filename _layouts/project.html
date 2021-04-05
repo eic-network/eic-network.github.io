@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<style>
+header::after {
+    background-image: url('../{{ page.image }}');
+}
+</style>
+
+<body id="page-top">
+  {% include nav.html %}
+  <header>
+    <div class="header-content">
+        <div class="header-content-inner">
+            <h1>{{ page.title }}</h1>
+            <hr>
+            <h3>{{ page.lead }}</h3>
+            <p>{{ page.preview }}</p>
+        </div>
+    </div>
+  </header>
+
+<section id="content">
+  {{ page.content }}
+</section>
+
+
+
+<section id="publications" class="section-gray margin-bottom">
+  <div class="container clearfix">
+    <div class="row margin-bottom">
+      <h2 class="heading">Publications</h2>
+      <p></p>
+      <div class="col-md-6 margin-bottom">
+        {% for publication in page.publications %}
+        <div>
+          <h5><a href="{{publication.url}}">{{publication.name}}</a> {{publication.lang}}</h5>
+          <p></p>
+          {% for link in publication.links %}
+            <a href="{{ link.url }}" class="btn btn-small" target="_blank">{{ link.name }}</a><br>
+          {% endfor %}
+        </div>
+        {% endfor %}
+        <hr>
+      </div>
+    </div>
+  </div>
+</section>
+
+  {% include scripts.html %}
+</body>
+
+</html>
