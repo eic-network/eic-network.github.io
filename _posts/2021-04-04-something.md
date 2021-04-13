@@ -1,5 +1,5 @@
 ---
-title: something
+title: something else for the links
 ---
 
 Collections

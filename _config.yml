@@ -18,7 +18,12 @@ collections:
 defaults:
   -
     scope:
-      type: "projects"
+      type: projects
     values:
-      layout: "project"
-      category: "project"
+      layout: project
+      category: project
+  - 
+    scope:
+      type: posts
+    values:
+      permalink: blog/:title
