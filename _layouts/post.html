@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include home/head.html %}
+{% include head.html %}
 
 <body id="page-top">
-  {% include home/nav.html %}
+  {% include nav.html %}
 
   <div class="container">
       <h2>{{ page.title }}</h2>
     {{ page.content | markdownize}}
   </div>
 
-  {% include home/footer.html %}
-  {% include home/scripts.html %}
+  {% include footer.html %}
+  {% include scripts.html %}
 </body>
 
 </html>
