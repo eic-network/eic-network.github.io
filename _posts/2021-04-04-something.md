@@ -1,5 +1,6 @@
 ---
-title: something
+title: something else for the links
+layout: post
 ---
 
 Collections

@@ -1,45 +1,45 @@
 - name:
   url: https://www.mediapart.fr/
-  image: logos/mediapart.png
+  image: mediapart.png
 - name:
   url: http://politiken.dk/
-  image: logos/politiken.jpg
+  image: politiken.jpg
 - name:
   url: https://linx.crji.org/
-  image: 'logos/crji.jpg'
+  image: 'crji.jpg'
 - name:
   url: https://expresso.sapo.pt/
-  image: logos/EXPRESSO-logo.png
+  image: EXPRESSO-logo.png
 - name:
   url: http://www.lesoir.be/
-  image: logos/le-soir.jpg
+  image: le-soir.jpg
 - name: Der Spiegel
   url: http://www.spiegel.de/spiege/
-  image: logos/spiegel.svg
+  image: spiegel.svg
 - name:
   url: http://theblacksea.eu/
-  image: logos/tbs.jpg
+  image: tbs.jpg
 - name:
   url: http://espresso.repubblia.it/
-  image: logos/espresso.png
+  image: espresso.png
 - name:
   url: https://www.nrc.nl/
-  image: logos/NRC.jpg
+  image: NRC.jpg
 - name:
   url: http://www.nacional.hr/
-  image: logos/NACIONAL.jpeg
+  image: NACIONAL.jpeg
 - name:
   url: http://www.standaard.be/
-  image: logos/Standaard.png
+  image: Standaard.png
 - name:
   url: https://www.vg.no/
-  image: logos/vg.svg
+  image: vg.svg
 - name:
   url: https://www.tdg.ch/
-  image: logos/TdG.png
+  image: TdG.png
 - name:
   url: https://www.rts.ch/
-  image: logos/RTS.jpg
+  image: RTS.jpg
 - name:
   url: https://www.infolibre.es
-  image: logos/infoLibre.png
+  image: infoLibre.png

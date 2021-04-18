@@ -3,12 +3,13 @@
 
 {% include home/head.html %}
 
-<body id="page-top">
+<body data-spy="scroll" data-target="#navigation" data-offset="120">
+  {% include home/header.html %}
   {% include home/nav.html %}
-
   <div class="container">
-      <h2>{{ page.title }}</h2>
-    {{ page.content | markdownize}}
+    {% include home/content.html %}
+    {% include home/projects.html %}
+    {% include home/contact.html %}
   </div>
 
   {% include home/footer.html %}

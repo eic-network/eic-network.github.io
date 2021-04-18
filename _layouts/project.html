@@ -1,55 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include head.html %}
+{% include home/head.html %}
 
-<style>
-header::after {
-    background-image: url('../{{ page.image }}');
-}
-</style>
+<body data-spy="scroll" data-target="#navigation" data-offset="120">
+  {% include home/nav.html %}
 
-<body id="page-top">
-  {% include nav.html %}
-  <header>
-    <div class="header-content">
-        <div class="header-content-inner">
-            <h1>{{ page.title }}</h1>
-            <hr>
-            <h3>{{ page.lead }}</h3>
-            <p>{{ page.preview }}</p>
-        </div>
-    </div>
-  </header>
+  {% include project/content.html %}
+  {% include project/publications.html %}
 
-<section id="content">
-  {{ page.content }}
-</section>
+  {% if page.team_initiators %}
+    {% if page.team_participants %}
+      {% include project/team.html %}
+    {% endif %}
+  {% endif %}
 
-
-
-<section id="publications" class="section-gray margin-bottom">
-  <div class="container clearfix">
-    <div class="row margin-bottom">
-      <h2 class="heading">Publications</h2>
-      <p></p>
-      <div class="col-md-6 margin-bottom">
-        {% for publication in page.publications %}
-        <div>
-          <h5><a href="{{publication.url}}">{{publication.name}}</a> {{publication.lang}}</h5>
-          <p></p>
-          {% for link in publication.links %}
-            <a href="{{ link.url }}" class="btn btn-small" target="_blank">{{ link.name }}</a><br>
-          {% endfor %}
-        </div>
-        {% endfor %}
-        <hr>
-      </div>
-    </div>
-  </div>
-</section>
-
-  {% include scripts.html %}
+  {% include home/footer.html %}
+  {% include home/scripts.html %}
 </body>
 
 </html>
