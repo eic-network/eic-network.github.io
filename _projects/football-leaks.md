@@ -20,7 +20,7 @@ publications:
     url: http://www.spiegel.de/spiegel/football-leaks-woher-der-groesste-datensatz-der-sportgeschichte-kommt-a-1124139.html
 team_initiators:
 team_participants:
-image: /images/projects/fl/fl.png
+image: /assets/images/projects/fl/fl.png
 ---
 
 For the Football Leaks weekly diggest, [please read this blog post](https://eic.network/blog/football-leaks-revelations-the-first-week-in-summary)
