@@ -2,7 +2,7 @@
 title: EIC
 email: eic@0x19.net
 description: > # this means to ignore newlines until "baseurl:"
-url: "" # the base hostname & protocol for your site
+url: "http://eic.0x19.net" # the base hostname & protocol for your site
 
 twitter_username: jekyllrb
 github_username: eic-network
