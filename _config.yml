@@ -21,6 +21,9 @@ defaults:
     values:
       layout: project
       published: true
+      intro: ""
+      description: ""
+      publications: ""
   -
     scope:
       path: ""
