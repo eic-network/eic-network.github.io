@@ -1,28 +1,31 @@
-# Site settings
 title: EIC
 email: eic@0x19.net
-description: > # this means to ignore newlines until "baseurl:"
-url: "http://eic.0x19.net" # the base hostname & protocol for your site
+description: European Investigative Collaborations
+base_url: "/"
+url: "http://eic-network.github.io"
 
-twitter_username: jekyllrb
+twitter_username: eicnetwork
 github_username: eic-network
 
-# Build settings
 markdown: kramdown
 
 collections:
   projects:
     output: true
-    
+
 defaults:
   -
     scope:
+      path: ""
       type: projects
     values:
       layout: project
-      category: project
-  - 
+      published: true
+  -
     scope:
+      path: ""
       type: posts
     values:
+      layout: post
       permalink: blog/:title
+      published: true
