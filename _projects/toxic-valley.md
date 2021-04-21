@@ -22,23 +22,18 @@ publications:
   name: Der Spiegel
 - lang: '[FR, EN, ES]'
   links:
-  - name: "Pollution, cancers, maladies: voyage dans l\u2019enfer industriel d\u2019\
-      une vall\xE9e turque"
+  - name: "Pollution, cancers, maladies: voyage dans l\u2019enfer industriel d\u2019une vall\xE9e turque"
     url: https://www.mediapart.fr/journal/international/061019/pollution-cancers-maladies-voyage-dans-l-enfer-industriel-d-une-vallee-turque?onglet=full
   - name: "Turquie: sous la colline, l\u2019amiante"
     url: https://www.mediapart.fr/journal/france/111019/turquie-sous-la-colline-l-amiante
   name: Mediapart
 - lang: '[tr]'
   links:
-  - name: "\u201CAsbest Tepesi\u201D: Dilovas\u0131\u2019nda g\xF6m\xFCl\xFC, asbest\
-      \ i\xE7eren end\xFCstriyel at\u0131klar ortaya \xE7\u0131kar\u0131ld\u0131"
+  - name: "\u201CAsbest Tepesi\u201D: Dilovas\u0131\u2019nda g\xF6m\xFCl\xFC, asbest\ i\xE7eren end\xFCstriyel at\u0131klar ortaya \xE7\u0131kar\u0131ld\u0131"
     url: https://medyascope.tv/2019/10/11/medyascope-ozel-haber-asbest-tepesi-dilovasinda-gomulu-asbest-iceren-endustriyel-atiklar-ortaya-cikarildi/
-  - name: "Asbest Tepesi\u2019nde ilk hafta: Medyascope\u2019un haberi sonras\u0131\
-      \ asbestli at\u0131klar i\xE7in halen \xF6nlem al\u0131nmad\u0131"
+  - name: "Asbest Tepesi\u2019nde ilk hafta: Medyascope\u2019un haberi sonras\u0131\ asbestli at\u0131klar i\xE7in halen \xF6nlem al\u0131nmad\u0131"
     url: 'https://medyascope.tv/2019/10/18/asbest-tepesinde-ilk-hafta-medyascopeun-haberi-sonrasi-asbestli-atiklar-icin-halen-onlem-alinmadi/ '
-  - name: "Medyascope ortaya \xE7\u0131karm\u0131\u015Ft\u0131: Dilovas\u0131\u2019\
-      ndaki \u201CAsbest Tepesi\u201D i\xE7in CHP\u2019liler TBMM\u2019de ara\u015F\
-      t\u0131rma komisyonu kurulmas\u0131n\u0131 istedi"
+  - name: "Medyascope ortaya \xE7\u0131karm\u0131\u015Ft\u0131: Dilovas\u0131\u2019ndaki \u201CAsbest Tepesi\u201D i\xE7in CHP\u2019liler TBMM\u2019de ara\u015Ft\u0131rma komisyonu kurulmas\u0131n\u0131 istedi"
     url: https://medyascope.tv/2019/10/25/medyascope-ortaya-cikarmisti-dilovasindaki-asbest-tepesi-icin-chpliler-tbmmde-arastirma-komisyonu-kurulmasini-istedi/
   name: medyascope tv
 - lang: '[HR, EN]'
@@ -48,21 +43,18 @@ publications:
   name: Nacional
 - lang: '[NL]'
   links:
-  - name: Vervuiling, longziekten, en hogere sterfte door kanker in gifvallei van
-      Europa
+  - name: Vervuiling, longziekten, en hogere sterfte door kanker in gifvallei van Europa
     url: https://www.nrc.nl/nieuws/2019/09/27/dilovasi-de-afvoerput-van-europa-a3974894
   name: NRC
 - lang: '[EN, TR ]'
   links:
   - name: The story of the most heavily industrialised area of Turkey
     url: https://theblacksea.eu/stories/the-toxic-valley-project/
-  - name: How global industry turned a once green Turkish province into an environmental
-      wasteland
+  - name: How global industry turned a once green Turkish province into an environmental wasteland
     url: https://theblacksea.eu/stories/the-toxic-valley-project/the-toxic-valley/
   - name: Life in the Valley
     url: https://theblacksea.eu/stories/the-toxic-valley-project/life-valley/
-  - name: "K\xFCresel sanayinin T\xFCrkiye\u2019nin en ye\u015Fil il\xE7elerinden\
-      \ birini ya\u015Fanmaz hale getiri\u015Finin hik\xE2yesi"
+  - name: "K\xFCresel sanayinin T\xFCrkiye\u2019nin en ye\u015Fil il\xE7elerinden\ birini ya\u015Fanmaz hale getiri\u015Finin hik\xE2yesi"
     url: https://theblacksea.eu/stories/the-toxic-valley-project/zehir-vadisi-dilovasi/
   - name: 'Asbestos Hill: a cover-up'
     url: https://theblacksea.eu/stories/the-toxic-valley-project/asbestos-hill/
