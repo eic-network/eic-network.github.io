@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Make sure docker-compose user can write here
+chmod 777 .jekyll-cache _projects _posts index.md blog.md _site -R
+
+# Now start Jekyll (admin) service
+docker-compose up --build
