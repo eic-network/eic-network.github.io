@@ -1,15 +1,5 @@
 #!/bin/sh
 
-# # Make sure docker-compose user can write here
-# Mkdir -p .jekyll-cache _site
-# Chmod 777 .jekyll-cache _projects _posts index.md blog.md _site -R
-# 
-# # Now start Jekyll (admin) service
-# Docker-compose up --build
-
-
-# docker build . -t eic-network/jekyll
-
 echo Building...
 
 export USER_UID=$(id -u)

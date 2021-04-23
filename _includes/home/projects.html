@@ -1,3 +1,4 @@
+{% assign projects = site.projects | sort: 'date' | reverse %}
 <section id="projects" class="no-padding-bottom">
     <div class="container">
         <div class="row">
@@ -8,7 +9,7 @@
     </div>
     <div class="container-fluid">
         <div class="row">
-        {% for project in site.projects %}
+        {% for project in projects %}
             <div class="col-sm-4 col-md-4">
                 <div class="box">
                     <div style="padding: 0 20px;">
