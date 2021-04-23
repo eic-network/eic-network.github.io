@@ -1,8 +1,30 @@
 #!/bin/sh
 
-# Make sure docker-compose user can write here
-mkdir -p .jekyll-cache _site
-chmod 777 .jekyll-cache _projects _posts index.md blog.md _site -R
+# # Make sure docker-compose user can write here
+# Mkdir -p .jekyll-cache _site
+# Chmod 777 .jekyll-cache _projects _posts index.md blog.md _site -R
+# 
+# # Now start Jekyll (admin) service
+# Docker-compose up --build
 
-# Now start Jekyll (admin) service
-docker-compose up --build
+
+# docker build . -t eic-network/jekyll
+
+echo Building...
+
+export USER_UID=$(id -u)
+export USER_GID=$(id -g)
+export USER_NAME=$USER
+docker build \
+    --build-arg USER_UID=$USER_UID \
+    --build-arg USER_GID=$USER_GID \
+    --build-arg USER_NAME=$USER_NAME \
+    .
+
+echo Running...
+docker run --rm \
+    --volume="$PWD:/srv/jekyll:rw" \
+    --workdir=/srv/jekyll \
+    -p 4000:4000 -p 35729:35729 \
+    eic-network/jekyll jekyll serve --trace
+

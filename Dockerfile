@@ -1,18 +1,28 @@
 FROM jekyll/jekyll:latest as build
 
+ARG USER_UID
+ARG USER_GID
+ARG USER_NAME
+
+RUN groupadd -g $USER_GID -o $USER_NAME
+RUN useradd -m -u $USER_UID -g $USER_GID -o -s /bin/bash $USER_NAME
+USER $USER_NAME
+
 WORKDIR /srv/jekyll
 
 ADD . /srv/jekyll
 
+user root
 RUN gem install bundler && \
     rm -rf Gemfile.lock && \
-    chmod -R 777 ${PWD} && \
+    chmod -R 777 ${PWD}
+
+RUN echo $USER_NAME
+RUN echo $USER_UID
+RUN echo $USER_GID
+USER $USER_NAME
+RUN rm -rf Gemfile.lock && \
     bundle update && \
     bundle install
-
-ARG build_command
-ENV BUILD_COMMAND ${build_command}
-
-CMD ${BUILD_COMMAND}
 
 EXPOSE 4000
