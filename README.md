@@ -18,7 +18,7 @@ cd eic-network.github.io
 ./start
 ```
 
-5. Open http://localhost:4000 in a web browser to start editing the content
+5. Open http://localhost:4000/admin in a web browser to start editing the content and http://localhost:4000 to preview the changes.
 
 6. After editing, go back to the terminal and kill the server with Ctrl+C
 
