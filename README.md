@@ -1,8 +1,37 @@
-# Intro
 
-TBA
+# Work locally (docker setup)
 
-# Work locally
+1. Install Docker runtime: https://docs.docker.com/docker-for-mac/install/
+
+2. Open a terminal window
+
+3. Clone the project:
+
+```
+git clone git@github.com:eic-network/eic-network.github.io.git
+cd eic-network.github.io
+```
+
+4. Start the script that will take care of the runtime:
+
+```
+./start
+```
+
+5. Open http://localhost:4000 in a web browser to start editing the content
+
+6. After editing, go back to the terminal and kill the server with Ctrl+C
+
+7. Now add your changes to git and push:
+
+```
+git add .
+git commit -m 'Some relevant commit message'
+git push
+```
+
+
+# Work locally (source install)
 
 Install the runtime:
 
