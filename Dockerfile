@@ -20,9 +20,11 @@ RUN gem install bundler && \
 RUN echo $USER_NAME
 RUN echo $USER_UID
 RUN echo $USER_GID
-USER $USER_NAME
+USER root
 RUN rm -rf Gemfile.lock && \
     bundle update && \
     bundle install
 
-EXPOSE 4000
+USER $USER_NAME
+
+CMD ["jekyll", "serve", "--trace", "--host", "0.0.0.0"]
