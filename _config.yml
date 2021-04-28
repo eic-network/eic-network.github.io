@@ -23,7 +23,17 @@ defaults:
       published: true
       intro: ""
       description: ""
-      publications: ""
+      publications: 
+      - name: Publication One
+        lang: "[DE]"
+        links:
+        - name: Link One
+          url: https://spiegel.de
+      - name: Publication Two
+        lang: "[DE, EN]"
+        links:
+        - name: Link Two
+          url: https://spiegel.de
   -
     scope:
       path: ""
