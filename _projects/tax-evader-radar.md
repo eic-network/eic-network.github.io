@@ -1,17 +1,16 @@
 ---
 title: Tax Evader Radar
 description: |-
-  A huge new leak of tax haven documents has revealed an especially dirty part of the tax haven world, including forgery of documents, dummy accounts and the use of false client names. The leak consists of hundreds of thousands of pages of records of a Jersey offshore company called La Hougue (later Pantrust in Panama) that offered techniques for money laundering to its hand-picked clients.
+  In an unprecedented project, EIC network opened up its investigative work to a journalism school to jointly review and research material provided by the transparency collective Distributed Denial of Secrets (DDoS).
 
-  The Jersey Offshore leak is the latest in a succession of major leaks that have exposed why tax havens like Jersey need to be regulated and closed down. Jersey Offshore’s special contribution is that the secret company records reveal detailed techniques used to hide money, dodge tax and evade government regulators. It also reveals thousands of secret money transfers, allowing the team of journalists to follow the money.
+  Journalists, students and technologists worked together on a dataset containing almost one million documents from the Bahamas company registry.
 
-  Jersey Offshore is unique because the sources of the leak are prepared to be named and front up publicly. They had been cheated by La Hougue, set out to fight it legally and along the way gained access to the company’s extremely secret records.
+  DDoS acted as an intermediary for the source that leaked the material to the collective. Lorax Horne and Emma Best of DDoS entrusted EIC colleagues and German [Henri-Nannen-Journalistenschule](https://journalistenschule.de/) with this project.
 
-  Jersey Offshore is also about the island of Jersey, which tolerated La Hougue for decades with no effective oversight. When the sources handed over the full La Hougue records to the Jersey authorities, expecting action on the criminality, the authorities declined to take action and then refused to return the evidence. Fortunately the sources had already scanned the documents they hand over and a multi-country team of investigative journalists has been studying what they reveal. Stories published by EIC and partners will be listed below.
+  The stories published by EIC partners, which will be listed below, reveal that through all political efforts to curb harmful tax practices and the global fight against offshore tax havens, a closer look into intransparent company registries like the Bahamas still show that wealthy individuals continue hiding their assets. It also shows how the registration methods have changed over the years and that corporate tax avoidance still poses a huge challenge for regulators.
 
-  We are aware that more stories could be buried in the leaked archive, so we are also ready to share the collection of leaked source documents to media and organizations doing investigative research in the public interest. [Get in touch!](https://eic.network/#contact)
-intro: Company operated on Jersey offering forgery and money laundering services for
-  decades with impunity.
+  All data used for this research is made available for further investigation by DDoS on [their website](https://ddosecrets.com/data/north_america/). Some portion of the documents were rendered to text via optical character recognition (OCR), with mixed results. The incomplete searchable data is loaded in DDoS' native [search platform Hunter](https://hunter.ddosecrets.com/datasets/84) for further investigations or download. A crowdsource effort to complete the text capture is happening via [the new tool Xray](https://xray.ddosecrets.com/).
+intro: A collective look behind intransparent company records.
 publications:
 - lang: "[DE, EN]"
   links:
