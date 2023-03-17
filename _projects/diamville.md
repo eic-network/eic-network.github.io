@@ -22,6 +22,7 @@ publications:
   links:
   - name: Hoe Russische huurlingen de Afrikaanse diamanthandel overnemen 
     url: https://www.standaard.be/cnt/dmf20221201_98070679 
+    url: https://www.standaard.be/cnt/dmf20230226_98343424
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
