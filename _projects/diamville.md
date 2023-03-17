@@ -22,6 +22,7 @@ publications:
   links:
   - name: Hoe Russische huurlingen de Afrikaanse diamanthandel overnemen 
     url: https://www.standaard.be/cnt/dmf20221201_98070679 
+  - name: Europa legt sancties op aan Wagner-bedrijf dat diamanten invoerde naar België
     url: https://www.standaard.be/cnt/dmf20230226_98343424
   name: De Standaard
   url: https://www.standaard.be/
