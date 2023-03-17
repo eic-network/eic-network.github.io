@@ -35,6 +35,7 @@ publications:
   links:
   - name: Los mercenarios de Wagner venden diamantes de sangre de República Centroafricana a través de Facebook
     url: https://www.infolibre.es/economia/mercenarios-wagner-venden-diamantes-sangre-republica-centroafricana-traves-facebook_1_1377325.html 
+    url: https://www.infolibre.es/internacional/ue-incluye-lista-negra-empresa-wagner-vende-diamantes-sangre-destapada-infolibre-socios-eic_1_1437104.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[FR]"
