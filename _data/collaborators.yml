@@ -43,3 +43,6 @@
 - name:
   url: https://www.tamedia.ch/
   image: tamedia.svg
+- name:
+  url: https://www.ilfattoquotidiano.it/
+  image: ilfattoquotidiano.png
