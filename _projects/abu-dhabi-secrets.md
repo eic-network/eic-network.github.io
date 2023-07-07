@@ -67,7 +67,7 @@ publications:
     url: https://vg.no/i/RGnB0W
   name: VG
   url: https://www.vg.no/
-- lang: “[AR]”
+- lang: "[AR]"
   links:
   - name: كيف دفعت أبو ظبي الملايين ثمن معلومات جُمعت بطريقة غير قانونية أو من مصادر مفتوحة؟
     url: https://daraj.media/109771/
@@ -75,7 +75,7 @@ publications:
     url: https://daraj.media/109749/
   name: Daraj
   url: https://www.daraj.media/
-- lang: “[FR]”
+- lang: "[FR]"
   links:
   - name: Comment une agence à Genève a fiché un millier de personnes pour les services secrets émiratis
     url: https://www.heidi.news/explorations/abu-dhabi-secrets-un-detective-genevois-au-service-des-emirats/comment-une-agence-a-geneve-a-fiche-un-millier-de-personnes-pour-les-services-secrets-emiratis
@@ -83,7 +83,7 @@ publications:
     url: https://www.heidi.news/explorations/abu-dhabi-secrets-un-detective-genevois-au-service-des-emirats/a-geneve-les-methodes-du-roi-des-detectives-mises-a-nu-exclusif
   name: Heidi News
   url: https://www.heidi.news/
-- lang: “[IT]”
+- lang: "[IT]"
   links:
   - name: Così funziona lo spionaggio privato in Europa per conto degli Emirati
     url: https://www.editorialedomani.it/fatti/abu-dhabi-secrets-spionaggio-privato-emirati-kisjunx6
