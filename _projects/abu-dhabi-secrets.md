@@ -71,7 +71,7 @@ publications:
   links:
   - name: كيف دفعت أبو ظبي الملايين ثمن معلومات جُمعت بطريقة غير قانونية أو من مصادر مفتوحة؟
     url: https://daraj.media/109771/
-  - name: أسرار أبو ظبي : ألف أوروبي مسجّلون كـ إخوان مسلمين لدى أجهزة الأمن الإماراتيّة
+  - name: أسرار أبو ظبي  ألف أوروبي مسجّلون كـ إخوان مسلمين لدى أجهزة الأمن الإماراتيّة
     url: https://daraj.media/109749/
   name: Daraj
   url: https://www.daraj.media/
@@ -93,7 +93,7 @@ team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin)."
 team_participants: |-
   **Reporting**
 
-      Yann Philippin Mediapart), Antoine Harari Clément Fayol (Heidi.news), Kasper Goethals and Nikolas Vanhecke (De Standaard), Marc Menichini(Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Domani), Louis Coulart (Le Soir),  Muriel Kalisch, Monika Bolliger, Rafael Buschmann, Nicola Naber, Sven Becker (DER SPIEGEL), Begona Ramirez (infoLibre), Hazem Al-Amin and Ammar Al-Mamoun (Daraj), Natalia M. (EIC).
+      Yann Philippin Mediapart), Antoine Harari Clément Fayol (Heidi.news), Kasper Goethals and Nikolas Vanhecke (De Standaard), Marc Menichini(Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Domani), Louis Coulart (Le Soir), Muriel Kalisch, Monika Bolliger, Rafael Buschmann, Nicola Naber, Sven Becker (DER SPIEGEL), Begona Ramirez (infoLibre), Hazem Al-Amin and Ammar Al-Mamoun (Daraj), Natalia M. (EIC).
 
       **Project Design & Guide**
 
