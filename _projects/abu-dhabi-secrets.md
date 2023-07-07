@@ -43,6 +43,8 @@ publications:
     url: https://www.lesoir.be/524145/article/2023-07-07/abou-dhabi-secrets-160-belges-jetes-en-pature-aux-services-secrets-emiratis
   - name: Alp Services et les Emirats, l’histoire de campagnes de diffamation à plusieurs millions
     url: https://www.lesoir.be/524146/article/2023-07-07/abou-dhabi-secrets-alp-services-et-les-emirats-lhistoire-de-campagnes-de  
+  - name: Comment 160 Belges ont été livrés aux services secrets émiratis
+    url: https://www.lesoir.be/524183/article/2023-07-07/abou-dhabi-secrets-comment-160-belges-ont-ete-livres-aux-services-secrets 
   name: Le Soir
   url: https://www.lesoir.be/  
 - lang: "[ES]"
