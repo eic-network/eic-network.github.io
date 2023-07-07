@@ -15,7 +15,7 @@ publications:
   links:
   - name: Zwitserse spionnen, de Emiraten. Het lijkt een Bond film: hoe bekende Belgen onterecht op de watchlist van de emirs kwamen
     url: https://www.standaard.be/cnt/dmf20230707_93326956
-  - name: De oude spion, de emir en hun Europese lastercampagnes: Ik wilde naar Genève rijden om hen allemaal te vermoorden
+  - name: De oude spion, de emir en hun Europese lastercampagnes Ik wilde naar Genève rijden om hen allemaal te vermoorden
     url: https://www.standaard.be/cnt/DMF20230706_95804908
   name: De Standaard
   url: https://www.standaard.be/
