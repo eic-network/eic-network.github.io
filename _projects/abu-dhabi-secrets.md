@@ -93,9 +93,9 @@ team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin)."
 team_participants: |-
   **Reporting**
 
-      Yann Philippin Mediapart), Antoine Harari Clément Fayol (Heidi.news), Kasper Goethals and Nikolas Vanhecke (De Standaard), Marc Menichini(Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Domani), Louis Coulart (Le Soir), Muriel Kalisch, Monika Bolliger, Rafael Buschmann, Nicola Naber, Sven Becker (DER SPIEGEL), Begona Ramirez (infoLibre), Hazem Al-Amin and Ammar Al-Mamoun (Daraj), Natalia M. (EIC).
+  Yann Philippin Mediapart), Antoine Harari Clément Fayol (Heidi.news), Kasper Goethals and Nikolas Vanhecke (De Standaard), Marc Menichini(Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Domani), Louis Coulart (Le Soir), Muriel Kalisch, Monika Bolliger, Rafael Buschmann, Nicola Naber, Sven Becker (DER SPIEGEL), Begona Ramirez (infoLibre), Hazem Al-Amin and Ammar Al-Mamoun (Daraj), Natalia M. (EIC).
 
-      **Project Design & Guide**
+  **Project Design & Guide**
 
-      Stefan Candea
+  Stefan Candea
 ---
