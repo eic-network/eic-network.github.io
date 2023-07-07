@@ -7,13 +7,13 @@ description: Abu Dhabi Secrets reveals how the Swiss private intelligence compan
 publications:
 - lang: "[FR, EN, ES]"
   links:
- - name: Plus de 200 Français ont été fichés pour le compte des services secrets des Émirats arabes unis
+  - name: Plus de 200 Français ont été fichés pour le compte des services secrets des Émirats arabes unis
     url: https://www.mediapart.fr/journal/international/070723/plus-de-200-francais-ont-ete-fiches-pour-le-compte-des-services-secrets-des-emirats-arabes-unis
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
   links:
-  - name: Zwitserse spionnen, de Emiraten. Het lijkt een Bond film: hoe bekende Belgen onterecht op de watchlist van de emirs kwamen
+  - name: "Zwitserse spionnen, de Emiraten. Het lijkt een Bond film: hoe bekende Belgen onterecht op de watchlist van de emirs kwamen"
     url: https://www.standaard.be/cnt/dmf20230707_93326956
   - name: De oude spion, de emir en hun Europese lastercampagnes Ik wilde naar Genève rijden om hen allemaal te vermoorden
     url: https://www.standaard.be/cnt/DMF20230706_95804908
