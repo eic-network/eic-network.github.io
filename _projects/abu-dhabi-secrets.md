@@ -13,7 +13,7 @@ publications:
   url: https://www.mediapart.fr
 - lang: "[NL]"
   links:
-  - name: Zwitserse spionnen, de Emiraten … Het lijkt een Bond film: hoe bekende Belgen onterecht op de watchlist van de emirs kwamen
+  - name: Zwitserse spionnen, de Emiraten. Het lijkt een Bond film: hoe bekende Belgen onterecht op de watchlist van de emirs kwamen
     url: https://www.standaard.be/cnt/dmf20230707_93326956
   - name: De oude spion, de emir en hun Europese lastercampagnes: Ik wilde naar Genève rijden om hen allemaal te vermoorden
     url: https://www.standaard.be/cnt/DMF20230706_95804908
@@ -79,7 +79,7 @@ publications:
   links:
   - name: Comment une agence à Genève a fiché un millier de personnes pour les services secrets émiratis
     url: https://www.heidi.news/explorations/abu-dhabi-secrets-un-detective-genevois-au-service-des-emirats/comment-une-agence-a-geneve-a-fiche-un-millier-de-personnes-pour-les-services-secrets-emiratis
-  - name: A Genève, les méthodes du «roi des détectives» mises à nu
+  - name: A Genève, les méthodes du roi des détectives mises à nu
     url: https://www.heidi.news/explorations/abu-dhabi-secrets-un-detective-genevois-au-service-des-emirats/a-geneve-les-methodes-du-roi-des-detectives-mises-a-nu-exclusif
  name: Heidi News
   url: https://www.heidi.news/
