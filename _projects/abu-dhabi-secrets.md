@@ -17,7 +17,7 @@ publications:
     url: https://www.standaard.be/cnt/DMF20230706_95804908
   name: De Standaard
   url: https://www.standaard.be/
-- lang: "[FR, IT]”
+- lang: "[FR, IT]"
   links:
   - name: Une entreprise genevoise au cœur d’une vaste opération d’influence des Emirats arabes unis
     url: https://www.rts.ch/info/regions/geneve/14158973-une-entreprise-genevoise-au-cur-dune-vaste-operation-dinfluence-des-emirats-arabes-unis.html
@@ -69,7 +69,7 @@ publications:
   links:
   - name: كيف دفعت أبو ظبي الملايين ثمن معلومات جُمعت بطريقة غير قانونية أو من مصادر مفتوحة؟
     url: https://daraj.media/109771/
-  - name: “أسرار أبو ظبي” : ألف أوروبي مسجّلون كـ”إخوان مسلمين” لدى أجهزة الأمن الإماراتيّة
+  - name: أسرار أبو ظبي : ألف أوروبي مسجّلون كـ إخوان مسلمين لدى أجهزة الأمن الإماراتيّة
     url: https://daraj.media/109749/
   name: Daraj
   url: https://www.daraj.media/
