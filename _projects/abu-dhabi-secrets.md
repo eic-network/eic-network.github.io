@@ -71,6 +71,14 @@ publications:
     url: https://vg.no/i/RGnB0W
   name: VG
   url: https://www.vg.no/
+- lang: "[DK]"
+  links:
+  - name: Hazim Nada anede ikke, at han var offer for en målrettet smædekampagne
+    url: https://politiken.dk/indland/art9415902/Hazim-Nada-anede-ikke-at-han-var-offer-for-en-m%C3%A5lrettet-sm%C3%A6dekampagne
+  - name: Det er utroligt og virkelig ubehageligt at høre, at mit navn optræder. Men det overrasker mig ikke
+    url: https://politiken.dk/indland/art9420703/%C2%BBDet-er-utroligt-og-virkelig-ubehageligt-at-h%C3%B8re-at-mit-navn-optr%C3%A6der.-Men-det-overrasker-mig-ikke%C2%AB  
+  name: Politiken
+  url: https://www.politiken.dk/
 - lang: "[AR]"
   links:
   - name: كيف دفعت أبو ظبي الملايين ثمن معلومات جُمعت بطريقة غير قانونية أو من مصادر مفتوحة؟
