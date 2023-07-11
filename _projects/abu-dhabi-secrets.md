@@ -119,6 +119,10 @@ publications:
   links:
   - name: Così funziona lo spionaggio privato in Europa per conto degli Emirati
     url: https://www.editorialedomani.it/fatti/abu-dhabi-secrets-spionaggio-privato-emirati-kisjunx6
+  - name: «Ecco i lobbisti per Doha». Così è nato il “Qatargate”
+    url: https://www.editorialedomani.it/fatti/ecco-i-lobbisti-per-doha-cosi-e-nato-il-qatargate-dnp7rajx
+  - name: Politici, giornalisti e vescovi schedati per conto degli Emirati Arabi
+    url: https://www.editorialedomani.it/fatti/abu-dhabi-secrets-politici-giornalisti-e-vescovi-schedati-per-conto-degli-emirati-arabi-tfr7lzjj
   name: Domani
   url: https://www.editorialedomani.it/
 team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin)."
