@@ -28,7 +28,9 @@ publications:
   - name: Une entreprise genevoise au cœur d’une vaste opération d’influence des Emirats arabes unis
     url: https://www.rts.ch/info/regions/geneve/14158973-une-entreprise-genevoise-au-cur-dune-vaste-operation-dinfluence-des-emirats-arabes-unis.html
   - name: Gli Abu Dhabi Secrets sbarcano in Ticino
-    url: https://www.rsi.ch/news/ticino-e-grigioni-e-insubria/Gli-Abu-Dhabi-Secrets-sbarcano-in-Ticino-16379059.html  
+    url: https://www.rsi.ch/news/ticino-e-grigioni-e-insubria/Gli-Abu-Dhabi-Secrets-sbarcano-in-Ticino-16379059.html
+  - name: Des journalistes suisses impliqués dans l’opération d’influence des Emirats arabes unis
+    url: https://www.rts.ch/info/suisse/14165457-des-journalistes-suisses-impliques-dans-loperation-dinfluence-des-emirats-arabes-unis.html    
   name: Radio Television Suisse
   url: https://www.rts.ch/
 - lang: "[NL]"
