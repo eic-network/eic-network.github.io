@@ -65,6 +65,14 @@ publications:
     url: https://www.infolibre.es/economia/alp-services-vendio-inteligencia-emiratos-nombres-162-espanoles-asociados-pruebas-hermanos-musulmanes_1_1541592.html
   - name: ¿Quiénes son los Hermanos Musulmanes? Ni una Internacional islámica ni la semilla del yihadismo
     url: https://www.infolibre.es/economia/son-hermanos-musulmanes-internacional-islamica-semilla-yihadismo_1_1541041.html
+  - name: Emiratos usó en Bruselas a eurodiputados de la extrema derecha para su guerra de influencias contra Catar
+    url: https://www.infolibre.es/economia/emiratos-eurodiputados-extrema-derecha-campana-lobby-catar-bruselas_1_1544459.html
+  - name: La agencia suiza al servicio de Emiratos pagó a un experto asesor de gobiernos por señalar a radicales islámicos
+    url: https://www.infolibre.es/economia/detectives-servicio-emiratos-pagaron-prestigioso-experto-internacional-senalar-supuestos-radicales-islamicos_1_1545191.html
+  - name: Emiratos Árabes usó a Okdiario en su campaña contra los Hermanos Musulmanes
+    url: https://www.infolibre.es/economia/emiratos-utilizo-okdiario-difundir-espana-informaciones-campana-hermanos-musulmanes_1_1545062.html
+  - name: Periodistas europeos escribieron por encargo de los detectives al servicio de Emiratos
+    url: https://www.infolibre.es/economia/periodistas-franceses-suizos-escribieron-encargo-detectives-suizos-servicio-emiratos_1_1546051.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[PT]"
