@@ -12,7 +12,9 @@ publications:
   - name: Opération « Constellation » - les pieds nickelés d’Abou Dhabi à Bruxelles
     url: https://www.mediapart.fr/journal/international/090723/operation-constellation-les-pieds-nickeles-d-abou-dhabi-bruxelles
   - name: Un pilier d’Europe 1, ex de « Valeurs actuelles », dans la main des barbouzes des Émirats
-    url: https://www.mediapart.fr/journal/international/100723/un-pilier-d-europe-1-ex-de-valeurs-actuelles-dans-la-main-des-barbouzes-des-emirats     
+    url: https://www.mediapart.fr/journal/international/100723/un-pilier-d-europe-1-ex-de-valeurs-actuelles-dans-la-main-des-barbouzes-des-emirats
+  - name: ONU, Qatar, Macron - les opérations secrètes du Sheikh Matar, agent des Émirats
+    url: https://www.mediapart.fr/journal/international/130723/onu-qatar-macron-les-operations-secretes-du-sheikh-matar-agent-des-emirats     
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
