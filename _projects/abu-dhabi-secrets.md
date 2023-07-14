@@ -121,6 +121,8 @@ publications:
     url: https://www.heidi.news/explorations/abu-dhabi-secrets-un-detective-genevois-au-service-des-emirats/comment-une-agence-a-geneve-a-fiche-un-millier-de-personnes-pour-les-services-secrets-emiratis
   - name: A Genève, les méthodes du roi des détectives mises à nu
     url: https://www.heidi.news/explorations/abu-dhabi-secrets-un-detective-genevois-au-service-des-emirats/a-geneve-les-methodes-du-roi-des-detectives-mises-a-nu-exclusif
+  - name: Le détective genevois qui se vantait d’avoir influencé le Parlement européen
+    url: https://www.heidi.news/explorations/abu-dhabi-secrets-un-detective-genevois-au-service-des-emirats/le-detective-genevois-qui-se-vantait-d-avoir-influence-le-parlement-europeen
   name: Heidi News
   url: https://www.heidi.news/
 - lang: "[IT]"
