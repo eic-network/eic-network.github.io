@@ -81,6 +81,10 @@ publications:
     url: https://www.infolibre.es/economia/emiratos-utilizo-okdiario-difundir-espana-informaciones-campana-hermanos-musulmanes_1_1545062.html
   - name: Periodistas europeos escribieron por encargo de los detectives al servicio de Emiratos
     url: https://www.infolibre.es/economia/periodistas-franceses-suizos-escribieron-encargo-detectives-suizos-servicio-emiratos_1_1546051.html
+  - name: Los detectives contratados por Emiratos Árabes investigaron al corresponsal de 'El Mundo' en Egipto
+    url: https://www.infolibre.es/economia/detectives-espanoles-suizos-investigaron-corresponsal-mundo-egipto-encargo-emiratos_1_1547108.html
+  - name: La agencia de detectives Alp hizo creer a Emiratos que el yihadismo ha reemplazado a ETA en el País Vasco
+    url: https://www.infolibre.es/economia/detectives-suizos-intentaron-convencer-emiratos-terrorismo-yihadista-reemplazado-eta-pais-vasco_1_1548097.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[PT]"
