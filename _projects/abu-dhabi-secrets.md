@@ -47,6 +47,8 @@ publications:
   links:
   - name: Im Visier des Scheichs
     url: https://www.spiegel.de/ausland/schweiz-wie-privatermittler-fuer-die-vereinigten-arabischen-emirate-in-europa-politik-beeinflussten-a-a23274f9-2a23-4216-97f6-9438021f3232?d=1688724147&sara_ecid=app_upd_xDl6zCyJhGEY9I3axx5s5LM6z4xunp&sara_ref=re-so-app-sh
+  - name: How United Arab Emirates Seeks to Leverage Its Influence in Europe
+    url: https://www.spiegel.de/international/world/abu-dhabi-secrets-how-qatar-seeks-to-leverage-its-influence-in-europe-a-d0058776-2806-464d-9e0b-1fd3b6a07282
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[FR]"
