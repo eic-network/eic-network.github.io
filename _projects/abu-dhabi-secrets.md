@@ -67,6 +67,8 @@ publications:
     url: https://www.lesoir.be/524508/article/2023-07-09/abou-dhabi-secrets-les-barbouzeries-tatonnantes-des-emirats-aupres-de-lunion
   - name: Enquête sur les « journalistes amis » et les médias influencés
     url: https://www.lesoir.be/524690/article/2023-07-10/abou-dhabi-secrets-enquete-sur-les-journalistes-amis-et-les-medias-influences
+  - name: L’espion, l’étudiante prisonnière et la princesse captive
+    url: https://www.lesoir.be/525632/article/2023-07-14/abou-dhabi-secrets-lespion-letudiante-prisonniere-et-la-princesse-captive
   name: Le Soir
   url: https://www.lesoir.be/  
 - lang: "[ES]"
