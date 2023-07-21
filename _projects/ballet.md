@@ -74,6 +74,10 @@ publications:
     url: https://www.mediapart.fr/journal/international/260118/evasion-fiscale-francois-henri-pinault-pris-la-main-dans-le-sac
   - name: 'Angola: un banquier proche du pouvoir a pillé 600 millions de dollars'
     url: https://www.mediapart.fr/journal/international/020318/angola-un-banquier-proche-du-pouvoir-pille-600-millions-de-dollars
+  - name: Guerre en Ukraine - des familles d’oligarques russes échappent aux sanctions en France
+    url: https://www.mediapart.fr/journal/international/260623/guerre-en-ukraine-des-familles-d-oligarques-russes-echappent-aux-sanctions-en-france
+  - name: Living in luxury - how families of Russian oligarchs escape war sanctions in France
+    url: https://www.mediapart.fr/en/journal/international/070723/living-luxury-how-families-russian-oligarchs-escape-war-sanctions-france
   name: Mediapart
 - lang: "[HR, EN]"
   links:
@@ -178,7 +182,7 @@ team_initiators: |-
   - for the stories called Uzbek Leaks, the initiator was Yann Philippin.
   - for the Isabel do Santos stories the initiator was Micael Pereira.
   - for the FashionLeaks the initiator was Yann Philippin.
-  - for the RussianEscape the initiator was Alexandre Brutelle. 
+  - for the RussianEscape the initiator was Alexandre Brutelle (CIFAR). 
 team_participants: Haznain Kazim, John Hansen, Craig Shaw, Michael Bird, Blaz Zgaga,
   Jörg Schmitt, Sven Becker, Jürgen Dahlkampf, Yann Philippin, Martine Orange, Marine
   Turchi, Alain Lallemand, Joel Matriche, Vittorio Malagutti, Stefano Vergine, Micael
