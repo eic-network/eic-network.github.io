@@ -149,6 +149,15 @@ publications:
   - name: UK Lord paid by offshore linked to Angolan Bank Scandal
     url: https://theblacksea.eu/stories/article/en/sobrinho-boateng
   name: The Black Sea
+- lang: "[ES]"
+  links:
+  - name: Las tácticas de elusión de los oligarcas rusos cuestionan la eficacia de las sanciones europeas
+    url: https://www.infolibre.es/economia/tacticas-elusion-oligarcas-rusos-cuestionan-eficacia-sanciones-europeas_1_1532815.html
+  - name: España ha embargado yates, mansiones y cuentas de oligarcas rusos por 1.023 millones de euros
+    url: https://www.infolibre.es/economia/espana-embargado-yates-mansiones-cuentas-bancarias-oligarcas-rusos-1-023-millones-euros_1_1532691.html
+  - name: Magnates rusos sancionados maniobran en España para salvar sus bienes del embargo
+    url: https://www.infolibre.es/economia/propietario-yates-embargados-mansiones-fuera-radar_1_1532752.html
+  name: infoLibre
 team_initiators: |-
   - for the Turkish cables, initiator was Haznain Kazim.
   - for the stories on Volkswagen, the initiator is Blaz Zgaga.
@@ -158,6 +167,7 @@ team_initiators: |-
   - for the stories called Uzbek Leaks, the initiator was Yann Philippin.
   - for the Isabel do Santos stories the initiator was Micael Pereira.
   - for the FashionLeaks the initiator was Yann Philippin.
+  - for the RussianEscape the initiator was Alexandre Brutelle. 
 team_participants: Haznain Kazim, John Hansen, Craig Shaw, Michael Bird, Blaz Zgaga,
   Jörg Schmitt, Sven Becker, Jürgen Dahlkampf, Yann Philippin, Martine Orange, Marine
   Turchi, Alain Lallemand, Joel Matriche, Vittorio Malagutti, Stefano Vergine, Micael
