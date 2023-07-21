@@ -158,6 +158,17 @@ publications:
   - name: Magnates rusos sancionados maniobran en España para salvar sus bienes del embargo
     url: https://www.infolibre.es/economia/propietario-yates-embargados-mansiones-fuera-radar_1_1532752.html
   name: infoLibre
+- lang: "[IT]"
+  links:
+  - name: Ecco il tesoro italiano degli oligarchi di Putin
+    url: https://www.editorialedomani.it/fatti/tesoro-italiano-oligarchi-di-putin-ivcg1o5k
+  - name: La sentenza Ue risparmia i parenti degli oligarchi russi (anche di Prigožin)
+    url: https://www.editorialedomani.it/fatti/sentenza-ue-risparmia-parenti-oligarchi-russi-prigozin-eqjb10a9
+  - name: Il mistero della lussuosa villa di Deripaska. È sequestrata, ma si può ancora affittare
+    url: https://www.editorialedomani.it/fatti/il-mistero-della-lussuosa-villa-di-deripaska-e-sequestrata-ma-si-puo-ancora-affittare-wrl4x7or
+  - name: Salvare le ville dal sequestro. La strategia dell’oligarca di Putin
+    url: https://www.editorialedomani.it/fatti/salvare-le-ville-dal-sequestro-la-strategia-delloligarca-di-putin-ql936r0w
+  name: Domani
 team_initiators: |-
   - for the Turkish cables, initiator was Haznain Kazim.
   - for the stories on Volkswagen, the initiator is Blaz Zgaga.
