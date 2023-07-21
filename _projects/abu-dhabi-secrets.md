@@ -89,6 +89,8 @@ publications:
     url: https://www.infolibre.es/economia/detectives-espanoles-suizos-investigaron-corresponsal-mundo-egipto-encargo-emiratos_1_1547108.html
   - name: La agencia de detectives Alp hizo creer a Emiratos que el yihadismo ha reemplazado a ETA en el País Vasco
     url: https://www.infolibre.es/economia/detectives-suizos-intentaron-convencer-emiratos-terrorismo-yihadista-reemplazado-eta-pais-vasco_1_1548097.html
+  - name: Emiratos fichó a un abogado de Hollywood para la batalla mediática contra la princesa Latifa y una joven prisionera
+    url: https://www.infolibre.es/economia/emiratos-ficho-abogado-hollywood-dar-batalla-mediatica-princesa-latifa-estudiante-encarcelada_1_1550179.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[PT]"
