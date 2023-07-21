@@ -42,7 +42,9 @@ publications:
   - name: Dit schimmige bedrijf vernietigde reputaties van Europese moslims
     url: https://www.nrc.nl/nieuws/2023/07/07/dit-schimmige-bedrijf-vernietigde-met-succes-de-reputaties-van-europese-moslims-a4169074
   - name: Deskundige over Moslim­broederschap speelde dubbelspel
-    url: https://www.nrc.nl/nieuws/2023/07/09/deze-expert-over-de-moslimbroeders-speelde-dubbelspel-a4169201  
+    url: https://www.nrc.nl/nieuws/2023/07/09/deze-expert-over-de-moslimbroeders-speelde-dubbelspel-a4169201
+  - name: Een privédetective of een agressieve lastercampagne op je dak, omdat je kritiek had op de Emiraten
+    url: https://www.nrc.nl/nieuws/2023/07/14/een-privedetective-of-een-agressieve-lastercampagne-op-je-dak-omdat-je-kritiek-had-op-de-emiraten-a4169701
   name: NRC
   url: https://www.nrc.nl
 - lang: "[DE, EN]"
