@@ -25,6 +25,8 @@ publications:
     url: https://www.standaard.be/cnt/dmf20230707_93326956
   - name: De oude spion, de emir en hun Europese lastercampagnes Ik wilde naar Genève rijden om hen allemaal te vermoorden
     url: https://www.standaard.be/cnt/DMF20230706_95804908
+  - name: Topexpert over moslimextremisme speelde dubbelspel voor privéspionnen
+    url: https://www.standaard.be/cnt/dmf20230714_96766972
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR, IT]"
