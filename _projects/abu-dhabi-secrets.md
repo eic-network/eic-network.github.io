@@ -119,6 +119,8 @@ publications:
     url: https://daraj.media/109771/
   - name: أسرار أبو ظبي  ألف أوروبي مسجّلون كـ إخوان مسلمين لدى أجهزة الأمن الإماراتيّة
     url: https://daraj.media/109749/
+  - name: أسرار أبو ظبي الجاسوس والسجينة والأميرة الأسيرة
+    url: https://daraj.media/109967/
   name: Daraj
   url: https://www.daraj.media/
 - lang: "[FR]"
