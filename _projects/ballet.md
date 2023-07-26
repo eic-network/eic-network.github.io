@@ -16,6 +16,10 @@ publications:
     url: https://magazin.spiegel.de/SP/2017/44/154007257/?utm_source=spon&utm_campaign=centerpage
   - name: Gucci-Chef erhielt sein Millionengehalt von Briefkastenfirma
     url: http://www.spiegel.de/wirtschaft/unternehmen/gucci-chef-marco-bizzarri-erhielt-gehalt-von-briefkastenfirma-a-1189982.html
+  - name: Ein deutscher Rüstungskonzern und seine klebrigen Auslandsgeschäfte
+    url: https://www.spiegel.de/politik/deutschland/ein-deutscher-ruestungskonzern-und-seine-klebrigen-auslandsgeschaefte-a-3e74c70d-708c-4ae9-93e9-fbe81aae9bba
+  - name: Documents Hint at Dark Dealings at a German Defense Company
+    url: https://www.spiegel.de/international/business/hensoldt-s-headache-documents-hint-at-shady-dealings-by-prominent-german-defense-company-a-0ab0fef2-daad-4dbc-baa0-568c128e8f67
   name: Der Spiegel
 - lang: "[ES]"
   links:
@@ -183,7 +187,8 @@ team_initiators: |-
   - for the stories called Uzbek Leaks, the initiator was Yann Philippin.
   - for the Isabel do Santos stories the initiator was Micael Pereira.
   - for the FashionLeaks the initiator was Yann Philippin.
-  - for the RussianEscape the initiator was Alexandre Brutelle (CIFAR). 
+  - for the stories on Hensoldt company, the initiators are Nicola Naber and Rafafel Buschmann (2023). 
+  - for the RussianEscape the initiator was Alexandre Brutelle, CIFAR (2023). 
 team_participants: Haznain Kazim, John Hansen, Craig Shaw, Michael Bird, Blaz Zgaga,
   Jörg Schmitt, Sven Becker, Jürgen Dahlkampf, Yann Philippin, Martine Orange, Marine
   Turchi, Alain Lallemand, Joel Matriche, Vittorio Malagutti, Stefano Vergine, Micael
