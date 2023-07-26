@@ -178,6 +178,18 @@ publications:
   - name: Salvare le ville dal sequestro. La strategia dell’oligarca di Putin
     url: https://www.editorialedomani.it/fatti/salvare-le-ville-dal-sequestro-la-strategia-delloligarca-di-putin-ql936r0w
   name: Domani
+- lang: "[GR]"
+  links:
+  - name: Στα ενδότερα μιας γερμανικής βιομηχανίας όπλων
+    url: https://www.reportersunited.gr/11087/hensoldt/
+  name: Reporters United
+- lang: "[HR]"
+  links:
+  - name: International Leak Suggests Corruption in Arms Deal between an Israeli Company and Ugandan Air Force
+    url: https://www.shomrim.news/eng/the-african-job
+  - name: Israel’s Navy Advised a German Supplier on How to Snag in a Defense Ministry Contract
+    url: https://www.shomrim.news/eng/behind-the-scenes-of-the-submarine-deal
+  name: Shomrim 
 team_initiators: |-
   - for the Turkish cables, initiator was Haznain Kazim.
   - for the stories on Volkswagen, the initiator is Blaz Zgaga.
