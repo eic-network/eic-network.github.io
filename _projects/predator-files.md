@@ -3,6 +3,8 @@ title: Predator Files
 intro: How European companies supplied dictators cyber-surveillance tools for more
   than a decade.
 description: |-
+  During the last decade the Western world has encouraged and applauded the digital tools that empower democracy activism in countries under authoritarian regimes. But at the same time European companies have supplied such authoritarian regimes the digital back doors to turn any digital device into powerful spying tools against dissenters. 
+  
   Predator Files reveals that European companies have been funding and selling cyber-surveillance tools to dictators for more than a decade with the passive complicity of many European governments. The preliminary peak of surveillance excesses was most recently reached by the Intellexa Alliance - an association of several European companies through which Predator software was supplied to authoritarian states. Activists, journalists and academics have been targeted, as have European and U.S. officials.
 
   Our year long investigation run by 15 media and coordinated by European Investigative Collaborations (EIC.network) is based on hundreds of confidential documents obtained by Mediapart and Der Spiegel, analysed with the help of the Security Lab of Amnesty International.
@@ -138,5 +140,3 @@ team_participants: |-
 
     Stefan Candea
 ---
-
-During the last decade the Western world has encouraged and applauded the digital tools that empower democracy activism in countries under authoritarian regimes. But at the same time European companies have supplied such authoritarian regimes the digital back doors to turn any digital device into powerful spying tools against dissenters.
