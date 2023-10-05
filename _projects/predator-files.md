@@ -25,6 +25,8 @@ publications:
   links:
   - name: Predator Files - Wie Intellexa Despoten mit Spionageprogrammen versorgte
     url: https://www.spiegel.de/netzwelt/netzpolitik/predator-files-wie-intellexa-jahrelang-despoten-mit-spionageprogrammen-versorgte-a-0268f613-6b56-48e7-822f-0eccb85ae5c9
+  - name: European Spyware Consortium Supplied Despots and Dictators
+    url: https://www.spiegel.de/international/business/the-predator-files-european-spyware-consortium-supplied-despots-and-dictators-a-2fd8043f-c5c1-4b05-b5a6-e8f8b9949978    
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
