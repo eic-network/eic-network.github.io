@@ -63,16 +63,18 @@ publications:
   url: https://www.standaard.be/
 - lang: "[IT]"
   links:
-  - name: https://www.editorialedomani.it/fatti/cosi-il-virus-spia-della-francia-di-macron-ha-aiutato-i-dittatori-a-sorvegliare-i-cittadini-xsdaoi0f
+  - name: Così il virus spia della Francia di Macron ha aiutato i dittatori a sorvegliare i cittadini
     url: https://www.editorialedomani.it/fatti/cosi-il-virus-spia-della-francia-di-macron-ha-aiutato-i-dittatori-a-sorvegliare-i-cittadini-xsdaoi0f
   name: Domani
   url: https://www.editorialedomani.it/
 - lang: "[ES]"
   links:
-  - name: https://www.infolibre.es/economia/predator-files-grupo-franco-israeli-vendio-programas-espia-dictaduras-mundo-complicidad-europea_1_1605322.html
+  - name: Un grupo franco-israelí vendió software espía a dictaduras con la complicidad europea
     url: https://www.infolibre.es/economia/predator-files-grupo-franco-israeli-vendio-programas-espia-dictaduras-mundo-complicidad-europea_1_1605322.html
-  - name: https://www.infolibre.es/economia/filiales-grupo-eduardo-serra-compraron-nexa-equipos-interceptar-moviles-luego-vendieron-emiratos_1_1604095.html
+  - name: Dos filiales del grupo de Eduardo Serra compraron a Nexa equipos de espionaje para venderlos a Emiratos 
     url: https://www.infolibre.es/economia/filiales-grupo-eduardo-serra-compraron-nexa-equipos-interceptar-moviles-luego-vendieron-emiratos_1_1604095.html
+  - name: Nexa usó al ex jefe de gabinete de Macron como intermediario para vender software espía a los saudíes  
+    url: https://www.infolibre.es/economia/nexa-utilizo-polemico-ex-jefe-gabinete-macron-intermediario-nexa-utilizo-polemico-ex-jefe-gabinete-macron-intermediario-vender-programas-espia-arabia-saudi_1_1606018.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
@@ -83,11 +85,11 @@ publications:
   url: https://www.vg.no/
 - lang: "[IL]"
   links:
-  - name: https://www.shomrim.news/hebrew/predator-files-olmert
+  - name: חשיפה רה"מ לשעבר אהוד אולמרט עבד עם חברת הרוגלות אינטלקסה
     url: https://www.shomrim.news/hebrew/predator-files-olmert
-  - name: https://www.shomrim.news/hebrew/predator-files-dilian
+  - name: תיקי פרדטור - מיחידת העלית הטכנולוגית של צה"ל אל משטרים רודניים ולרשימה השחורה של ארה"ב
     url: https://www.shomrim.news/hebrew/predator-files-dilian
-  - name: https://www.shomrim.news/hebrew/predator-files-egypt
+  - name: תיקי פרדטור נחשפים - כך הגיעה הרוגלה הישראלית לסלולריים של מתנגדי נשיא מצרים
     url: https://www.shomrim.news/hebrew/predator-files-egypt
   name: Shomrim
   url: https://www.shomrim.news/
