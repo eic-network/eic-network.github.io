@@ -111,7 +111,7 @@ publications:
   url: https://www.woz.ch/
 - lang: "[GR]"
   links:
-  - name: https://www.reportersunited.gr/11674/predator-files/
+  - name: Ο γαλαξίας της Intellexa και η ελληνική μαύρη τρύπα
     url: https://www.reportersunited.gr/11674/predator-files/
   name: Reporters United
   url: https://www.reportersunited.gr/
