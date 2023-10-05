@@ -15,9 +15,9 @@ description: |-
 publications:
 - lang: "[FR, EN, ES]"
   links:
-  - name: 
+  - name: https://www.mediapart.fr/journal/international/051023/arabie-saoudite-la-nouvelle-affaire-macron-benalla
     url: https://www.mediapart.fr/journal/international/051023/arabie-saoudite-la-nouvelle-affaire-macron-benalla
-  - name: 
+  - name: https://www.mediapart.fr/journal/international/051023/predator-files-comment-la-france-aide-des-dictatures-espionner-leur-peuple
     url: https://www.mediapart.fr/journal/international/051023/predator-files-comment-la-france-aide-des-dictatures-espionner-leur-peuple
   name: Mediapart
   url: https://www.mediapart.fr
@@ -29,35 +29,35 @@ publications:
   url: https://www.spiegel.de/
 - lang: "[NL]"
   links:
-  - name: 
+  - name: https://www.nrc.nl/nieuws/2023/10/04/spionagesoftware-predator-gevreesd-door-activisten-wereldwijd-en-made-in-the-eu-a4176204
     url: https://www.nrc.nl/nieuws/2023/10/04/spionagesoftware-predator-gevreesd-door-activisten-wereldwijd-en-made-in-the-eu-a4176204
   name: NRC
   url: https://www.nrc.nl/
 - lang: "[PT]"
   links:
-  - name: 
+  - name: https://expresso.pt/investigacao/2023-10-05-Predator-Files-Europa-vendeu-espionagem-de-telemoveis-a-algumas-das-piores-ditaduras-do-mundo-effed3d4
     url: https://expresso.pt/investigacao/2023-10-05-Predator-Files-Europa-vendeu-espionagem-de-telemoveis-a-algumas-das-piores-ditaduras-do-mundo-effed3d4
-  - name: 
+  - name: https://expresso.pt/investigacao/2023-10-05-Predator-Files-spyware-imita-sites-portugueses-para-vigiar-angolanos-9cf017b0
     url: https://expresso.pt/investigacao/2023-10-05-Predator-Files-spyware-imita-sites-portugueses-para-vigiar-angolanos-9cf017b0
   name: Expresso
   url: https://expresso.pt/
 - lang: "[FR, EN, ES]"
   links:
-  - name: 
+  - name: https://politiken.dk/udland/art9497583/Afsl%C3%B8ring-Europ%C3%A6isk-netv%C3%A6rk-s%C3%A6lger-aggressiv-spyware-til-nogle-af-verdens-v%C3%A6rste-autokrater
     url: https://politiken.dk/udland/art9497583/Afsl%C3%B8ring-Europ%C3%A6isk-netv%C3%A6rk-s%C3%A6lger-aggressiv-spyware-til-nogle-af-verdens-v%C3%A6rste-autokrater
   name: Politiken
   url: https://politiken.dk/
 - lang: "[FR]"
   links:
-  - name: 
+  - name: https://www.lesoir.be/541516/article/2023-10-05/predator-files-lindustrie-de-la-cybersurveillance-made-ue-au-service-detats
     url: https://www.lesoir.be/541516/article/2023-10-05/predator-files-lindustrie-de-la-cybersurveillance-made-ue-au-service-detats
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
   links:
-  - name: 
+  - name: https://www.standaard.be/cnt/DMF20231004_95282674
     url: https://www.standaard.be/cnt/DMF20231004_95282674
-  - name: 
+  - name: https://www.standaard.be/cnt/dmf20231005_93207503
     url: https://www.standaard.be/cnt/dmf20231005_93207503
   name: De Standaard
   url: https://www.standaard.be/
@@ -69,25 +69,25 @@ publications:
   url: https://www.vg.no/
 - lang: "[IT]"
   links:
-  - name: 
+  - name: https://www.editorialedomani.it/fatti/cosi-il-virus-spia-della-francia-di-macron-ha-aiutato-i-dittatori-a-sorvegliare-i-cittadini-xsdaoi0f
     url: https://www.editorialedomani.it/fatti/cosi-il-virus-spia-della-francia-di-macron-ha-aiutato-i-dittatori-a-sorvegliare-i-cittadini-xsdaoi0f
   name: Domani
   url: https://www.editorialedomani.it/
 - lang: "[ES]"
   links:
-  - name: 
+  - name: https://www.infolibre.es/economia/predator-files-grupo-franco-israeli-vendio-programas-espia-dictaduras-mundo-complicidad-europea_1_1605322.html
     url: https://www.infolibre.es/economia/predator-files-grupo-franco-israeli-vendio-programas-espia-dictaduras-mundo-complicidad-europea_1_1605322.html
-  - name: 
+  - name: https://www.infolibre.es/economia/filiales-grupo-eduardo-serra-compraron-nexa-equipos-interceptar-moviles-luego-vendieron-emiratos_1_1604095.html
     url: https://www.infolibre.es/economia/filiales-grupo-eduardo-serra-compraron-nexa-equipos-interceptar-moviles-luego-vendieron-emiratos_1_1604095.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[IL]"
   links:
-  - name: 
+  - name: https://www.shomrim.news/hebrew/predator-files-olmert
     url: https://www.shomrim.news/hebrew/predator-files-olmert
-  - name: 
+  - name: https://www.shomrim.news/hebrew/predator-files-dilian
     url: https://www.shomrim.news/hebrew/predator-files-dilian
-  - name: 
+  - name: https://www.shomrim.news/hebrew/predator-files-egypt
     url: https://www.shomrim.news/hebrew/predator-files-egypt
   name: Shomrim
   url: https://www.shomrim.news/
@@ -109,15 +109,15 @@ publications:
   url: https://www.woz.ch/
 - lang: "[GR]"
   links:
-  - name: 
+  - name: https://www.reportersunited.gr/11674/predator-files/
     url: https://www.reportersunited.gr/11674/predator-files/
   name: Reporters United
   url: https://www.reportersunited.gr/
 - lang: "[AR]"
   links:
-  - name: 
+  - name: https://daraj.media/112358/
     url: https://daraj.media/112358/
-  - name: 
+  - name: https://daraj.media/112348/
     url: https://daraj.media/112348/
   name: Daraj Media
   url: https://daraj.media/
