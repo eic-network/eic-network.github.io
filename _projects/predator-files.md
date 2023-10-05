@@ -117,9 +117,9 @@ publications:
   url: https://www.reportersunited.gr/
 - lang: "[AR]"
   links:
-  - name: https://daraj.media/112358/
+  - name: كيف ساهم الإليزيه مع شركة فرنسيّة في صعود ديكتاتوريات رقميّة ضد الثورات العربيّة؟
     url: https://daraj.media/112358/
-  - name: https://daraj.media/112348/
+  - name: السعوديّة والإليزيه… صفقة برمجيات تجسُّس برعاية مرافق ماكرون
     url: https://daraj.media/112348/
   name: Daraj Media
   url: https://daraj.media/
@@ -134,7 +134,7 @@ team_initiators: "[Der Spiegel](https://www.mediapart.fr/) (Nicola Naber and Raf
 team_participants: |-
   **Reporting**
 
-    Yann Philippin, Fabrice Arfi, Justine Brabant, Jérôme Hourdeaux, Antton Rouget, Matthieu Suc Mediapart),  Rafael Buschmann, Nicola Naber, Marcel Rosenbach, Max Hoppenstedt, Sven Becker (DER SPIEGEL), Roeland Termote and Nikolas Vanhecke (De Standaard), Micael Pereira (Expresso), Stefano Vergine (Domani), Arthur Sente (Le Soir), Wilmer Heck and Marloes de Koning (NRC), Begona Ramirez (infoLibre), Carl Emil Arnfred (Politiken), Daniel Dolev (Shomrim), Jan Jirat and Lorenzo Naegeli (Die Wochenzeitung), Thodoris Chondrogiannos and Nikolas Leontopoulos (Reporters United), Sara Karam (Daraj), Joseph Menn and Michael Birnbaum (Washington Post), Natalia M. (EIC).
+    Yann Philippin, Fabrice Arfi, Justine Brabant, Jérôme Hourdeaux, Antton Rouget, Matthieu Suc Mediapart),  Rafael Buschmann, Nicola Naber, Marcel Rosenbach, Max Hoppenstedt, Sven Becker (DER SPIEGEL), Roeland Termote and Nikolas Vanhecke (De Standaard), Micael Pereira (Expresso), Stefano Vergine (Domani), Arthur Sente (Le Soir), Wilmer Heck and Marloes de Koning (NRC), Begona Ramirez (infoLibre), Carl Emil Arnfred (Politiken), Daniel Dolev (Shomrim), Jan Jirat and Lorenzo Naegeli (Die Wochenzeitung), Thodoris Chondrogiannos and Nikolas Leontopoulos (Reporters United), Alia Ibrahim, Sara Karam, Hazem Alamin, Diana Itawi, Hasan Hamade, Ammar ALMAMOUN, Diana Moukaled, Jana Barakat, Hala Nasreddine (Daraj), Joseph Menn and Michael Birnbaum (Washington Post), Natalia M. (EIC).
 
     Information Design: Simon Toupet (Mediapart)
 
