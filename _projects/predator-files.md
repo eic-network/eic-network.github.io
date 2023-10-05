@@ -15,9 +15,9 @@ description: |-
 publications:
 - lang: "[FR, EN, ES]"
   links:
-  - name: https://www.mediapart.fr/journal/international/051023/arabie-saoudite-la-nouvelle-affaire-macron-benalla
+  - name: Arabie saoudite - la nouvelle affaire Macron-Benalla
     url: https://www.mediapart.fr/journal/international/051023/arabie-saoudite-la-nouvelle-affaire-macron-benalla
-  - name: https://www.mediapart.fr/journal/international/051023/predator-files-comment-la-france-aide-des-dictatures-espionner-leur-peuple
+  - name: Predator files - comment la France a aidé des dictatures à espionner leur peuple
     url: https://www.mediapart.fr/journal/international/051023/predator-files-comment-la-france-aide-des-dictatures-espionner-leur-peuple
   name: Mediapart
   url: https://www.mediapart.fr
@@ -29,44 +29,38 @@ publications:
   url: https://www.spiegel.de/
 - lang: "[NL]"
   links:
-  - name: https://www.nrc.nl/nieuws/2023/10/04/spionagesoftware-predator-gevreesd-door-activisten-wereldwijd-en-made-in-the-eu-a4176204
+  - name: Spionagesoftware Predator - gevreesd door activisten wereldwijd en made in the EU
     url: https://www.nrc.nl/nieuws/2023/10/04/spionagesoftware-predator-gevreesd-door-activisten-wereldwijd-en-made-in-the-eu-a4176204
   name: NRC
   url: https://www.nrc.nl/
 - lang: "[PT]"
   links:
-  - name: https://expresso.pt/investigacao/2023-10-05-Predator-Files-Europa-vendeu-espionagem-de-telemoveis-a-algumas-das-piores-ditaduras-do-mundo-effed3d4
+  - name: Europa vendeu espionagem de telemóveis a algumas das piores ditaduras do mundo
     url: https://expresso.pt/investigacao/2023-10-05-Predator-Files-Europa-vendeu-espionagem-de-telemoveis-a-algumas-das-piores-ditaduras-do-mundo-effed3d4
-  - name: https://expresso.pt/investigacao/2023-10-05-Predator-Files-spyware-imita-sites-portugueses-para-vigiar-angolanos-9cf017b0
+  - name: Predator Files - spyware imita sites portugueses para vigiar angolanos
     url: https://expresso.pt/investigacao/2023-10-05-Predator-Files-spyware-imita-sites-portugueses-para-vigiar-angolanos-9cf017b0
   name: Expresso
   url: https://expresso.pt/
 - lang: "[FR, EN, ES]"
   links:
-  - name: https://politiken.dk/udland/art9497583/Afsl%C3%B8ring-Europ%C3%A6isk-netv%C3%A6rk-s%C3%A6lger-aggressiv-spyware-til-nogle-af-verdens-v%C3%A6rste-autokrater
+  - name: »Det er chokerende, det er forfærdeligt« - Hemmelighedsfuld gruppe af virksomheder afsløret i at sælge omstridt teknologi til flere regimer
     url: https://politiken.dk/udland/art9497583/Afsl%C3%B8ring-Europ%C3%A6isk-netv%C3%A6rk-s%C3%A6lger-aggressiv-spyware-til-nogle-af-verdens-v%C3%A6rste-autokrater
   name: Politiken
   url: https://politiken.dk/
 - lang: "[FR]"
   links:
-  - name: https://www.lesoir.be/541516/article/2023-10-05/predator-files-lindustrie-de-la-cybersurveillance-made-ue-au-service-detats
+  - name: Predator Files - l’industrie de la cybersurveillance « made in UE » au service d’Etats autoritaires
     url: https://www.lesoir.be/541516/article/2023-10-05/predator-files-lindustrie-de-la-cybersurveillance-made-ue-au-service-detats
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
   links:
-  - name: https://www.standaard.be/cnt/DMF20231004_95282674
+  - name: Hoe Europese bedrijven spyware leverden aan dictators
     url: https://www.standaard.be/cnt/DMF20231004_95282674
-  - name: https://www.standaard.be/cnt/dmf20231005_93207503
+  - name: Wat zijn de Predator Files?
     url: https://www.standaard.be/cnt/dmf20231005_93207503
   name: De Standaard
   url: https://www.standaard.be/
-- lang: "[NO]"
-  links:
-  - name: 
-    url: 
-  name: VG
-  url: https://www.vg.no/
 - lang: "[IT]"
   links:
   - name: https://www.editorialedomani.it/fatti/cosi-il-virus-spia-della-francia-di-macron-ha-aiutato-i-dittatori-a-sorvegliare-i-cittadini-xsdaoi0f
@@ -81,6 +75,12 @@ publications:
     url: https://www.infolibre.es/economia/filiales-grupo-eduardo-serra-compraron-nexa-equipos-interceptar-moviles-luego-vendieron-emiratos_1_1604095.html
   name: infoLibre
   url: https://www.infolibre.es/
+- lang: "[NO]"
+  links:
+  - name: 
+    url: 
+  name: VG
+  url: https://www.vg.no/
 - lang: "[IL]"
   links:
   - name: https://www.shomrim.news/hebrew/predator-files-olmert
