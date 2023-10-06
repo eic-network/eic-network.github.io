@@ -26,7 +26,11 @@ publications:
   - name: Predator Files - Wie Intellexa Despoten mit Spionageprogrammen versorgte
     url: https://www.spiegel.de/netzwelt/netzpolitik/predator-files-wie-intellexa-jahrelang-despoten-mit-spionageprogrammen-versorgte-a-0268f613-6b56-48e7-822f-0eccb85ae5c9
   - name: European Spyware Consortium Supplied Despots and Dictators
-    url: https://www.spiegel.de/international/business/the-predator-files-european-spyware-consortium-supplied-despots-and-dictators-a-2fd8043f-c5c1-4b05-b5a6-e8f8b9949978    
+    url: https://www.spiegel.de/international/business/the-predator-files-european-spyware-consortium-supplied-despots-and-dictators-a-2fd8043f-c5c1-4b05-b5a6-e8f8b9949978
+  - name: »Das Programm kann das Mikro einschalten und alle Geräusche im Raum aufzeichnen«
+    url: https://www.spiegel.de/netzwelt/netzpolitik/cyberspionage-und-digitale-ueberwachung-man-kann-sich-kaum-schuetzen-a-33ebeb75-ef20-4e77-ad12-da52b0b97a2f
+  - name: "Victims Are Completely Transparent To the Attacker"
+    url: https://www.spiegel.de/international/business/interview-with-amnesty-international-security-lab-detective-the-victims-are-completely-transparent-to-the-attacker-a-f4da57c1-70d3-4be5-863d-370b7a32dbd9?sara_ref=re-so-app-sh    
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
@@ -93,6 +97,8 @@ publications:
     url: https://www.shomrim.news/hebrew/predator-files-dilian
   - name: תיקי פרדטור נחשפים - כך הגיעה הרוגלה הישראלית לסלולריים של מתנגדי נשיא מצרים
     url: https://www.shomrim.news/hebrew/predator-files-egypt
+  - name: תיקי פרדטור - ארסנל הסייבר של נקסה ואינטלקסה נחשף
+    url: https://www.shomrim.news/hebrew/predator-files-products 
   name: Shomrim
   url: https://www.shomrim.news/
 - lang: "[DE]"
