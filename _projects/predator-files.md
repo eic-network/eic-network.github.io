@@ -151,6 +151,12 @@ publications:
     url: https://securitylab.amnesty.org/latest/2023/10/technical-deep-dive-into-intellexa-alliance-surveillance-products/
   name: Security Lab at Amnesty International
   url: https://securitylab.amnesty.org/
+- lang: "[DE]"
+  links:
+  - name: Wie die Europäische Union ihre Kontrollen aufweichte – und Deutschland half
+    url: https://fragdenstaat.de/blog/2023/10/05/wie-die-europaische-union-ihre-kontrollen-aufweichte-und-deutschland-half/
+  name: FragDenStaat 
+  url: https://fragdenstaat.de/
 team_initiators: "[Der Spiegel](https://www.mediapart.fr/) (Nicola Naber and Rafael
   Buschman) and [Mediapart]( https://www.mediapart.fr/) (Yann Philippin)"
 team_participants: |-
