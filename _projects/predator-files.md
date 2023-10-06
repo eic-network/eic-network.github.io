@@ -123,6 +123,8 @@ publications:
   links:
   - name: Ο γαλαξίας της Intellexa και η ελληνική μαύρη τρύπα
     url: https://www.reportersunited.gr/11674/predator-files/
+  - name: Η Ελλάδα στο κέντρο του γαλαξία Intellexa
+    url: https://www.reportersunited.gr/11739/predator-files-2-greece/
   name: Reporters United
   url: https://www.reportersunited.gr/
 - lang: "[AR]"
