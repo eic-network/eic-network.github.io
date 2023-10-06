@@ -19,6 +19,10 @@ publications:
     url: https://www.mediapart.fr/journal/international/051023/arabie-saoudite-la-nouvelle-affaire-macron-benalla
   - name: Predator files - comment la France a aidé des dictatures à espionner leur peuple
     url: https://www.mediapart.fr/journal/international/051023/predator-files-comment-la-france-aide-des-dictatures-espionner-leur-peuple
+  - name: Violation de l’embargo sur les armes en Libye - le contrat secret avec Haftar qui embarrasse la France
+    url: https://www.mediapart.fr/journal/international/061023/violation-de-l-embargo-sur-les-armes-en-libye-le-contrat-secret-avec-haftar-qui-embarrasse-la-franc
+  - name: Règlementation du matériel d’espionnage - la France et les lobbies debout sur les freins
+    url: https://www.mediapart.fr/journal/international/061023/reglementation-du-materiel-d-espionnage-la-france-et-les-lobbies-debout-sur-les-freins
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
