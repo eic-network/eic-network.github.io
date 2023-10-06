@@ -137,6 +137,12 @@ publications:
     url: 
   name: The Washington Post
   url: https://www.washingtonpost.com/
+- lang: "[EN]"
+  links:
+  - name: Technical deep-dive into Intellexa Alliance’s surveillance products
+    url: https://securitylab.amnesty.org/latest/2023/10/technical-deep-dive-into-intellexa-alliance-surveillance-products/
+  name: Security Lab at Amnesty International
+  url: https://securitylab.amnesty.org/
 team_initiators: "[Der Spiegel](https://www.mediapart.fr/) (Nicola Naber and Rafael
   Buschman) and [Mediapart]( https://www.mediapart.fr/) (Yann Philippin)"
 team_participants: |-
