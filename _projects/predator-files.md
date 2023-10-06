@@ -147,8 +147,8 @@ publications:
   url: https://daraj.media/
 - lang: "[EN]"
   links:
-  - name: 
-    url: 
+  - name: Meet the ‘Predator Files,’ the latest investigative project looking into spyware
+    url: https://www.washingtonpost.com/politics/2023/10/06/meet-predator-files-latest-investigative-project-looking-into-spyware/
   name: The Washington Post
   url: https://www.washingtonpost.com/
 - lang: "[EN]"
