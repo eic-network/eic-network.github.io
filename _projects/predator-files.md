@@ -83,6 +83,10 @@ publications:
     url: https://www.infolibre.es/economia/filiales-grupo-eduardo-serra-compraron-nexa-equipos-interceptar-moviles-luego-vendieron-emiratos_1_1604095.html
   - name: Nexa usó al ex jefe de gabinete de Macron como intermediario para vender software espía a los saudíes  
     url: https://www.infolibre.es/economia/nexa-utilizo-polemico-ex-jefe-gabinete-macron-intermediario-nexa-utilizo-polemico-ex-jefe-gabinete-macron-intermediario-vender-programas-espia-arabia-saudi_1_1606018.html
+  - name: Nexa vendió equipos de espionaje a las fuerzas del rebelde Haftar violando el embargo de armas a Libia  
+    url: https://www.infolibre.es/economia/nexa-vendio-equipos-espionaje-fuerzas-rebelde-haftar-violando-embargo-armas-libia_1_1606862.html
+  - name: Cómo Europa se ha convertido en un centro neurálgico del ciberespionaje mundial  
+    url: https://www.infolibre.es/economia/europa-convertido-centro-neuralgico-ciberespionaje-mundial_1_1607531.html  
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
