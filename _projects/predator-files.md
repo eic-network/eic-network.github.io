@@ -59,6 +59,8 @@ publications:
   links:
   - name: Predator Files - l’industrie de la cybersurveillance « made in UE » au service d’Etats autoritaires
     url: https://www.lesoir.be/541516/article/2023-10-05/predator-files-lindustrie-de-la-cybersurveillance-made-ue-au-service-detats
+  - name: L’efficacité d’un nouveau « frein d’urgence » européen sur les exportations à risque déjà remise en cause
+    url: https://www.lesoir.be/541817/article/2023-10-06/predator-files-lefficacite-dun-nouveau-frein-durgence-europeen-sur-les
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
