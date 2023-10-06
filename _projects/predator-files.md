@@ -51,6 +51,8 @@ publications:
   links:
   - name: »Det er chokerende, det er forfærdeligt« - Hemmelighedsfuld gruppe af virksomheder afsløret i at sælge omstridt teknologi til flere regimer
     url: https://politiken.dk/udland/art9497583/Afsl%C3%B8ring-Europ%C3%A6isk-netv%C3%A6rk-s%C3%A6lger-aggressiv-spyware-til-nogle-af-verdens-v%C3%A6rste-autokrater
+  - name: Et lyssky netværk sælger spyware til autokratiske regimer. Sådan kan de overtage kontrollen med en mobiltelefon
+    url: https://politiken.dk/udland/art9472419/Et-lyssky-netv%C3%A6rk-s%C3%A6lger-spyware-til-autokratiske-regimer.-S%C3%A5dan-kan-de-overtage-kontrollen-med-en-mobiltelefon
   name: Politiken
   url: https://politiken.dk/
 - lang: "[FR]"
