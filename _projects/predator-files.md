@@ -23,6 +23,10 @@ publications:
     url: https://www.mediapart.fr/journal/international/061023/violation-de-l-embargo-sur-les-armes-en-libye-le-contrat-secret-avec-haftar-qui-embarrasse-la-franc
   - name: Règlementation du matériel d’espionnage - la France et les lobbies debout sur les freins
     url: https://www.mediapart.fr/journal/international/061023/reglementation-du-materiel-d-espionnage-la-france-et-les-lobbies-debout-sur-les-freins
+  - name: La surveillance au service des dictatures, avec la complicité de la DGSE
+    url: https://www.mediapart.fr/journal/international/071023/la-surveillance-au-service-des-dictatures-avec-la-complicite-de-la-dgse
+  - name: L’incroyable puissance des armes de surveillance de Nexa et Intellexa
+    url: https://www.mediapart.fr/journal/international/071023/l-incroyable-puissance-des-armes-de-surveillance-de-nexa-et-intellexa    
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
@@ -79,6 +83,8 @@ publications:
   links:
   - name: Così il virus spia della Francia di Macron ha aiutato i dittatori a sorvegliare i cittadini
     url: https://www.editorialedomani.it/fatti/cosi-il-virus-spia-della-francia-di-macron-ha-aiutato-i-dittatori-a-sorvegliare-i-cittadini-xsdaoi0f
+  - name: C’è anche Zaki fra gli obiettivi dello spyware venduto dai francesi all’Egitto
+    url: https://www.editorialedomani.it/fatti/zaki-virus-spia-francesi-egitto-qsmo9awa
   name: Domani
   url: https://www.editorialedomani.it/
 - lang: "[ES]"
@@ -92,7 +98,9 @@ publications:
   - name: Nexa vendió equipos de espionaje a las fuerzas del rebelde Haftar violando el embargo de armas a Libia  
     url: https://www.infolibre.es/economia/nexa-vendio-equipos-espionaje-fuerzas-rebelde-haftar-violando-embargo-armas-libia_1_1606862.html
   - name: Cómo Europa se ha convertido en un centro neurálgico del ciberespionaje mundial  
-    url: https://www.infolibre.es/economia/europa-convertido-centro-neuralgico-ciberespionaje-mundial_1_1607531.html  
+    url: https://www.infolibre.es/economia/europa-convertido-centro-neuralgico-ciberespionaje-mundial_1_1607531.html
+  - name: Francia adjudicó a Nexa contratos por 11 millones de euros pese a ser investigada por sus ventas a dictaduras
+    url: https://www.infolibre.es/economia/nexa-lobgro-11-millones-euros-contratos-frances-pese-investigada-ventas-dictaduras_1_1607466.html    
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
