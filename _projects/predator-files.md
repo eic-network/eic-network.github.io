@@ -38,7 +38,11 @@ publications:
   - name: »Das Programm kann das Mikro einschalten und alle Geräusche im Raum aufzeichnen«
     url: https://www.spiegel.de/netzwelt/netzpolitik/cyberspionage-und-digitale-ueberwachung-man-kann-sich-kaum-schuetzen-a-33ebeb75-ef20-4e77-ad12-da52b0b97a2f
   - name: "Victims Are Completely Transparent To the Attacker"
-    url: https://www.spiegel.de/international/business/interview-with-amnesty-international-security-lab-detective-the-victims-are-completely-transparent-to-the-attacker-a-f4da57c1-70d3-4be5-863d-370b7a32dbd9?sara_ref=re-so-app-sh    
+    url: https://www.spiegel.de/international/business/interview-with-amnesty-international-security-lab-detective-the-victims-are-completely-transparent-to-the-attacker-a-f4da57c1-70d3-4be5-863d-370b7a32dbd9?sara_ref=re-so-app-sh
+  - name: »Es ist ein Deal aus der Hölle«
+    url: https://www.spiegel.de/netzwelt/netzpolitik/predator-files-politikerin-sophie-in-t-veld-warnt-vor-entfesselter-ueberwachungsindustrie-in-europa-a-e0948322-af14-4701-9e67-80fdece1c66a?sara_ref=re-so-app-sh
+  - name: "Our Democracy, Rule of Law and Fundamental Rights Are in Great Danger"
+    url: https://www.spiegel.de/international/europe/interview-with-dutch-politician-sophie-in-t-veld-on-the-predator-files-it-s-a-deal-from-hell-a-2097c0c0-f0dd-4443-87af-9dacdd3158a1?utm_source=dlvr.it&utm_medium=twitter#ref=rss       
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
@@ -100,7 +104,11 @@ publications:
   - name: Cómo Europa se ha convertido en un centro neurálgico del ciberespionaje mundial  
     url: https://www.infolibre.es/economia/europa-convertido-centro-neuralgico-ciberespionaje-mundial_1_1607531.html
   - name: Francia adjudicó a Nexa contratos por 11 millones de euros pese a ser investigada por sus ventas a dictaduras
-    url: https://www.infolibre.es/economia/nexa-lobgro-11-millones-euros-contratos-frances-pese-investigada-ventas-dictaduras_1_1607466.html    
+    url: https://www.infolibre.es/economia/nexa-lobgro-11-millones-euros-contratos-frances-pese-investigada-ventas-dictaduras_1_1607466.html
+  - name: “Damos a los gobiernos y las empresas demasiado poder para espiar”
+    url: https://www.infolibre.es/economia/sophie-in-t-veld-eurodiputada-damos-gobiernos-empresas-espiarnos_1_1608245.html
+  - name: El Gobierno español y Pegasus - el cazador cazado
+    url: https://www.infolibre.es/economia/gobierno-espanol-pegasus-cazador-cazado_1_1604286.html     
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
