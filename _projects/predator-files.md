@@ -61,6 +61,8 @@ publications:
     url: https://expresso.pt/investigacao/2023-10-05-Predator-Files-Europa-vendeu-espionagem-de-telemoveis-a-algumas-das-piores-ditaduras-do-mundo-effed3d4
   - name: Predator Files - spyware imita sites portugueses para vigiar angolanos
     url: https://expresso.pt/investigacao/2023-10-05-Predator-Files-spyware-imita-sites-portugueses-para-vigiar-angolanos-9cf017b0
+  - name: Vietname tentou aceder ao telemóvel da presidente do Parlamento Europeu, jornalistas e académicos. Como? Através do Twitter
+    url: https://expresso.pt/investigacao/2023-10-09-Predator-Files-Vietname-tentou-aceder-ao-telemovel-da-presidente-do-Parlamento-Europeu-jornalistas-e-academicos.-Como--Atraves-do-Twitter-eebfc358
   name: Expresso
   url: https://expresso.pt/
 - lang: "[FR, EN, ES]"
