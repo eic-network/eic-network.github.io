@@ -53,6 +53,8 @@ publications:
   links:
   - name: Spionagesoftware Predator - gevreesd door activisten wereldwijd en made in the EU
     url: https://www.nrc.nl/nieuws/2023/10/04/spionagesoftware-predator-gevreesd-door-activisten-wereldwijd-en-made-in-the-eu-a4176204
+  - name: ‘Roekeloze pogingen’ uit Vietnam om Amerikanen en Europeanen met spyware te besmetten
+    url: https://www.nrc.nl/nieuws/2023/10/09/roekeloze-pogingen-uit-vietnam-om-amerikanen-en-europeanen-met-spyware-te-besmetten-a4176622
   name: NRC
   url: https://www.nrc.nl/
 - lang: "[PT]"
@@ -144,7 +146,9 @@ publications:
   - name: תיקי פרדטור נחשפים - כך הגיעה הרוגלה הישראלית לסלולריים של מתנגדי נשיא מצרים
     url: https://www.shomrim.news/hebrew/predator-files-egypt
   - name: תיקי פרדטור - ארסנל הסייבר של נקסה ואינטלקסה נחשף
-    url: https://www.shomrim.news/hebrew/predator-files-products 
+    url: https://www.shomrim.news/hebrew/predator-files-products
+  - name: תיקי פרדטור - כך הפך טוויטר (X) למרחב להדבקה ברוגלה של אינטלקסה
+    url: https://www.shomrim.news/hebrew/predator-files-twitter
   name: Shomrim
   url: https://www.shomrim.news/
 - lang: "[DE]"
