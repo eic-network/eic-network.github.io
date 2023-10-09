@@ -89,6 +89,8 @@ publications:
     url: https://www.editorialedomani.it/fatti/cosi-il-virus-spia-della-francia-di-macron-ha-aiutato-i-dittatori-a-sorvegliare-i-cittadini-xsdaoi0f
   - name: C’è anche Zaki fra gli obiettivi dello spyware venduto dai francesi all’Egitto
     url: https://www.editorialedomani.it/fatti/zaki-virus-spia-francesi-egitto-qsmo9awa
+  - name: I milioni di Haftar alla Francia. Ma il governo Macron ostacola l’inchiesta sulla Libia
+    url: https://www.editorialedomani.it/fatti/prodotti-per-intercettare-venduti-alla-libia-cosi-il-governo-macron-ha-ostacolato-le-indagini-predator-files-fslc2bxf
   name: Domani
   url: https://www.editorialedomani.it/
 - lang: "[ES]"
