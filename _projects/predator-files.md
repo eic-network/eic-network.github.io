@@ -26,7 +26,9 @@ publications:
   - name: La surveillance au service des dictatures, avec la complicité de la DGSE
     url: https://www.mediapart.fr/journal/international/071023/la-surveillance-au-service-des-dictatures-avec-la-complicite-de-la-dgse
   - name: L’incroyable puissance des armes de surveillance de Nexa et Intellexa
-    url: https://www.mediapart.fr/journal/international/071023/l-incroyable-puissance-des-armes-de-surveillance-de-nexa-et-intellexa    
+    url: https://www.mediapart.fr/journal/international/071023/l-incroyable-puissance-des-armes-de-surveillance-de-nexa-et-intellexa
+  - name: 
+    url: 
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
@@ -42,7 +44,9 @@ publications:
   - name: »Es ist ein Deal aus der Hölle«
     url: https://www.spiegel.de/netzwelt/netzpolitik/predator-files-politikerin-sophie-in-t-veld-warnt-vor-entfesselter-ueberwachungsindustrie-in-europa-a-e0948322-af14-4701-9e67-80fdece1c66a?sara_ref=re-so-app-sh
   - name: "Our Democracy, Rule of Law and Fundamental Rights Are in Great Danger"
-    url: https://www.spiegel.de/international/europe/interview-with-dutch-politician-sophie-in-t-veld-on-the-predator-files-it-s-a-deal-from-hell-a-2097c0c0-f0dd-4443-87af-9dacdd3158a1?utm_source=dlvr.it&utm_medium=twitter#ref=rss       
+    url: https://www.spiegel.de/international/europe/interview-with-dutch-politician-sophie-in-t-veld-on-the-predator-files-it-s-a-deal-from-hell-a-2097c0c0-f0dd-4443-87af-9dacdd3158a1?utm_source=dlvr.it&utm_medium=twitter#ref=rss
+  - name: Wie Vietnam eine deutsche Botschafterin zu hacken versuchte
+    url: https://www.spiegel.de/netzwelt/netzpolitik/predatorfiles-wie-vietnam-eine-deutsche-botschafterin-zu-hacken-versuchte-a-1d87a7d4-bb5c-4fa4-8824-c63d499be2f5
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
@@ -73,6 +77,8 @@ publications:
     url: https://www.lesoir.be/541516/article/2023-10-05/predator-files-lindustrie-de-la-cybersurveillance-made-ue-au-service-detats
   - name: L’efficacité d’un nouveau « frein d’urgence » européen sur les exportations à risque déjà remise en cause
     url: https://www.lesoir.be/541817/article/2023-10-06/predator-files-lefficacite-dun-nouveau-frein-durgence-europeen-sur-les
+  - name: Les manœuvres du Vietnam pour espionner l’Europe, dont la présidente du Parlement européen
+    url: https://www.lesoir.be/542259/article/2023-10-09/predator-files-les-manoeuvres-du-vietnam-pour-espionner-leurope-dont-la
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
@@ -81,6 +87,8 @@ publications:
     url: https://www.standaard.be/cnt/DMF20231004_95282674
   - name: Wat zijn de Predator Files?
     url: https://www.standaard.be/cnt/dmf20231005_93207503
+  - name: Hackingaanval op de EU heeft Vietnamese vingerafdrukken
+    url: https://www.standaard.be/cnt/dmf20231009_93480808
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[IT]"
@@ -110,7 +118,11 @@ publications:
   - name: “Damos a los gobiernos y las empresas demasiado poder para espiar”
     url: https://www.infolibre.es/economia/sophie-in-t-veld-eurodiputada-damos-gobiernos-empresas-espiarnos_1_1608245.html
   - name: El Gobierno español y Pegasus - el cazador cazado
-    url: https://www.infolibre.es/economia/gobierno-espanol-pegasus-cazador-cazado_1_1604286.html     
+    url: https://www.infolibre.es/economia/gobierno-espanol-pegasus-cazador-cazado_1_1604286.html
+  - name: Vietnam intentó infectar con Predator a altos funcionarios de la UE, congresistas de EEUU y un académico español
+    url: https://www.infolibre.es/economia/vietnam-infectar-predator-altos-funcionarios-ue-congresistas-eeuu-academico-espanol_1_1608853.html
+  - name: Una empresa española con subvenciones del Gobierno vendió un programa espía a la dictadura vietnamita
+    url: https://www.infolibre.es/economia/empresa-espanola-subvencionada-gobierno-vendio-programa-espia-dictadura-vietnam_1_1604248.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
@@ -167,12 +179,16 @@ publications:
   links:
   - name: Meet the ‘Predator Files,’ the latest investigative project looking into spyware
     url: https://www.washingtonpost.com/politics/2023/10/06/meet-predator-files-latest-investigative-project-looking-into-spyware/
+  - name: Vietnam tried to hack U.S. officials, CNN with posts on X, probe finds
+    url: https://www.washingtonpost.com/technology/2023/10/09/vietnam-predator-hack-investigation/
   name: The Washington Post
   url: https://www.washingtonpost.com/
 - lang: "[EN]"
   links:
   - name: Technical deep-dive into Intellexa Alliance’s surveillance products
     url: https://securitylab.amnesty.org/latest/2023/10/technical-deep-dive-into-intellexa-alliance-surveillance-products/
+  - name: 
+    url: 
   name: Security Lab at Amnesty International
   url: https://securitylab.amnesty.org/
 - lang: "[DE]"
