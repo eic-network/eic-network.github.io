@@ -27,8 +27,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/071023/la-surveillance-au-service-des-dictatures-avec-la-complicite-de-la-dgse
   - name: L’incroyable puissance des armes de surveillance de Nexa et Intellexa
     url: https://www.mediapart.fr/journal/international/071023/l-incroyable-puissance-des-armes-de-surveillance-de-nexa-et-intellexa
-  - name: 
-    url: 
+  - name: Des élus français, européens et américains visés par le logiciel espion
+    url: https://www.mediapart.fr/journal/international/091023/predator-files-des-elus-francais-europeens-et-americains-vises-par-le-logiciel-espion
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
@@ -187,8 +187,8 @@ publications:
   links:
   - name: Technical deep-dive into Intellexa Alliance’s surveillance products
     url: https://securitylab.amnesty.org/latest/2023/10/technical-deep-dive-into-intellexa-alliance-surveillance-products/
-  - name: 
-    url: 
+  - name: Caught in the Net
+    url: https://www.amnesty.org/en/documents/act10/7245/2023/en/
   name: Security Lab at Amnesty International
   url: https://securitylab.amnesty.org/
 - lang: "[DE]"
