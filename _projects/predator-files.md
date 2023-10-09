@@ -101,6 +101,8 @@ publications:
     url: https://www.editorialedomani.it/fatti/zaki-virus-spia-francesi-egitto-qsmo9awa
   - name: I milioni di Haftar alla Francia. Ma il governo Macron ostacola l’inchiesta sulla Libia
     url: https://www.editorialedomani.it/fatti/prodotti-per-intercettare-venduti-alla-libia-cosi-il-governo-macron-ha-ostacolato-le-indagini-predator-files-fslc2bxf
+  - name: Così il Vietnam ha usato lo spyware venduto dai francesi per attaccare le istituzioni europee
+    url: https://www.editorialedomani.it/fatti/spyware-vietnam-europa-stati-uniti-predator-files-francia-macron-cnuj2jyx
   name: Domani
   url: https://www.editorialedomani.it/
 - lang: "[ES]"
