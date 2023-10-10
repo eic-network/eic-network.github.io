@@ -109,6 +109,8 @@ publications:
     url: https://www.standaard.be/cnt/dmf20231005_93207503
   - name: Hackingaanval op de EU heeft Vietnamese vingerafdrukken
     url: https://www.standaard.be/cnt/dmf20231009_93480808
+  - name: Europa is verbaasd dat zijn spyware door dictators wordt misbruikt
+    url: https://www.standaard.be/cnt/dmf20231006_95249867
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[IT]"
