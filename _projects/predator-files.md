@@ -29,6 +29,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/071023/l-incroyable-puissance-des-armes-de-surveillance-de-nexa-et-intellexa
   - name: Des élus français, européens et américains visés par le logiciel espion
     url: https://www.mediapart.fr/journal/international/091023/predator-files-des-elus-francais-europeens-et-americains-vises-par-le-logiciel-espion
+  - name: L’enquête barbouzarde de Nexa sur le journaliste Antoine Champagne
+    url: https://www.mediapart.fr/journal/international/101023/predator-files-l-enquete-barbouzarde-de-nexa-sur-le-journaliste-antoine-champagne
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
@@ -55,6 +57,8 @@ publications:
     url: https://www.nrc.nl/nieuws/2023/10/04/spionagesoftware-predator-gevreesd-door-activisten-wereldwijd-en-made-in-the-eu-a4176204
   - name: ‘Roekeloze pogingen’ uit Vietnam om Amerikanen en Europeanen met spyware te besmetten
     url: https://www.nrc.nl/nieuws/2023/10/09/roekeloze-pogingen-uit-vietnam-om-amerikanen-en-europeanen-met-spyware-te-besmetten-a4176622
+  - name: Sophie in ’t Veld - ‘Europa is een soort eldorado voor de spyware-industrie’
+    url: https://www.nrc.nl/nieuws/2023/10/06/sophie-in-t-veld-europa-is-een-soort-el-dorado-voor-de-spyware-industrie-a4176390
   name: NRC
   url: https://www.nrc.nl/
 - lang: "[PT]"
@@ -73,6 +77,18 @@ publications:
     url: https://politiken.dk/udland/art9497583/Afsl%C3%B8ring-Europ%C3%A6isk-netv%C3%A6rk-s%C3%A6lger-aggressiv-spyware-til-nogle-af-verdens-v%C3%A6rste-autokrater
   - name: Et lyssky netværk sælger spyware til autokratiske regimer. Sådan kan de overtage kontrollen med en mobiltelefon
     url: https://politiken.dk/udland/art9472419/Et-lyssky-netv%C3%A6rk-s%C3%A6lger-spyware-til-autokratiske-regimer.-S%C3%A5dan-kan-de-overtage-kontrollen-med-en-mobiltelefon
+  - name: Stor kortlægning afdækker hemmelighedsfuldt overvågningsnetværk midt i Europa
+    url: https://politiken.dk/udland/art9499229/Stor-kortl%C3%A6gning-afd%C3%A6kker-hemmelighedsfuldt-overv%C3%A5gningsnetv%C3%A6rk-midt-i-Europa
+  - name: Milliardaftaler med pudsige navne efter slik og søde sager handler i virkeligheden om salg af spionudstyr som beskidt diplomatisk våben
+    url: https://politiken.dk/udland/art9512873/Milliardaftaler-med-pudsige-navne-efter-slik-og-s%C3%B8de-sager-handler-i-virkeligheden-om-salg-af-spionudstyr-som-beskidt-diplomatisk-v%C3%A5ben
+  - name: Troede du, at WhatsApp-beskeder er umulige for fremmede at læse? Så må du tro om
+    url: https://politiken.dk/udland/art9497590/Troede-du-at-WhatsApp-beskeder-er-umulige-for-fremmede-at-l%C3%A6se-S%C3%A5-m%C3%A5-du-tro-om
+  - name: Hun har brugt et år på at undersøge spyware i Europa - Resultatet er opsigtsvækkende og »virkeligt bekymrende«
+    url: https://politiken.dk/udland/art9497597/Resultatet-er-opsigtsv%C3%A6kkende-og-%C2%BBvirkeligt-bekymrende%C2%AB
+  - name: Navnet var Joseph, og hele operationen havde kodenavnet 'Havtaske'- Sådan forsøgte Vietnam at hacke Europa
+    url: https://politiken.dk/udland/art9535105/S%C3%A5dan-fors%C3%B8gte-Vietnam-at-hacke-Europa
+  - name: Jojje Olsson ved ikke, om han bliver aflyttet. Nu bringer han en advarsel
+    url: https://politiken.dk/udland/art9561859/Jojje-Olsson-ved-ikke-om-han-bliver-aflyttet.-Nu-bringer-han-en-advarsel
   name: Politiken
   url: https://politiken.dk/
 - lang: "[FR]"
