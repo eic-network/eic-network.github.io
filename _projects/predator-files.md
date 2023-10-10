@@ -165,6 +165,12 @@ publications:
     url: https://www.woz.ch/!PJVYWJNHCGBK
   - name: Die Predator Files - Dossier
     url: www.woz.ch/predatorfiles
+  - name: Ein Trojaner gefällig? Oder gleich ein ganzer Überwachungsvan?
+    url:  https://www.woz.ch/2340/das-intellexa-sortiment/ein-trojaner-gefaellig-oder-gleich-ein-ganzer-ueberwachungsvan
+  - name: «Man kann sich kaum schützen»
+    url:  https://www.woz.ch/2340/amnesty-international-warnt-vor-predator/man-kann-sich-kaum-schuetzen
+  - name: Predator in Vietnam - Am Haken
+    url:  https://www.woz.ch/2341/predator-in-vietnam/am-haken
   name: Die Wochenzeitung
   url: https://www.woz.ch/
 - lang: "[GR]"
