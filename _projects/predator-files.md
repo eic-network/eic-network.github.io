@@ -31,6 +31,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/091023/predator-files-des-elus-francais-europeens-et-americains-vises-par-le-logiciel-espion
   - name: L’enquête barbouzarde de Nexa sur le journaliste Antoine Champagne
     url: https://www.mediapart.fr/journal/international/101023/predator-files-l-enquete-barbouzarde-de-nexa-sur-le-journaliste-antoine-champagne
+  - name: Les réponses floues et fausses du ministre Jean-Noël Barrot
+    url: https://www.mediapart.fr/journal/international/101023/predator-files-les-reponses-floues-et-fausses-du-ministre-jean-noel-barrot
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
