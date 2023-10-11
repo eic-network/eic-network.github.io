@@ -33,6 +33,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/101023/predator-files-l-enquete-barbouzarde-de-nexa-sur-le-journaliste-antoine-champagne
   - name: Les réponses floues et fausses du ministre Jean-Noël Barrot
     url: https://www.mediapart.fr/journal/international/101023/predator-files-les-reponses-floues-et-fausses-du-ministre-jean-noel-barrot
+  - name: Le pouvoir sarkozyste a fait livrer un système de surveillance de masse au Qatar
+    url: https://www.mediapart.fr/journal/international/111023/le-pouvoir-sarkozyste-fait-livrer-un-systeme-de-surveillance-de-masse-au-qatar
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
@@ -51,6 +53,8 @@ publications:
     url: https://www.spiegel.de/international/europe/interview-with-dutch-politician-sophie-in-t-veld-on-the-predator-files-it-s-a-deal-from-hell-a-2097c0c0-f0dd-4443-87af-9dacdd3158a1?utm_source=dlvr.it&utm_medium=twitter#ref=rss
   - name: Wie Vietnam eine deutsche Botschafterin zu hacken versuchte
     url: https://www.spiegel.de/netzwelt/netzpolitik/predatorfiles-wie-vietnam-eine-deutsche-botschafterin-zu-hacken-versuchte-a-1d87a7d4-bb5c-4fa4-8824-c63d499be2f5
+  - name: Ampelpolitiker fordern strengere Regeln für Spionagesoftware
+    url: https://www.spiegel.de/netzwelt/netzpolitik/predator-files-enthuellungen-ampel-politiker-fordern-strengere-regeln-fuer-spionagesoftware-a-cc9096c6-da10-49c1-a127-d477e48157cb
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
