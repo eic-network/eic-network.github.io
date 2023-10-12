@@ -11,7 +11,7 @@ description: |-
 
   Besides Mediapart and Der Spiegel, the media participating in the project are NRC, Politiken, Expresso, Le Soir, De Standaard, VG, infolibre and Domani - all members of the EIC.network - who have collaborated with Shomrim (Israel), Die Wochenzeitung (Switzerland), Reporters United (Greece), Daraj Media (Lebanon) and the Washington Post (U.S.).
 
-  Stay tuned PredatorFiles partners will publish various stories during the days to come.
+  #PredatorFiles partners started publishing stories during October 2023.
 publications:
 - lang: "[FR, EN, ES]"
   links:
