@@ -35,6 +35,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/101023/predator-files-les-reponses-floues-et-fausses-du-ministre-jean-noel-barrot
   - name: Le pouvoir sarkozyste a fait livrer un système de surveillance de masse au Qatar
     url: https://www.mediapart.fr/journal/international/111023/le-pouvoir-sarkozyste-fait-livrer-un-systeme-de-surveillance-de-masse-au-qatar
+  - name: 12 OCT 2023 Le logiciel espion en roue libre à Madagascar
+    url: https://www.mediapart.fr/journal/international/121023/predator-files-le-logiciel-espion-en-roue-libre-madagascar 
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
@@ -153,6 +155,8 @@ publications:
     url: https://www.infolibre.es/economia/vietnam-infectar-predator-altos-funcionarios-ue-congresistas-eeuu-academico-espanol_1_1608853.html
   - name: Una empresa española con subvenciones del Gobierno vendió un programa espía a la dictadura vietnamita
     url: https://www.infolibre.es/economia/empresa-espanola-subvencionada-gobierno-vendio-programa-espia-dictadura-vietnam_1_1604248.html
+  - name: 12 OCT 2023 Operación Loco - Nexa utilizó una valija diplomática para exportar sin licencia equipos de espionaje a Madagascar
+    url: https://www.infolibre.es/economia/operacion-loco-nexa-llevo-material-espionaje-maleta-embajada-madagascar-exportar-licencia_1_1611510.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
@@ -195,6 +199,8 @@ publications:
     url:  https://www.woz.ch/2340/amnesty-international-warnt-vor-predator/man-kann-sich-kaum-schuetzen
   - name: Predator in Vietnam - Am Haken
     url:  https://www.woz.ch/2341/predator-in-vietnam/am-haken
+  - name: 12 OCT 2023 Operation «Loco» in Madagaskar
+    url: https://www.woz.ch/2341/predator-files/operation-loco-in-madagaskar/!J8BRGC2WK6YB 
   name: Die Wochenzeitung
   url: https://www.woz.ch/
 - lang: "[GR]"
@@ -203,6 +209,8 @@ publications:
     url: https://www.reportersunited.gr/11674/predator-files/
   - name: Η Ελλάδα στο κέντρο του γαλαξία Intellexa
     url: https://www.reportersunited.gr/11739/predator-files-2-greece/
+  - name: 12 OCT 2023 Επιχείρηση Μαδαγασκάρη - Η Αθήνα εξάγει Predator, το Παρίσι ερευνά τους εξαγωγείς του
+    url: https://www.reportersunited.gr/11799/madagaskari-predator/
   name: Reporters United
   url: https://www.reportersunited.gr/
 - lang: "[AR]"
