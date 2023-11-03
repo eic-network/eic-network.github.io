@@ -36,7 +36,9 @@ publications:
   - name: Le pouvoir sarkozyste a fait livrer un système de surveillance de masse au Qatar
     url: https://www.mediapart.fr/journal/international/111023/le-pouvoir-sarkozyste-fait-livrer-un-systeme-de-surveillance-de-masse-au-qatar
   - name: 12 OCT 2023 Le logiciel espion en roue libre à Madagascar
-    url: https://www.mediapart.fr/journal/international/121023/predator-files-le-logiciel-espion-en-roue-libre-madagascar 
+    url: https://www.mediapart.fr/journal/international/121023/predator-files-le-logiciel-espion-en-roue-libre-madagascar
+  - name: 03 NOV 2023 Les SMS qui embarrassent le bras droit du premier ministre grec
+    url: https://www.mediapart.fr/journal/international/031123/predator-files-les-sms-qui-embarrassent-le-bras-droit-du-premier-ministre-grec 
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
@@ -57,6 +59,8 @@ publications:
     url: https://www.spiegel.de/netzwelt/netzpolitik/predatorfiles-wie-vietnam-eine-deutsche-botschafterin-zu-hacken-versuchte-a-1d87a7d4-bb5c-4fa4-8824-c63d499be2f5
   - name: Ampelpolitiker fordern strengere Regeln für Spionagesoftware
     url: https://www.spiegel.de/netzwelt/netzpolitik/predator-files-enthuellungen-ampel-politiker-fordern-strengere-regeln-fuer-spionagesoftware-a-cc9096c6-da10-49c1-a127-d477e48157cb
+  - name: 03 NOV 2023 Spionage per Dankeskarte
+    url: https://www.spiegel.de/netzwelt/netzpolitik/predator-files-spionage-per-dankeskarte-a-b83646d6-dbd4-4cda-a086-84cc85888957?sara_ref=re-so-app-sh
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
@@ -107,6 +111,8 @@ publications:
     url: https://www.lesoir.be/541817/article/2023-10-06/predator-files-lefficacite-dun-nouveau-frein-durgence-europeen-sur-les
   - name: Les manœuvres du Vietnam pour espionner l’Europe, dont la présidente du Parlement européen
     url: https://www.lesoir.be/542259/article/2023-10-09/predator-files-les-manoeuvres-du-vietnam-pour-espionner-leurope-dont-la
+  - name: 03 NOV Ces SMS qui apportent de l’eau au moulin du « Watergate grec »
+    url: https://www.lesoir.be/547229/article/2023-11-03/predator-files-ces-sms-qui-apportent-de-leau-au-moulin-du-watergate-grec
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
@@ -131,6 +137,8 @@ publications:
     url: https://www.editorialedomani.it/fatti/prodotti-per-intercettare-venduti-alla-libia-cosi-il-governo-macron-ha-ostacolato-le-indagini-predator-files-fslc2bxf
   - name: Così il Vietnam ha usato lo spyware venduto dai francesi per attaccare le istituzioni europee
     url: https://www.editorialedomani.it/fatti/spyware-vietnam-europa-stati-uniti-predator-files-francia-macron-cnuj2jyx
+  - name: 03 NOV 2023 Lo spyware per spiare i politici in Grecia inviato dal numero del nipote del premier Mitsotakis
+    url: https://www.editorialedomani.it/fatti/predator-spyware-grecia-scandalo-spionaggio-mitsotakis-nipote-dimitradis-n5i9qe4q
   name: Domani
   url: https://www.editorialedomani.it/
 - lang: "[ES]"
@@ -157,6 +165,8 @@ publications:
     url: https://www.infolibre.es/economia/empresa-espanola-subvencionada-gobierno-vendio-programa-espia-dictadura-vietnam_1_1604248.html
   - name: 12 OCT 2023 Operación Loco - Nexa utilizó una valija diplomática para exportar sin licencia equipos de espionaje a Madagascar
     url: https://www.infolibre.es/economia/operacion-loco-nexa-llevo-material-espionaje-maleta-embajada-madagascar-exportar-licencia_1_1611510.html
+  - name: 03 NOV 2023 El número del exjefe de los espías griegos se usó para inyectar Predator en móviles de políticos, jueces y policías
+    url: https://www.infolibre.es/economia/numero-telefono-exjefe-espias-griegos-inyectar-predator-moviles-politicos-jueces-periodistas_1_1631514.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
@@ -211,6 +221,8 @@ publications:
     url: https://www.reportersunited.gr/11739/predator-files-2-greece/
   - name: 12 OCT 2023 Επιχείρηση Μαδαγασκάρη - Η Αθήνα εξάγει Predator, το Παρίσι ερευνά τους εξαγωγείς του
     url: https://www.reportersunited.gr/11799/madagaskari-predator/
+  - name: 03 NOV 2023 Από τον αριθμό του Γρηγόρη Δημητριάδη, με αγάπη
+    url: https://www.reportersunited.gr/11872/predator-files-dimitriadis/
   name: Reporters United
   url: https://www.reportersunited.gr/
 - lang: "[AR]"
