@@ -171,8 +171,8 @@ publications:
   url: https://www.infolibre.es/
 - lang: "[NO]"
   links:
-  - name: 
-    url: 
+  - name: Blir overvåket etter mobilhack
+    url: https://www.vg.no/nyheter/utenriks/i/4owO59/blir-overvaaket-etter-mobilhack
   name: VG
   url: https://www.vg.no/
 - lang: "[IL]"
