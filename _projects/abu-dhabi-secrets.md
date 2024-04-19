@@ -16,7 +16,9 @@ publications:
   - name: ONU, Qatar, Macron - les opérations secrètes du Sheikh Matar, agent des Émirats
     url: https://www.mediapart.fr/journal/international/130723/onu-qatar-macron-les-operations-secretes-du-sheikh-matar-agent-des-emirats
   - name: L’espion, la prisonnière et la princesse captive
-    url: https://www.mediapart.fr/journal/international/140723/abu-dhabi-secrets-l-espion-la-prisonniere-et-la-princesse-captive     
+    url: https://www.mediapart.fr/journal/international/140723/abu-dhabi-secrets-l-espion-la-prisonniere-et-la-princesse-captive
+  - name: Les barbouzes des Émirats visés par les justices française et suisse 
+    url: https://www.mediapart.fr/journal/international/150424/abu-dhabi-secrets-les-barbouzes-des-emirats-vises-par-les-justices-francaise-et-suisse
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
@@ -27,6 +29,8 @@ publications:
     url: https://www.standaard.be/cnt/DMF20230706_95804908
   - name: Topexpert over moslimextremisme speelde dubbelspel voor privéspionnen
     url: https://www.standaard.be/cnt/dmf20230714_96766972
+  - name: Zakia Khattabi dient klacht in tegen Zwitserse privéspionnen uit Abu Dhabi Secrets-onderzoek
+    url: https://www.standaard.be/cnt/dmf20240415_93375430
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR, IT]"
@@ -36,7 +40,9 @@ publications:
   - name: Gli Abu Dhabi Secrets sbarcano in Ticino
     url: https://www.rsi.ch/news/ticino-e-grigioni-e-insubria/Gli-Abu-Dhabi-Secrets-sbarcano-in-Ticino-16379059.html
   - name: Des journalistes suisses impliqués dans l’opération d’influence des Emirats arabes unis
-    url: https://www.rts.ch/info/suisse/14165457-des-journalistes-suisses-impliques-dans-loperation-dinfluence-des-emirats-arabes-unis.html    
+    url: https://www.rts.ch/info/suisse/14165457-des-journalistes-suisses-impliques-dans-loperation-dinfluence-des-emirats-arabes-unis.html
+  - name: La justice fédérale enquête sur l'officine genevoise Alp Services
+    url: https://www.rts.ch/info/regions/geneve/2024/article/la-justice-federale-enquete-sur-l-officine-genevoise-alp-services-28469721.html
   name: Radio Television Suisse
   url: https://www.rts.ch/
 - lang: "[NL]"
@@ -47,6 +53,8 @@ publications:
     url: https://www.nrc.nl/nieuws/2023/07/09/deze-expert-over-de-moslimbroeders-speelde-dubbelspel-a4169201
   - name: Een privédetective of een agressieve lastercampagne op je dak, omdat je kritiek had op de Emiraten
     url: https://www.nrc.nl/nieuws/2023/07/14/een-privedetective-of-een-agressieve-lastercampagne-op-je-dak-omdat-je-kritiek-had-op-de-emiraten-a4169701
+  - name: Justitie onderzoekt Zwitsers lobbykantoor dat de reputaties van ruim duizend Europese moslims probeerde te vernietigen
+    url: https://www.nrc.nl/nieuws/2024/04/15/justitie-onderzoekt-zwitsers-lobbykantoor-voor-lastercampagnes-tegen-moslims-a4196084
   name: NRC
   url: https://www.nrc.nl
 - lang: "[DE, EN]"
@@ -71,6 +79,8 @@ publications:
     url: https://www.lesoir.be/524690/article/2023-07-10/abou-dhabi-secrets-enquete-sur-les-journalistes-amis-et-les-medias-influences
   - name: L’espion, l’étudiante prisonnière et la princesse captive
     url: https://www.lesoir.be/525632/article/2023-07-14/abou-dhabi-secrets-lespion-letudiante-prisonniere-et-la-princesse-captive
+  - name: Zakia Khattabi a porté plainte, deux enquêtes sont ouvertes
+    url: https://www.lesoir.be/581109/article/2024-04-15/abou-dhabi-secrets-zakia-khattabi-porte-plainte-deux-enquetes-sont-ouvertes
   name: Le Soir
   url: https://www.lesoir.be/  
 - lang: "[ES]"
@@ -95,6 +105,8 @@ publications:
     url: https://www.infolibre.es/economia/detectives-suizos-intentaron-convencer-emiratos-terrorismo-yihadista-reemplazado-eta-pais-vasco_1_1548097.html
   - name: Emiratos fichó a un abogado de Hollywood para la batalla mediática contra la princesa Latifa y una joven prisionera
     url: https://www.infolibre.es/economia/emiratos-ficho-abogado-hollywood-dar-batalla-mediatica-princesa-latifa-estudiante-encarcelada_1_1550179.html
+  - name: Francia y Suiza investigan a la agencia de detectives cuyo espionaje ilegal desvelaron los 'Abu Dhabi Secrets'
+    url: https://www.infolibre.es/economia/francia-suiza-eeuu-investigan-agencia-detectives-cuyo-espionaje-desvelaron-abu-dhabi-secrets_1_1766017.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[PT]"
@@ -145,6 +157,8 @@ publications:
     url: https://www.editorialedomani.it/fatti/ecco-i-lobbisti-per-doha-cosi-e-nato-il-qatargate-dnp7rajx
   - name: Politici, giornalisti e vescovi schedati per conto degli Emirati Arabi
     url: https://www.editorialedomani.it/fatti/abu-dhabi-secrets-politici-giornalisti-e-vescovi-schedati-per-conto-degli-emirati-arabi-tfr7lzjj
+  - name: Abu Dhabi Secrets, dopo gli scoop indagano i magistrati di Francia e Svizzera
+    url: https://www.editorialedomani.it/fatti/abu-dhabi-secrets-indagini-francia-svizzera-caso-alp-services-teeq9l12
   name: Domani
   url: https://www.editorialedomani.it/
 team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin)."
