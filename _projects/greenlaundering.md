@@ -1,9 +1,7 @@
 ---
-title: Abu Dhabi Secrets
-intro: How a Swiss company spied across Europe on behalf of the UAE state.
-description: Abu Dhabi Secrets reveals how the Swiss private intelligence company Alp Services has been contracted by the UAE government to spy on citizens of 18 
-  countries in Europe and beyond. Alp Services has sent to the UAE intelligence services the names of more than 1000 individuals and 400 organizations in 18 European 
-  countries, labelling them as part of the Muslim Brotherhood network in Europe.
+title: GreenLaundering 
+intro: Banks are investing billions in some of the world's biggest carbon emitters using environmentally friendly labels.
+description: More than four thousands funds in Europe invest 87 billions euros in the 200 most polluting companies. Such investments are being marketed as green under a faulty EU’s Sustainable Finance Disclosure Regulation (SFDR). 
 publications:
 - lang: "[FR, EN, ES]"
   links:
