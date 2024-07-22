@@ -60,5 +60,6 @@ team_participants: |-
   **Project Design & Guide**
 
   Stefan Candea
+date: '2024-06-25 22:52:00'
 ---
 
