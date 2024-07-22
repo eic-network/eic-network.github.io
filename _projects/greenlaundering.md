@@ -24,7 +24,9 @@ publications:
   - name: Santander, Caixabank y BBVA invierten 1.000 millones en las empresas más contaminantes del mundo
     url: https://www.infolibre.es/economia/santander-caixabank-bbva-invierten-1-000-millones-200-empresas-contaminantes-mundo_1_1824678.html
   - name: Repsol e Inditex, dos de las firmas españolas que más CO2 emiten, reciben 10.000 millones de fondos ‘verdes’
-    url: https://www.infolibre.es/economia/repsol-e-inditex-empresas-espanolas-co2-reciben-10-000-millones-fondos-inversion-verdes_1_1823916.html?utm_source=infoLibre&utm_campaign=b3b0329cd7-Portadademanana_COPY_01&utm_medium=email&utm_term=0_1967a1cfd3-b3b0329cd7-105386081&s=09 
+    url: https://www.infolibre.es/economia/repsol-e-inditex-empresas-espanolas-co2-reciben-10-000-millones-fondos-inversion-verdes_1_1823916.html?utm_source=infoLibre&utm_campaign=b3b0329cd7-Portadademanana_COPY_01&utm_medium=email&utm_term=0_1967a1cfd3-b3b0329cd7-105386081&s=09
+  name: infoLibre
+  url: https://www.infolibre.es
 - lang: "[PT]"
   links:
   - name: Investigação - fundos de investimento supostamente verdes investiram 81 mil milhões de euros nas empresas que mais emitem CO2
