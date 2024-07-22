@@ -1,7 +1,7 @@
 ---
 title: GreenLaundering 
 intro: Banks are investing billions in some of the world's biggest carbon emitters using environmentally friendly labels.
-description: More than four thousands funds in Europe invest 87 billions euros in the 200 most polluting companies. Such investments are being marketed as green under a faulty EU’s Sustainable Finance Disclosure Regulation (SFDR). 
+description: More than four thousands funds in Europe invest 87 billions euros in the 200 most polluting companies. Such investments are being marketed as green under a faulty EU’s Sustainable Finance Disclosure Regulation (SFDR). EU-regulated "green funds" have been marketing investments in the world's largest carbon or greenhouse gas emitting companies.
 publications:
 - lang: "[FR, EN, ES]"
   links:
