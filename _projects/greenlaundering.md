@@ -5,18 +5,10 @@ description: More than four thousands funds in Europe invest 87 billions euros i
 publications:
 - lang: "[FR, EN, ES]"
   links:
-  - name: Plus de 200 Français ont été fichés pour le compte des services secrets des Émirats arabes unis
-    url: https://www.mediapart.fr/journal/international/070723/plus-de-200-francais-ont-ete-fiches-pour-le-compte-des-services-secrets-des-emirats-arabes-unis
-  - name: Opération « Constellation » - les pieds nickelés d’Abou Dhabi à Bruxelles
-    url: https://www.mediapart.fr/journal/international/090723/operation-constellation-les-pieds-nickeles-d-abou-dhabi-bruxelles
-  - name: Un pilier d’Europe 1, ex de « Valeurs actuelles », dans la main des barbouzes des Émirats
-    url: https://www.mediapart.fr/journal/international/100723/un-pilier-d-europe-1-ex-de-valeurs-actuelles-dans-la-main-des-barbouzes-des-emirats
-  - name: ONU, Qatar, Macron - les opérations secrètes du Sheikh Matar, agent des Émirats
-    url: https://www.mediapart.fr/journal/international/130723/onu-qatar-macron-les-operations-secretes-du-sheikh-matar-agent-des-emirats
-  - name: L’espion, la prisonnière et la princesse captive
-    url: https://www.mediapart.fr/journal/international/140723/abu-dhabi-secrets-l-espion-la-prisonniere-et-la-princesse-captive
-  - name: Les barbouzes des Émirats visés par les justices française et suisse 
-    url: https://www.mediapart.fr/journal/international/150424/abu-dhabi-secrets-les-barbouzes-des-emirats-vises-par-les-justices-francaise-et-suisse
+  - name: Finance verte européenne - une arnaque à 87 milliards d’euros
+    url: https://www.mediapart.fr/journal/economie-et-social/250624/finance-verte-europeenne-une-arnaque-87-milliards-d-euros
+  - name: Crédit agricole, BNP, Banque postale - le palmarès français des faux investissements verts
+    url: https://www.mediapart.fr/journal/ecologie/250624/credit-agricole-bnp-banque-postale-le-palmares-francais-des-faux-investissements-verts
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
