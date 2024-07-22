@@ -11,28 +11,10 @@ publications:
     url: https://www.mediapart.fr/journal/ecologie/250624/credit-agricole-bnp-banque-postale-le-palmares-francais-des-faux-investissements-verts
   name: Mediapart
   url: https://www.mediapart.fr
-- lang: "[NL]"
-  links:
-  - name: "Zwitserse spionnen, de Emiraten. Het lijkt een Bond film: hoe bekende Belgen onterecht op de watchlist van de emirs kwamen"
-    url: https://www.standaard.be/cnt/dmf20230707_93326956
-  - name: De oude spion, de emir en hun Europese lastercampagnes Ik wilde naar Genève rijden om hen allemaal te vermoorden
-    url: https://www.standaard.be/cnt/DMF20230706_95804908
-  - name: Topexpert over moslimextremisme speelde dubbelspel voor privéspionnen
-    url: https://www.standaard.be/cnt/dmf20230714_96766972
-  - name: Zakia Khattabi dient klacht in tegen Zwitserse privéspionnen uit Abu Dhabi Secrets-onderzoek
-    url: https://www.standaard.be/cnt/dmf20240415_93375430
-  name: De Standaard
-  url: https://www.standaard.be/
 - lang: "[FR, IT]"
   links:
-  - name: Une entreprise genevoise au cœur d’une vaste opération d’influence des Emirats arabes unis
-    url: https://www.rts.ch/info/regions/geneve/14158973-une-entreprise-genevoise-au-cur-dune-vaste-operation-dinfluence-des-emirats-arabes-unis.html
-  - name: Gli Abu Dhabi Secrets sbarcano in Ticino
-    url: https://www.rsi.ch/news/ticino-e-grigioni-e-insubria/Gli-Abu-Dhabi-Secrets-sbarcano-in-Ticino-16379059.html
-  - name: Des journalistes suisses impliqués dans l’opération d’influence des Emirats arabes unis
-    url: https://www.rts.ch/info/suisse/14165457-des-journalistes-suisses-impliques-dans-loperation-dinfluence-des-emirats-arabes-unis.html
-  - name: La justice fédérale enquête sur l'officine genevoise Alp Services
-    url: https://www.rts.ch/info/regions/geneve/2024/article/la-justice-federale-enquete-sur-l-officine-genevoise-alp-services-28469721.html
+  - name: Comment des fonds "verts" financent les plus gros pollueurs de la planète
+    url: https://www.rts.ch/info/sciences-tech/environnement/2024/article/comment-des-fonds-verts-financent-les-plus-gros-pollueurs-de-la-planete-28549208.html
   name: Radio Television Suisse
   url: https://www.rts.ch/
 - lang: "[NL]"
