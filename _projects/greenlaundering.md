@@ -37,6 +37,8 @@ publications:
   links:
   - name: SVJETSKI EKSKLUZIV Europske zelene financije - Prijevara od 87 milijardi eura
     url: https://www.nacional.hr/svjetski-ekskluziv-europske-zelene-financije-prijevara-od-87-milijardi-eura/
+  - name: NE BAŠ ‘ZELENI’ Fondovi u Hrvatskoj uložili 3,6 milijardi dolara u tvrtke s najvišom emisijom CO2
+    url: https://www.nacional.hr/ne-bas-zeleni-fondovi-u-hrvatskoj-ulozili-36-milijardi-dolara-u-tvrtke-s-najvisom-emisijom-co2/
   name: Nacional
   url: https://www.nacional.hr/
 - lang: "[IT]"
