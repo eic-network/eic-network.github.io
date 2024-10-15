@@ -57,7 +57,7 @@ team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin) and [
 team_participants: |-
   **Reporting**
 
-  Yann Philippin (Mediapart), Giorgio Michalopoulos and Stefano Valentino (Voxeurop), Mathilde Farine and Matthieu Hoffstetter (Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Domani), Begona Ramirez (infoLibre), Blaz Zgaga (Nacional), Natalia M. (EIC).
+  Yann Philippin (Mediapart), Giorgio Michalopoulos and Stefano Valentino (Voxeurop), Mathilde Farine and Matthieu Hoffstetter (Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Domani), Begona Ramirez (infoLibre), Blaz Zgaga and Saša Leković (Nacional), Natalia M. (EIC).
 
   **Project Design & Guide**
 
