@@ -75,15 +75,43 @@ publications:
     url: https://www.nrc.nl/nieuws/2024/09/27/shell-verlaagt-zn-gasuitstoot-door-olievelden-in-nigeria-af-te-stoten-maar-het-affakkelen-gaat-gewoon-door-nog-heviger-dan-daarvoor-a4867273 
   name: NRC
   url: https://www.nrc.nl/
+- lang: "[AR]"
+  links:
+  - name: “إشعال السماء” ماذا خلف ألسنة اللهب السامة التي تسمح بها شركات النفط العملاقة ؟
+    url: https://daraj.media/%d8%a5%d8%b4%d8%b9%d8%a7%d9%84-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1-%d9%85%d8%a7%d8%b0%d8%a7-%d8%ae%d9%84%d9%81-%d8%a3%d9%84%d8%b3%d9%86%d8%a9-%d8%a7%d9%84%d9%84%d9%87%d8%a8-%d8%a7%d9%84%d8%b3/
+  - name: “إشعال السماء” التناقض البيئي الإماراتي من قيادة قمّة المناخ إلى انتهاك معايير حرق الغاز!
+    url: https://daraj.media/%d8%a5%d8%b4%d8%b9%d8%a7%d9%84-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%82%d8%b6-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7/
+  - name: Behind Big Oil’s Toxic Flames
+    url: https://daraj.media/en/burningskies-behind-big-oils-toxic-flames/ 
+  name: Daraj
+  url: https://daraj.media/
+- lang: "[EN]"
+  links:
+  - name: Gas flaring in Soyo, Angola
+    url: https://oxpeckers.org/2024/09/gas-flaring-in-angola/ 
+  name: Oxpeckers
+  url: https://oxpeckers.org
+- lang: "[EN]"
+  links:
+  - name: The true toll of Big Oil's gas flaring in Africa and the Middle East
+    url: https://www.source-material.org/burning-skies-bp-shell-exxon-gas-flaring-nigeria/ 
+  name: Source Material
+  url: https://www.source-material.org/
+- lang: "[EN]"
+  links:
+  - name: Burning Skies - The Hidden Toll Of Big Oil’s Toxic Flames
+    url: https://eiforum.org/burning-skies-the-hidden-of-big-oils-toxic-flames/ 
+  name: EIForum
+  url: https://eiforum.org/
 team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin) and [EIForum](https://eiforum.org/) (Alexandre Brutelle)"
 team_participants: |-
   **Reporting**
 
-  Yann Philippin (Mediapart), Alexandre Brutelle and Leopold Salzenstein (EIForum), Micael Pereira (Expresso), Stefano Vergine (Domani), Begona Ramirez (infoLibre), Blaz Zgaga and Saša Leković (Nacional), Natalia M. (EIC).
+  Yann Philippin (Mediapart), Alexandre Brutelle and Leopold Salzenstein (EIForum), Micael Pereira (Expresso), Stefano Vergine (Domani), Begona Ramirez (infoLibre), Blaz Zgaga and Saša Leković (Nacional), Natalia M. (EIC), Gil Durand and Jean-François Munster (Le Soir), Hanneke Chin-A-Fo, Rik Wassens, Femke van Zeijl (NRC), Sven Becker, Susanne Götze, Jule Ahles and Anna-lena Kornfeld (Der Spiegel), Alia Ibrahim, Hala Nasreddine, Hazem El-Amin, Alyaa Yahya, Nourhanne Charaf Eddine, Hanene Zbiss and Mais Katt (Daraj), Ilyas Hallas (Twala), Dlovan Barwari (NIRIJ), Diaa Al-Bazouni (Al-Mirbad), Marcus Leroux, Costanza Gambarini and Leigh Baldwin (Source Material), Andiswa Matikinca, Neusa e Silva and Fiona Macleod (Oxpeckers), Elodie Toto (Mongobay). 
 
   **Data, Information Design and Illustration**
 
-  Alexandre Brutelle and Leopold Salzenstein (Environmental Investigative Forum), Justine Vernier and Simon Toupet (Mediapart), NIRIJ, al-Mirbad, Hanene Zbiss (Daraj), Lyas Hallas (Twala)
+  Alexandre Brutelle and Leopold Salzenstein (Environmental Investigative Forum), Rik Wassens (NRC), Justine Vernier and Simon Toupet (Mediapart), NIRIJ, al-Mirbad, Hanene Zbiss (Daraj), Lyas Hallas (Twala)
 
   **Project Design & Guide**
 
