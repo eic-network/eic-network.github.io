@@ -75,6 +75,10 @@ team_participants: |-
 
   Yann Philippin (Mediapart), Alexandre Brutelle and Leopold Salzenstein (EIForum), Micael Pereira (Expresso), Stefano Vergine (Domani), Begona Ramirez (infoLibre), Blaz Zgaga and Saša Leković (Nacional), Natalia M. (EIC).
 
+  **Data, Information Design and Illustration**
+
+  Alexandre Brutelle and Leopold Salzenstein (Environmental Investigative Forum), Justine Vernier and Simon Toupet (Mediapart), NIRIJ, al-Mirbad, Hanene Zbiss (Daraj), Lyas Hallas (Twala)
+
   **Project Design & Guide**
 
   Stefan Candea
