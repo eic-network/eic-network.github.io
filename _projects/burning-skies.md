@@ -69,6 +69,12 @@ publications:
     url: https://www.lesoir.be/625595/article/2024-09-27/burning-skies-les-chiffres-caches-des-flammes-toxiques-des-geants-petroliers  
   name: Le Soir
   url:  https://www.lesoir.be/
+- lang: "[NL]"
+  links:
+  - name: Shell verlaagt z’n gasuitstoot door olievelden in Nigeria af te stoten – maar het affakkelen gaat heviger door
+    url: https://www.nrc.nl/nieuws/2024/09/27/shell-verlaagt-zn-gasuitstoot-door-olievelden-in-nigeria-af-te-stoten-maar-het-affakkelen-gaat-gewoon-door-nog-heviger-dan-daarvoor-a4867273 
+  name: NRC
+  url: https://www.nrc.nl/
 team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin) and [EIForum](https://eiforum.org/) (Alexandre Brutelle)"
 team_participants: |-
   **Reporting**
