@@ -107,7 +107,7 @@ team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin) and [
 team_participants: |-
   **Reporting**
 
-  Yann Philippin (Mediapart), Alexandre Brutelle and Leopold Salzenstein (EIForum), Micael Pereira (Expresso), Stefano Vergine (Domani), Begona Ramirez (infoLibre), Blaz Zgaga and Saša Leković (Nacional), Natalia M. (EIC), Gil Durand and Jean-François Munster (Le Soir), Hanneke Chin-A-Fo, Rik Wassens, Femke van Zeijl (NRC), Sven Becker, Susanne Götze, Jule Ahles and Anna-lena Kornfeld (Der Spiegel), Alia Ibrahim, Hala Nasreddine, Hazem El-Amin, Alyaa Yahya, Nourhanne Charaf Eddine, Hanene Zbiss and Mais Katt (Daraj), Ilyas Hallas (Twala), Dlovan Barwari (NIRIJ), Diaa Al-Bazouni (Al-Mirbad), Marcus Leroux, Costanza Gambarini and Leigh Baldwin (Source Material), Andiswa Matikinca, Neusa e Silva and Fiona Macleod (Oxpeckers), Elodie Toto (Mongobay). 
+  Yann Philippin (Mediapart), Alexandre Brutelle and Leopold Salzenstein (EIForum), Micael Pereira (Expresso), Stefano Vergine (Domani), Begona Ramirez (infoLibre), Blaz Zgaga and Saša Leković (Nacional), Natalia M. (EIC), Gil Durand and Jean-François Munster (Le Soir), Hanneke Chin-A-Fo, Rik Wassens, Femke van Zeijl (NRC), Susanne Götze, Jule Ahles and Anna-lena Kornfeld (Der Spiegel), Alia Ibrahim, Hala Nasreddine, Hazem El-Amin, Alyaa Yahya, Nourhanne Charaf Eddine, Hanene Zbiss and Mais Katt (Daraj), Ilyas Hallas (Twala), Dlovan Barwari (NIRIJ), Diaa Al-Bazouni (Al-Mirbad), Marcus Leroux, Costanza Gambarini and Leigh Baldwin (Source Material), Andiswa Matikinca, Neusa e Silva and Fiona Macleod (Oxpeckers), Elodie Toto (Mongobay). 
 
   **Data, Information Design and Illustration**
 
