@@ -29,6 +29,9 @@
   url: https://espresso.repubblica.it/
   image: lespresso.png
 - name:
+  url: https://www.editorialedomani.it/
+  image: Domani-logo.png
+- name:
   url: https://www.ndr.de/
   image: ndr.png
 - name:
