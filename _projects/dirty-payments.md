@@ -167,14 +167,16 @@ publications:
   url: https://snoop.ro/
 - lang: "[HU]"
   links:
-  - name: 
-    url: 
+  - name: Budapesti céghálón keresztül vezet az út a francia pornóbotrányhoz
+    url: https://24.hu/fn/gazdasag/2025/06/25/dirty-payments-nyomozas-wordline-online-kaszino-porno-fizetesi-szolgaltato-magyarorszag-piron/
+  - name: Milliárdos üzlet kamu randiprofilokkal - Csomádon bukkan fel egy nagy nemzetközi hálózat két szereplője
+    url: https://24.hu/fn/gazdasag/2025/06/27/dirty-payments-randioldalak-gyanus-penzek-abacus-online-lead-vitamin-onmobile/
   name: 24.hu
   url: https://24.hu/
 - lang: "[PL]"
   links:
-  - name:
-    url:
+  - name: Gigant płatności internetowych, miliardy z oszustw i mantra - "sprzedawać, sprzedawać, sprzedawać"
+    url: https://tvn24.pl/technologia/wordline-i-sledztwo-dirty-payments-gigant-platnosci-internetowych-i-miliardy-z-oszustw-st8526807
   name: TVN24
   url: https://tvn24.pl/
 - lang: "[EN]"
