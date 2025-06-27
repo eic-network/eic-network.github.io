@@ -91,8 +91,8 @@ publications:
   url: https://www.standaard.be/
 - lang: "[GR]"
   links:
-  - name: 
-    url: 
+  - name: Worldline x Eurobank - Οι βρόμικες πληρωμές ενός γίγαντα των συναλλαγών και η μυστικοπάθεια του Έλληνα συνεταίρου του
+    url: https://www.reportersunited.gr/16776/worldline-eurobank-dirty-payments/
   - name: 
     url: 
   - name: 
