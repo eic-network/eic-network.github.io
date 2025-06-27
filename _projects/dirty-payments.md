@@ -105,58 +105,26 @@ publications:
     url: https://www.reportersunited.gr/16776/worldline-eurobank-dirty-payments/
   - name: 
     url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
   name: Reporters United
   url: https://www.reportersunited.gr/
 - lang: "[ES]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name:   
-    url: 
-  - name:   
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Estafas, prostitución o casinos - los oscuros negocios que operaban con el gigante de pagos Worldline
+    url: https://www.infolibre.es/investigacion/estafas-prostitucion-casinos-oscuros-negocios-operaban-gigante-pagos-worldline_1_2020032.html
+  - name: Un exproductor de Hollywood lidera una trama de webs falsas que ingresaba millones al año vía Worldline
+    url: https://www.infolibre.es/investigacion/exproductor-hollywood-lidera-trama-webs-falsas-ingresaba-millones-ano-via-worldline_130_2020548.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
   links:
-  - name: 
-    url: 
+  - name: Norske bankkort brukes på ulovlige nett­kasinoer til tross for forbud, viser ny europeisk avsløring
+    url: https://www.vg.no/nyheter/i/OoKQvV/avsloering-viser-hvordan-betalingsgiganten-worldline-tilrettelegger-for-hoeyrisiko-kunder-og-ulovlige-gambling
+  - name: Norske bankkort brukes på ulovlige nett­kasinoer til tross for forbud, viser ny europeisk avsløring
+    url: https://www.vg.no/nyheter/i/OoKQvV/avsloering-viser-hvordan-betalingsgiganten-worldline-tilrettelegger-for-hoeyrisiko-kunder-og-ulovlige-gambling
   name: VG
   url: https://www.vg.no/
 - lang: "[EN]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name:  
-    url: 
   - name: 
     url: 
   name: The Bureau of Investigative Journalism
@@ -167,22 +135,6 @@ publications:
     url: 
   - name: 
     url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url:  
-  - name: 
-    url:  
-  - name: 
-    url:  
-  - name: 
-    url: 
   name: Die Wochenzeitung
   url: https://www.woz.ch/
 - lang: "[EN]"
@@ -191,30 +143,16 @@ publications:
     url: 
   - name: 
     url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
   name: ITV News
   url: https://www.itv.com/news
 - lang: "[DE]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Millionen mit der Einsamkeit
+    url: https://www.srf.ch/news/wirtschaft/millionen-mit-dating-fallen-so-nimmt-ein-schweizer-firmennetz-europas-singles-aus
   name: SRF Schweizer Radio und Fernsehe
   url: https://www.srf.ch/
 - lang: "[SE]"
   links:
-  - name: 
-    url: 
   - name: 
     url: 
   name: Dagens Nyheter
