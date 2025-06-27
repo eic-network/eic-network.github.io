@@ -223,6 +223,24 @@ publications:
     url: 
   name: 24.hu
   url: https://24.hu/
+- lang: "[PL]"
+  links:
+  - name:
+    url:
+  name: TVN24
+  url: https://tvn24.pl/
+- lang: "[EN]"
+  links:
+  - name:
+    url:
+  name: Drop Site News
+  url: https://www.dropsitenews.com/
+- lang: "[EN]"
+  links:
+  - name:
+    url:
+  name: Toronto Star
+  url: https://www.thestar.com/
 team_initiators: "[European Investigative Collaborations](https://www.eic.network/) (Ștefan Cândea) and [Mediapart]( https://www.mediapart.fr/) (Yann Philippin)"
 team_participants: |-
   **Reporting**
