@@ -67,14 +67,24 @@ publications:
   url: https://politiken.dk/
 - lang: "[FR]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Les milliards d’euros de transactions frauduleuses du géant Worldline et de sa filiale belge
+    url: https://www.lesoir.be/683803/article/2025-06-25/dirty-payments-les-milliards-deuros-de-transactions-frauduleuses-du-geant
+  - name: Worldline Belgique, la filiale la plus sulfureuse
+    url: https://www.lesoir.be/683799/article/2025-06-25/worldline-belgique-la-filiale-la-plus-sulfureuse
+  - name: Au cœur d’un scandale financier européen
+    url: https://www.lesoir.be/683810/article/2025-06-25/dirty-payments-au-coeur-dun-scandale-financier-europeen
+  - name: Worldline Belgique a agi impunément pendant dix ans
+    url: https://www.lesoir.be/684076/article/2025-06-26/dirty-payments-worldline-belgique-agi-impunement-pendant-dix-ans
+  - name: ING, la banque avec un gros appétit du risque
+    url: https://www.lesoir.be/684072/article/2025-06-26/dirty-payments-ing-la-banque-avec-un-gros-appetit-du-risque
+  - name: Casinos illégaux, porno douteux et prostitution, les égarements coupables de l’industrie des paiements
+    url: https://www.lesoir.be/684080/article/2025-06-26/dirty-payments-casinos-illegaux-porno-douteux-et-prostitution-les-egarements
+  - name: La fortune hors norme d’un magnat de la prostitution
+    url: https://www.lesoir.be/684073/article/2025-06-26/dirty-payments-la-fortune-hors-norme-dun-magnat-de-la-prostitution
+  - name: La justice belge ouvre une enquête contre Worldline pour blanchiment
+    url: https://www.lesoir.be/684373/article/2025-06-27/dirty-payments-la-justice-belge-ouvre-une-enquete-contre-worldline-pour
+  - name: Les dessous d’un empire de l’arnaque en ligne
+    url: https://www.lesoir.be/684332/article/2025-06-27/dirty-payments-felicitations-vous-avez-gagne-un-iphone-les-dessous-dun-empire-de
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
