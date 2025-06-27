@@ -229,9 +229,9 @@ team_participants: |-
 
     Yann Philippin, Clément Rabu (Mediapart),  Sven Becker, Roman Höfner, Sara Wess, Christoph Winterbach, Nikolai Antoniadis (DER SPIEGEL), Tom Kreling, Rik Wassens, Jeroen Wester (NRC), Ruben Mooijman and Nikolas Vanhecke (De Standaard), Micael Pereira (Expresso), Louis Colart, Joel Matriche, Julien Bialas (Le Soir), Tom Kreling, Rik Wassens, Jeroen Wester (NRC), Begona Ramirez, Sergio Sangiao (infoLibre), Jonas Pröschold, Carl Emil Arnfred, Anders Bæksgaard⁩, Magnus Kofoed Lassen (Politiken), Enrico Kampmann (Die Wochenzeitung), Janine Louloudi, Konstantina Maltepioti (Reporters United), Micael Pereira (Expresso), Ola Haram (VG), Steffi Hasler, Kilian Küttel (SRF), Ada Constanda, Razvan Lutac, Victor Ilie (Snoop.ro), Ildiko Kovacs, Ibolya F. Vitez (24.hu), Piotr Szostak (TVN24), Adrian Sadikovic⁩ (Dagens Nyheter), Simon Lock (TBIJ), Frédérik Plante (Toronto Star), Nicholas Rodello (Drop Site News), Ștefan Cândea, Blaz Zgaga, Natalia M. (EIC).
 
-    Information Design: Lynne Brouwer (NRC) and Elsa Hundertmark (DER SPIEGEL), Simon Toupet (Mediapart)
+    **Information Design**: Lynne Brouwer (NRC) and Elsa Hundertmark (DER SPIEGEL), Simon Toupet (Mediapart)
 
-    Data analysis: Yann Philippin (Mediapart), Konstantina Maltepioti (Reporters United), Christoph Winterbach (Der Spiegel) and Rik Wassens (NRC)   
+    **Data analysis**: Yann Philippin (Mediapart), Konstantina Maltepioti (Reporters United), Christoph Winterbach (Der Spiegel) and Rik Wassens (NRC)   
 
     **Project Design & Guide**
 
