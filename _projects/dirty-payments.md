@@ -125,22 +125,22 @@ publications:
   url: https://www.vg.no/
 - lang: "[EN]"
   links:
-  - name: 
-    url: 
+  - name: Global crime network behind QR code car-park scam
+    url: https://www.thebureauinvestigates.com/stories/2025-06-27/revealed-global-crime-network-behind-qr-code-car-park-scam
   name: The Bureau of Investigative Journalism
   url: https://www.thebureauinvestigates.com/
 - lang: "[DE]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Ausbeutung im Sexgewerbe - Im Zentrum sitzt ein Schweizer
+    url: https://www.woz.ch/2526/ausbeutung-im-sexgewerbe/im-zentrum-sitzt-ein-schweizer/!XTBV9ZBJ4WH
+  - name: Der Skrupellose Gigant
+    url: https://www.woz.ch/path-preview/node/94910
   name: Die Wochenzeitung
   url: https://www.woz.ch/
 - lang: "[EN]"
   links:
-  - name: 
-    url: 
+  - name: Scammed by your neighbour's company - How UK homes are fronts for global scam network
+    url: https://www.itv.com/news/2025-06-27/scammed-by-your-neighbours-firm-how-homes-are-fronts-for-global-scam-network
   - name: 
     url: 
   name: ITV News
@@ -153,16 +153,16 @@ publications:
   url: https://www.srf.ch/
 - lang: "[SE]"
   links:
-  - name: 
-    url: 
+  - name: Riskerna blev för stora – då gömde Worldline ljusskygga företag i Sverige
+    url: https://www.dn.se/sverige/riskerna-blev-for-stora-da-gomde-worldline-ljusskygga-foretag-i-sverige/
+  - name: Margita, 79, sökte kärleken – då fastnade hon i dejtningsbluffen
+    url: https://www.dn.se/sverige/margita-79-sokte-karleken-da-fastnade-hon-i-dejtningsbluffen/ 
   name: Dagens Nyheter
   url: https://www.dn.se/
 - lang: "[RO]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Cum a construit un imperiu online al prostituției milionarul care a fondat Nuba Mamaia și a fost consul onorific în România
+    url: https://snoop.ro/plati-murdare-cum-a-construit-un-imperiu-online-al-prostitutiei-milionarul-care-a-fondat-nuba-mamaia-si-a-fost-consul-onorific-in-romania/
   name: Snoop
   url: https://snoop.ro/
 - lang: "[HU]"
