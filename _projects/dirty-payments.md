@@ -23,14 +23,14 @@ publications:
   links:
   - name: Die schmutzigen Deals mit dem "Pornobaron"
     url: https://www.spiegel.de/wirtschaft/unternehmen/payone-deutscher-finanzdienstleister-unter-verdacht-die-schmutzigen-deals-mit-dem-pornobaron-a-1b16d0e9-a3d6-40c6-a02d-dd268a9f8ff7
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url:  
+  - name: Vorwürfe gegen Payone – die wichtigsten Enthüllungen im Überblick
+    url: https://www.spiegel.de/wirtschaft/vorwuerfe-gegen-payone-die-wichtigsten-fakten-im-ueberblick-a-4823a1e5-ee51-4de4-976b-5e594d124037
+  - name: Suspicions Swirl around a German Financial Service Provider
+    url: https://www.spiegel.de/international/business/dirty-dealings-with-the-porn-baron-suspicions-swirl-around-a-german-financial-service-provider-a-9b1f90c6-8bc1-46c3-9e8c-25ccb422efcf
+  - name: Gratis-iPhones, Datingportale und Pornochats – die schmierigen Tricks der Abzockmafia
+    url: https://www.spiegel.de/wirtschaft/service/payone-und-die-abzocke-der-aether-gruppe-gratis-iphones-datingportale-und-porno-chats-a-35bccc2c-9017-41de-b3ee-1a5f93c7ae9f
+  - name: Dem Millionennetzwerk auf der Spur – die wichtigsten Enthüllungen im Überblick
+    url: https://www.spiegel.de/wirtschaft/payone-abzocke-im-internet-die-dirty-payments-recherche-im-ueberblick-a-30cc8b7a-a5d7-49f2-a247-e696cc2a252f 
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
