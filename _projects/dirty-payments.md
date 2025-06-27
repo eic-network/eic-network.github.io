@@ -119,8 +119,8 @@ publications:
   links:
   - name: Norske bankkort brukes på ulovlige nett­kasinoer til tross for forbud, viser ny europeisk avsløring
     url: https://www.vg.no/nyheter/i/OoKQvV/avsloering-viser-hvordan-betalingsgiganten-worldline-tilrettelegger-for-hoeyrisiko-kunder-og-ulovlige-gambling
-  - name: Norske bankkort brukes på ulovlige nett­kasinoer til tross for forbud, viser ny europeisk avsløring
-    url: https://www.vg.no/nyheter/i/OoKQvV/avsloering-viser-hvordan-betalingsgiganten-worldline-tilrettelegger-for-hoeyrisiko-kunder-og-ulovlige-gambling
+  - name: Worldline under etterforskning for hvitvasking
+    url: https://www.vg.no/nyheter/i/zAo8bb/worldline-under-etterforskning-for-hvitvasking
   name: VG
   url: https://www.vg.no/
 - lang: "[EN]"
