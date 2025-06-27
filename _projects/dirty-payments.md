@@ -79,14 +79,14 @@ publications:
   url: https://www.lesoir.be/
 - lang: "[NL]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Van porno tot crypto - betaalbedrijf Worldline België verdiende jarenlang aan louche transacties
+    url: https://www.standaard.be/economie/van-porno-tot-crypto-betaalbedrijf-worldline-belgie-verdiende-jarenlang-aan-louche-transacties/65485414.html
+  - name: Aandeel Worldline in vrije val na onthullingen over louche transacties
+    url: https://www.standaard.be/economie/aandeel-worldline-in-vrije-val-na-onthullingen-over-louche-transacties/73660508.html
+  - name: Duitsland greep in, Nederland ook. Bij de Nationale Bank van België bleef het stil over wanpraktijken bij Worldline
+    url: https://www.standaard.be/economie/duitsland-greep-in-nederland-ook.-bij-de-nationale-bank-van-belgie-bleef-het-stil-over-wanpraktijken-bij-worldline/72271829.html
+  - name: Brussels parket opent onderzoek naar Worldline Belgium na ‘Dirty Payments’-onthullingen in de pers
+    url: https://www.standaard.be/economie/brussels-parket-opent-onderzoek-naar-worldline-belgium-na-dirty-payments-onthullingen-in-de-pers/74216123.html
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[GR]"
