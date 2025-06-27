@@ -2,7 +2,7 @@
 title: DIRTY PAYMENTS 
 intro: Systemic flaws of the payment industry  
 description: |-
-  The investigation Dirty Payments reveals a major European financial scandal. It shows how, during the last decade, the French giant payments company Worldline and its German subsidiary Payone have systematically processed dubious and fraudulent online transactions worth billions of Euros, facilitating large scale scamming, controversial porn sites, prostitution networks, illegal casinos and even possible money laundering operations. This happened right under the noses of European bank regulators.
+  The  #DirtyPayments series reveals a major European financial scandal. It shows how, during the last decade, the French giant payments company Worldline and its German subsidiary Payone have systematically processed dubious and fraudulent online transactions worth billions of Euros, facilitating large scale scamming, controversial porn sites, prostitution networks, illegal casinos and even possible money laundering operations. This happened right under the noses of European bank regulators.
 
   Dirty Payments exposes the extent of systemic structural flaws of the payments industry and some of those behind well-disguised scams that have defrauded people across the world. [Published 25.06.2025]
 publications:
