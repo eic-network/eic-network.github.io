@@ -101,6 +101,10 @@ publications:
     url: https://www.standaard.be/economie/duitsland-greep-in-nederland-ook.-bij-de-nationale-bank-van-belgie-bleef-het-stil-over-wanpraktijken-bij-worldline/72271829.html
   - name: Brussels parket opent onderzoek naar Worldline Belgium na ‘Dirty Payments’-onthullingen in de pers
     url: https://www.standaard.be/economie/brussels-parket-opent-onderzoek-naar-worldline-belgium-na-dirty-payments-onthullingen-in-de-pers/74216123.html
+  - name: Hoe Worldline honderdduizenden euro’s verdiende met geile Heidi - “Klanten van datingsites kunnen de overeenkomsten onmogelijk stopzetten”
+    url: https://www.standaard.be/economie/hoe-worldline-honderdduizenden-euro-s-verdiende-met-geile-heidi-klanten-van-datingsites-kunnen-de-overeenkomsten-onmogelijk-stopzetten/65625623.html
+  - name: Als gewone banken afhaken, biedt ‘de helpdesk voor gok- en pornosites’ steun
+    url: https://www.standaard.be/economie/als-gewone-banken-afhaken-biedt-de-helpdesk-voor-gok-en-pornosites-steun/72449950.html
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[GR]"
