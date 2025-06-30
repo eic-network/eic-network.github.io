@@ -17,6 +17,9 @@ publications:
   - name: La justice belge ouvre une enquête contre Worldline pour blanchiment 
     url: https://www.mediapart.fr/journal/economie-et-social/270625/dirty-payments-la-justice-belge-ouvre-une-enquete-contre-worldline-pour-blanchiment
   - name: Révélations sur Aether, une multinationale de l’arnaque en ligne
+    url: https://www.mediapart.fr/journal/economie-et-social/270625/dirty-payments-revelations-sur-aether-une-multinationale-de-l-arnaque-en-ligne
+  - name: Une filiale de la Société générale liée à des arnaques en ligne
+    url: https://www.mediapart.fr/journal/economie-et-social/300625/dirty-payments-une-filiale-de-la-societe-generale-liee-des-arnaques-en-ligne
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
