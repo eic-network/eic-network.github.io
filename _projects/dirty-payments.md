@@ -12,6 +12,8 @@ publications:
     url: https://www.mediapart.fr/journal/economie-et-social/250625/arnaques-porno-casinos-illegaux-l-argent-sale-d-un-geant-francais-du-paiement-en-ligne
   - name: Les faux sites mais vraies arnaques d’un ancien roi d’Hollywood
     url: https://www.mediapart.fr/journal/economie-et-social/250625/dirty-payments-les-faux-sites-mais-vraies-arnaques-d-un-ancien-roi-d-hollywood
+  - name: Un exproductor de Hollywood lidera una trama de webs falsas que ingresaba millones al año vía Worldline
+    url: https://www.mediapart.fr/es/journal/economie-et-social/260625/un-exproductor-de-hollywood-lidera-una-trama-de-webs-falsas-que-ingresaba-millones-al-ano-worl
   - name: La fortune hors norme d’un proxénète du Web
     url: https://www.mediapart.fr/journal/economie-et-social/260625/dirty-payments-la-fortune-hors-norme-d-un-proxenete-du-web
   - name: La justice belge ouvre une enquête contre Worldline pour blanchiment 
