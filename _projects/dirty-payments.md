@@ -85,6 +85,10 @@ publications:
     url: https://www.lesoir.be/684373/article/2025-06-27/dirty-payments-la-justice-belge-ouvre-une-enquete-contre-worldline-pour
   - name: Les dessous d’un empire de l’arnaque en ligne
     url: https://www.lesoir.be/684332/article/2025-06-27/dirty-payments-felicitations-vous-avez-gagne-un-iphone-les-dessous-dun-empire-de
+  - name: « Arnacœurs », les dessous pas chics des sites de rencontres
+    url: https://www.lesoir.be/684602/article/2025-06-28/dirty-payments-arnacoeurs-les-dessous-pas-chics-des-sites-de-rencontres
+  - name: Des ex- « Worldline boys », agents sur mesure pour clients à haut risque
+    url: https://www.lesoir.be/684824/article/2025-06-30/dirty-payments-des-ex-worldline-boys-agents-sur-mesure-pour-clients-haut-risque
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
