@@ -20,6 +20,8 @@ publications:
     url: https://www.mediapart.fr/journal/economie-et-social/270625/dirty-payments-revelations-sur-aether-une-multinationale-de-l-arnaque-en-ligne
   - name: Une filiale de la Société générale liée à des arnaques en ligne
     url: https://www.mediapart.fr/journal/economie-et-social/300625/dirty-payments-une-filiale-de-la-societe-generale-liee-des-arnaques-en-ligne
+  - name: Scams, porn and illegal casinos - the dirty money of a French online payment giant
+    url: https://www.mediapart.fr/en/journal/economie-et-social/300625/scams-porn-and-illegal-casinos-dirty-money-french-online-payment-giant
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
