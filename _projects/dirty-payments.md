@@ -48,6 +48,8 @@ publications:
     url: https://www.nrc.nl/nieuws/2025/06/27/klik-klik-en-ineens-heb-je-een-abonnement-zonder-dat-je-het-weet-dit-is-het-verdienmodel-van-multinational-aether-a4898085
   - name: De oplichting van Aether ontrafeld - zes bouwstenen van het ‘succes’ van de scamwebsites
     url: https://www.nrc.nl/nieuws/2025/06/27/de-oplichting-van-aether-ontrafeld-zes-bouwstenen-van-het-succes-van-de-scamwebsites-a4898303
+  - name: Gestolen foto's en nepprofielen op datingsites - zo probeert Aether klanten aan zich te binden
+    url: https://www.nrc.nl/nieuws/2025/06/30/seks-chatten-met-het-callcenter-in-manila-a4898808
   name: NRC
   url: https://www.nrc.nl/
 - lang: "[PT]"
