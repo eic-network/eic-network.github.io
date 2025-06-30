@@ -91,6 +91,8 @@ publications:
     url: https://www.lesoir.be/684602/article/2025-06-28/dirty-payments-arnacoeurs-les-dessous-pas-chics-des-sites-de-rencontres
   - name: Des ex- « Worldline boys », agents sur mesure pour clients à haut risque
     url: https://www.lesoir.be/684824/article/2025-06-30/dirty-payments-des-ex-worldline-boys-agents-sur-mesure-pour-clients-haut-risque
+  - name: Les failles coupables dans la supervision du système de paiement
+    url: https://www.lesoir.be/684319/article/2025-06-27/les-failles-coupables-dans-la-supervision-du-systeme-de-paiement
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
