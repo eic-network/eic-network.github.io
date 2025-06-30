@@ -171,6 +171,8 @@ publications:
     url: https://24.hu/fn/gazdasag/2025/06/25/dirty-payments-nyomozas-wordline-online-kaszino-porno-fizetesi-szolgaltato-magyarorszag-piron/
   - name: Milliárdos üzlet kamu randiprofilokkal - Csomádon bukkan fel egy nagy nemzetközi hálózat két szereplője
     url: https://24.hu/fn/gazdasag/2025/06/27/dirty-payments-randioldalak-gyanus-penzek-abacus-online-lead-vitamin-onmobile/
+  - name: Szépségápolással foglalkozó IT-szakértők? Milliárdos forgalmat bonyolítanak hirtelen eltűnő magyar cégek
+    url: https://24.hu/fn/gazdasag/2025/06/30/dirty-payments-it-cegek-szepsegapolas-edzes-elofizetes-videojatek-milliardos-forgalom/
   name: 24.hu
   url: https://24.hu/
 - lang: "[PL]"
