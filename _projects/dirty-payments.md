@@ -30,7 +30,9 @@ publications:
   - name: Gratis-iPhones, Datingportale und Pornochats – die schmierigen Tricks der Abzockmafia
     url: https://www.spiegel.de/wirtschaft/service/payone-und-die-abzocke-der-aether-gruppe-gratis-iphones-datingportale-und-porno-chats-a-35bccc2c-9017-41de-b3ee-1a5f93c7ae9f
   - name: Dem Millionennetzwerk auf der Spur – die wichtigsten Enthüllungen im Überblick
-    url: https://www.spiegel.de/wirtschaft/payone-abzocke-im-internet-die-dirty-payments-recherche-im-ueberblick-a-30cc8b7a-a5d7-49f2-a247-e696cc2a252f 
+    url: https://www.spiegel.de/wirtschaft/payone-abzocke-im-internet-die-dirty-payments-recherche-im-ueberblick-a-30cc8b7a-a5d7-49f2-a247-e696cc2a252f
+  - name: The Dirty Tricks of Online Scammers
+    url: https://www.spiegel.de/international/business/free-iphones-fake-dating-sites-and-porn-chats-the-dirty-tricks-of-online-scammers-a-5e654bd6-7d6c-4232-a97a-249280ae8085 
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
