@@ -76,6 +76,8 @@ publications:
     url: https://politiken.dk/danmark/art10461063/Betalingsgigant-har-mistet-markedsv%C3%A6rdi-for-milliarder-efter-afsl%C3%B8ringer
   - name: Dansker med et luksusliv i Dubai har skabt millionforretning, der lukrerer på snyd verden over
     url: https://politiken.dk/danmark/art10426926/Dansker-med-et-luksusliv-i-Dubai-har-skabt-millionforretning-der-lukrerer-p%C3%A5-snyd-verden-over
+  - name: Trine fik stjålet sin identitet - Vi tog til Filippinerne for at finde danskerne bag falsk datingside
+    url: https://politiken.dk/danmark/art10431331/Trine-fik-stj%C3%A5let-sin-identitet-Vi-tog-til-Filippinerne-for-at-finde-danskerne-bag-falsk-datingside?shareToken=At7BSBAE2WgA
   name: Politiken
   url: https://politiken.dk/
 - lang: "[FR]"
