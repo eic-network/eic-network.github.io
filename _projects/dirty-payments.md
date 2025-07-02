@@ -181,7 +181,9 @@ publications:
   - name: Riskerna blev för stora – då gömde Worldline ljusskygga företag i Sverige
     url: https://www.dn.se/sverige/riskerna-blev-for-stora-da-gomde-worldline-ljusskygga-foretag-i-sverige/
   - name: Margita, 79, sökte kärleken – då fastnade hon i dejtningsbluffen
-    url: https://www.dn.se/sverige/margita-79-sokte-karleken-da-fastnade-hon-i-dejtningsbluffen/ 
+    url: https://www.dn.se/sverige/margita-79-sokte-karleken-da-fastnade-hon-i-dejtningsbluffen/
+  - name: Här säljs unga kvinnor – svenska Worldline tillät sexhandel
+    url: https://www.dn.se/sverige/har-saljs-unga-kvinnor-svenska-worldline-tillat-sexhandel/ 
   name: Dagens Nyheter
   url: https://www.dn.se/
 - lang: "[RO]"
