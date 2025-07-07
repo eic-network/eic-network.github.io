@@ -210,8 +210,8 @@ publications:
   url: https://tvn24.pl/
 - lang: "[EN]"
   links:
-  - name:
-    url:
+  - name: Erotic Thriller Producer's Companies Gleaned Millions From Unusable Dating Websites
+    url: https://www.dropsitenews.com/p/leaked-andrew-garroni-dating-websites-credit-card-suspicious-charges
   name: Drop Site News
   url: https://www.dropsitenews.com/
 - lang: "[EN]"
