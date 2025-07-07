@@ -64,8 +64,8 @@ publications:
     url: https://expresso.pt/sociedade/2025-06-25-fraudes-pornografia-casinos-ilegais-como-uma-multinacional-dos-pagamentos-online-fechou-os-olhos-a-milhares-de-milhoes-de-euros-2474fa0c
   - name: Sites sobre relacionamentos recrutam falsos donos em Portugal; testas de ferro recebem dois mil a três mil euros por ano
     url: https://expresso.pt/sociedade/justica/2025-06-26-sites-sobre-relacionamentos-recrutam-falsos-donos-em-portugal-testas-de-ferro-recebem-dois-mil-a-tres-mil-euros-por-ano-9ec60bdc
-  - name: 
-    url: 
+  - name: Testa de ferro do maior site de prostituição em França é um português
+    url: https://expresso.pt/sociedade/2025-07-07-dirty-payments-testa-de-ferro-do-maior-site-de-prostituicao-em-franca-e-um-portugues-aa05b3e4
   name: Expresso
   url: https://expresso.pt/
 - lang: "[DK]"
