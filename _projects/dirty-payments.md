@@ -220,6 +220,7 @@ publications:
     url:
   name: Toronto Star
   url: https://www.thestar.com/
+date: '2025-06-27 22:52:00'
 team_initiators: "[European Investigative Collaborations](https://www.eic.network/) (Ștefan Cândea) and [Mediapart]( https://www.mediapart.fr/) (Yann Philippin)"
 team_participants: |-
   **Reporting**
