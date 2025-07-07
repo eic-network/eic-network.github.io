@@ -261,6 +261,7 @@ publications:
     url: https://fragdenstaat.de/blog/2023/10/05/wie-die-europaische-union-ihre-kontrollen-aufweichte-und-deutschland-half/
   name: FragDenStaat 
   url: https://fragdenstaat.de/
+date: '2023-10-05 22:52:00'
 team_initiators: "[Der Spiegel](https://www.mediapart.fr/) (Nicola Naber and Rafael
   Buschman) and [Mediapart]( https://www.mediapart.fr/) (Yann Philippin)"
 team_participants: |-
