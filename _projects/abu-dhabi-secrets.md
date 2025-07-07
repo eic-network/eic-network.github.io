@@ -161,6 +161,7 @@ publications:
     url: https://www.editorialedomani.it/fatti/abu-dhabi-secrets-indagini-francia-svizzera-caso-alp-services-teeq9l12
   name: Domani
   url: https://www.editorialedomani.it/
+date: '2023-07-07 22:52:00'
 team_initiators: "[Mediapart]( https://www.mediapart.fr/) (Yann Philippin)."
 team_participants: |-
   **Reporting**
