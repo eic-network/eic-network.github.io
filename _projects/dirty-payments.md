@@ -41,7 +41,9 @@ publications:
   - name: Dem Millionennetzwerk auf der Spur – die wichtigsten Enthüllungen im Überblick
     url: https://www.spiegel.de/wirtschaft/payone-abzocke-im-internet-die-dirty-payments-recherche-im-ueberblick-a-30cc8b7a-a5d7-49f2-a247-e696cc2a252f
   - name: The Dirty Tricks of Online Scammers
-    url: https://www.spiegel.de/international/business/free-iphones-fake-dating-sites-and-porn-chats-the-dirty-tricks-of-online-scammers-a-5e654bd6-7d6c-4232-a97a-249280ae8085 
+    url: https://www.spiegel.de/international/business/free-iphones-fake-dating-sites-and-porn-chats-the-dirty-tricks-of-online-scammers-a-5e654bd6-7d6c-4232-a97a-249280ae8085
+  - name: So nehmen Schweizer Datingfirmen viele Singles aus
+    url: https://www.spiegel.de/panorama/justiz/partnersuche-so-nehmen-schweizer-datingfirmen-viele-singles-aus-a-c3621399-2bbc-48be-9d55-e04d17e5f9aa?giftToken=622a38ae-e7fe-417f-a4f4-610d8b343086 
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
