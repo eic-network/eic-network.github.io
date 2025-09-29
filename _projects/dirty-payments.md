@@ -218,8 +218,8 @@ publications:
   url: https://www.dropsitenews.com/
 - lang: "[EN]"
   links:
-  - name:
-    url:
+  - name: How a lucrative, global internet scam traces back to this office above a Montreal grocery store
+    url: https://www.thestar.com/news/investigations/how-a-lucrative-global-internet-scam-traces-back-to-this-office-above-a-montreal-grocery/article_34290522-36a4-45ef-9ba7-47a594a6345f.html
   name: Toronto Star
   url: https://www.thestar.com/
 date: '2025-06-27 22:52:00'
