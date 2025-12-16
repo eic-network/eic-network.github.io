@@ -81,7 +81,7 @@ publications:
   name: The Ditch
   url: https://www.ontheditch.com/
 date: '2025-12-13 22:00:00'
-team_initiators: "Yossi Bartal [The Diasporist]( https://thediasporist.de/), Stefan Candea [EIC]( https://www.eic.network) and Wilmer Heck, Hanneke Chin-A-Fo [NRC](www.nrc.nl)"
+team_initiators: "Yossi Bartal [The Diasporist]( https://thediasporist.de/), Stefan Candea [EIC]( https://www.eic.network), Wilmer Heck, Hanneke Chin-A-Fo [NRC](www.nrc.nl)"
 team_participants: |-
   **Reporting**
 
