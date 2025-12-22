@@ -52,6 +52,8 @@ publications:
     url: https://www.infolibre.es/investigacion/millones-emails-exponen-maquinaria-secreta-israel-neutralizar-justicia-internacional_130_2112841.html 
   - name: La arquitectura de la impunidad  
     url: https://www.infolibre.es/opinion/columnas/en-clave-de-fa/israel-files-arquitectura-impunidad_129_2114177.html
+  - name: Israel tuvo datos sensibles del caso del cabo español muerto en el Líbano, según correos internos
+    url: https://www.infolibre.es/investigacion/israel-tuvo-datos-sensibles-caso-cabo-espanol-muerto-libano-correos-internos_130_2114969.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
