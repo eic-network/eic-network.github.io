@@ -1,0 +1,87 @@
+---
+title: Fueling Ecocide
+intro: 7,000 protected areas are threatened by oil and gas projects worldwide.
+description: |- 
+  The #Fueling Ecocide series, led by Environmental Investigative Forum (EIF) and European Investigative Collaborations (EIC), reveals that oil and gas licences overlap with 7,000 protected areas worldwide. The total overlap is 690,000 km², an area bigger than the size of France - despite existing regulations and ongoing efforts to safeguard key biodiversity zones. 
+  In this one-year project, we compared 315,000 areas listed in the [World Database of Protected Areas](https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA) (WDPA) with geospatial data for 15,000 oil and gas licences in 120 countries, shared with us by industry provider Mapstand. Our investigation unveils the true extent of the threat that oil and gas companies, including European majors like Shell, ENI and TotalEnergies, pose to biodiversity worldwide. 
+  Listed below our stories by the EIC network and their partners. For a deep dive, have a look at [this mapping tool](https://ecocide.reportersunited.gr/map/) and get in touch with us if you want to further research license operators and owners of oil and gas in protected areas. [Published 14.01.2026].
+publications:
+- lang: "[GR]"
+  links:
+  - name: Fueling Ecocide
+    url: https://ecocide.reportersunited.gr/
+  name: Reporters United
+  url: https://www.reportersunited.gr/
+- lang: "[FR, EN, ES]"
+  links:
+  - name: Plus de 7 000 aires naturelles protégées sont livrées en pâture aux compagnies pétrolières
+    url: https://www.mediapart.fr/journal/ecologie/140126/plus-de-7-000-aires-naturelles-protegees-sont-livrees-en-pature-aux-compagnies-petrolieres
+  - name: Comment TotalEnergies menace et détruit la nature protégée
+    url: https://www.mediapart.fr/journal/ecologie/140126/comment-totalenergies-menace-et-detruit-la-nature-protegee  
+  name: Mediapart
+  url: https://www.mediapart.fr
+- lang: "[NL]"
+  links:
+  - name: 
+    url: 
+  name: NRC
+  url: https://www.nrc.nl/
+- lang: "[PT]"
+  links:
+  - name: Mais de sete mil áreas protegidas estão ameaçadas por projetos de petróleo e gás em todo o mundo
+    url:  https://expresso.pt/sustentabilidade/ambiente/2026-01-14-investigacao-mais-de-sete-mil-areas-protegidas-estao-ameacadas-por-projetos-de-petroleo-e-gas-em-todo-o-mundo-39ed2986#comentarios
+  name: Expresso
+  url: https://expresso.pt/
+- lang: "[FR]"
+  links:
+  - name: Plus de 3.000 concessions pétrolières empiètent sur 7.000 zones naturelles protégées
+    url: https://www.lesoir.be/722218/article/2026-01-14/fueling-ecocide-plus-de-3000-concessions-petrolieres-empietent-sur-7000-zones 
+  name: Le Soir
+  url: https://www.lesoir.be/
+- lang: "[ES]"
+  links:
+  - name: Proyectos petrolíferos y de gas amenazan 7.000 áreas protegidas en todo el mundo
+    url: https://www.infolibre.es/investigacion/proyectos-petroliferos-gas-amenazan-7-000-areas-protegidas-mundo_130_2127097.html
+  name: infoLibre
+  url: https://www.infolibre.es/
+- lang: "[NO]"
+  links:
+  - name: 
+    url: 
+  name: VG
+  url: https://www.vg.no/
+- lang: "[DE]"
+  links:
+  - name: 
+    url: 
+  name: Die Wochenzeitung
+  url: https://www.woz.ch/
+- lang: "[GR]"
+  links:
+  - name: 
+    url: 
+  name: Reporters United
+  url: https://www.reportersunited.gr/
+- lang: "[EN]"
+  links:
+  - name: UK is world’s worst for letting fossil fuel companies onto protected areas
+    url: https://www.thebureauinvestigates.com/stories/2026-01-14/uk-is-worlds-worst-offender-for-letting-fossil-fuel-companies-onto-protected-areas
+  - name: 
+    url: 
+  name: The Bureau for Investigative Journalism 
+  url: https://www.thebureauinvestigates.com
+date: '2026-01-14 22:00:00'
+team_initiators: "Alexandre Brutelle [Environmental Investigative Forum](https://eiforum.org/), Stefan Candea [EIC]( https://www.eic.network)"
+team_participants: |-
+  **Reporting and Editing**
+
+    Alexandre Brutelle (EIF), Yann Philippin (Mediapart), Daniela Sala (Domani), Eurydice Bersi (Reporters United), Sergio Sangiao (infoLibre), Micael Pereira (Expresso), Louis Colart (Le Soir), Hala Nasreddine, Hanene Zbiss, Montadhar Nasser, Haydar al-Saadi, Mohamed Zidan, Mohamad Awad, Hazem El-Amin, Ranine Awwad (Daraj), Juliana Mori, Carolina Dantas, Fábio Bispo, Renata Hirota, Carolina Passos, Luis Ushirobira, Sergio Silva Numa, Catalina Sanabria, César Giraldo, Camilo Suárez(infoAmazonia), Madeleine Ngeunga, Philomène, Djussi Fotso, Ghislaine Deudjui, ShingTimothy, Berdy Pambou, Michaël Moukouangui Moukala, Kevin Nfor (infoCongo), Ildikó D. Kovács (24.hu), Robin Kohrs (der Standaard), Josephine Moulds (TBIJ).
+
+  **Data analysis**: Alexandre Brutelle and Leopold Salzenstein (EIF), Dafni Karavola (Reporters United) and Yann Philippin (Mediapart)
+
+  **Information Design**: Dafni Karavola and Chris Gioran (Reporters United), Simon Toupet (Mediapart) 
+
+  **Project Design & Guide**
+
+    Ștefan Cândea
+---
