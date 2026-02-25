@@ -3,7 +3,9 @@ title: Fueling Ecocide
 intro: 7,000 protected areas are threatened by oil and gas projects worldwide.
 description: |- 
   The #Fueling Ecocide series, led by Environmental Investigative Forum (EIF) and European Investigative Collaborations (EIC), reveals that oil and gas licences overlap with 7,000 protected areas worldwide. The total overlap is 690,000 km², an area bigger than the size of France - despite existing regulations and ongoing efforts to safeguard key biodiversity zones. 
+  
   In this one-year project, we compared 315,000 areas listed in the [World Database of Protected Areas](https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA) (WDPA) with geospatial data for 15,000 oil and gas licences in 120 countries, shared with us by industry provider Mapstand. Our investigation unveils the true extent of the threat that oil and gas companies, including European majors like Shell, ENI and TotalEnergies, pose to biodiversity worldwide. 
+  
   Listed below our stories by the EIC network and their partners. For a deep dive, have a look at [this mapping tool](https://ecocide.reportersunited.gr/map/) and get in touch with us if you want to further research license operators and owners of oil and gas in protected areas. [Published 14.01.2026].
 publications:
 - lang: "[GR]"
