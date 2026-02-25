@@ -10,7 +10,7 @@ description: |-
 publications:
 - lang: "[GR]"
   links:
-  - name: Fueling Ecocide
+  - name: Fueling Ecocide - the investigation, the map and the methodology
     url: https://ecocide.reportersunited.gr/
   name: Reporters United
   url: https://www.reportersunited.gr/
