@@ -52,6 +52,12 @@ publications:
     url: https://www.elespectador.com/ambiente/amazonas/las-tensiones-que-ha-dejado-el-petroleo-en-un-area-clave-de-la-amazonia-colombiana/
   name: El Espectador
   url: https://www.elespectador.com
+- lang: "[FR]"
+  links:
+  - name: Aires protégées et industries fossiles - Perenco et TotalEnergies éclaboussées par l’enquête Fueling Ecocide
+    url: https://lalettreverte.info/2026/01/15/aires-protegees-et-industries-fossiles-perenco-et-totalenergies-eclabousses-par-lenquete-fueling-ecocide/ 
+  name: La lettre verte
+  url: https://lalettreverte.info
 - lang: "[DE]"
   links:
   - name: Tausende Öl- und Gaslizenzen liegen weltweit in Naturschutzgebieten
