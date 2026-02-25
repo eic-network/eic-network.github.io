@@ -52,3 +52,9 @@
 - name:
   url: https://www.washingtonpost.com/
   image: TheWashingtonPostLogo.png
+- name:
+  url: https://www.shomrim.news/
+  image: Shomrim.png
+- name:
+  url: https://www.nacional.hr/
+  image: NACIONAL.jpeg
