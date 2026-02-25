@@ -17,9 +17,6 @@
   url: https://www.nrc.nl/
   image: NRC.jpg
 - name:
-  url: https://www.nacional.hr/
-  image: NACIONAL.jpeg
-- name:
   url: https://www.standaard.be/
   image: standaard.png
 - name:
@@ -34,6 +31,3 @@
 - name:
   url: https://www.reportersunited.gr/
   image: ReportersUnited.png
-- name:
-  url: https://www.shomrim.news/
-  image: Shomrim.png
