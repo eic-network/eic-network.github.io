@@ -46,6 +46,12 @@ publications:
     url: https://www.infolibre.es/investigacion/proyectos-petroliferos-gas-amenazan-7-000-areas-protegidas-mundo_130_2127097.html
   name: infoLibre
   url: https://www.infolibre.es/
+- lang: "[ES]"
+  links: 
+  - name: Las tensiones que ha dejado el petróleo en un área clave de la Amazonia colombiana
+    url: https://www.elespectador.com/ambiente/amazonas/las-tensiones-que-ha-dejado-el-petroleo-en-un-area-clave-de-la-amazonia-colombiana/
+  name: El Espectador
+  url: https://www.elespectador.com
 - lang: "[DE]"
   links:
   - name: Tausende Öl- und Gaslizenzen liegen weltweit in Naturschutzgebieten
