@@ -20,12 +20,12 @@ publications:
     url: https://www.mediapart.fr/journal/ecologie/140126/comment-totalenergies-menace-et-detruit-la-nature-protegee  
   name: Mediapart
   url: https://www.mediapart.fr
-- lang: "[NL]"
+- lang: "[IT]"
   links:
-  - name: 
-    url: 
-  name: NRC
-  url: https://www.nrc.nl/
+  - name: Così i colossi dell’Oil & Gas mettono a rischio le aree protette
+    url: https://www.editorialedomani.it/ambiente/petrolio-estrazione-gas-inquinamento-licenze-aree-protette-inchiesta-fueling-ecocide-xv8pxx64
+  name: Domani
+  url: https://www.editorialedomani.it
 - lang: "[PT]"
   links:
   - name: Mais de sete mil áreas protegidas estão ameaçadas por projetos de petróleo e gás em todo o mundo
@@ -44,30 +44,28 @@ publications:
     url: https://www.infolibre.es/investigacion/proyectos-petroliferos-gas-amenazan-7-000-areas-protegidas-mundo_130_2127097.html
   name: infoLibre
   url: https://www.infolibre.es/
-- lang: "[NO]"
-  links:
-  - name: 
-    url: 
-  name: VG
-  url: https://www.vg.no/
 - lang: "[DE]"
   links:
-  - name: 
-    url: 
-  name: Die Wochenzeitung
-  url: https://www.woz.ch/
-- lang: "[GR]"
+  - name: Tausende Öl- und Gaslizenzen liegen weltweit in Naturschutzgebieten
+    url: https://www.derstandard.at/story/3000000303738/tausende-oel-und-gaslizenzen-liegen-weltweit-in-naturschutzgebieten
+  name: Der Standaard
+  url: https://www.derstandard.at/
+- lang: "[HU]"
   links:
-  - name: 
-    url: 
-  name: Reporters United
-  url: https://www.reportersunited.gr/
+  - name: Védett, mégis veszélyben van - így károsíthatja a fosszilis ipar a természetvédelmi területeket
+    url: https://24.hu/kulfold/2026/01/14/fueling-ecocide-fosszilis-ipar-termeszetvedelmi-terulet-engedelyek-magyarorszag-globalis-adatok/
+  name: 24.hu
+  url: https://24.hu
+- lang: "[EN]"
+  links:
+  - name: Fueling Ecocide - 7,000 protected areas are threatened by oil and gas projects worldwide
+    url: https://eiforum.org/fueling-ecocide-7000-protected-areas-threatened-worldwide/ 
+  name: Environmental Investigative Forum (EIF)
+  url: https://eiforum.org 
 - lang: "[EN]"
   links:
   - name: UK is world’s worst for letting fossil fuel companies onto protected areas
     url: https://www.thebureauinvestigates.com/stories/2026-01-14/uk-is-worlds-worst-offender-for-letting-fossil-fuel-companies-onto-protected-areas
-  - name: 
-    url: 
   name: The Bureau for Investigative Journalism 
   url: https://www.thebureauinvestigates.com
 date: '2026-01-14 22:00:00'
