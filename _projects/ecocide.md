@@ -70,6 +70,12 @@ publications:
     url: https://24.hu/kulfold/2026/01/14/fueling-ecocide-fosszilis-ipar-termeszetvedelmi-terulet-engedelyek-magyarorszag-globalis-adatok/
   name: 24.hu
   url: https://24.hu
+- lang: "[PT, ES, EN]"
+  links:
+  - name:
+    url: https://infoamazonia.org/2026/01/15/eneva-tem-autorizacao-para-perfurar-unico-bloco-de-gas-ativo-em-terra-indigena-na-amazonia-legal/
+  name: InfoAmazonia 
+  url: https://infoamazonia.org/
 - lang: "[EN]"
   links:
   - name: Fueling Ecocide - 7,000 protected areas are threatened by oil and gas projects worldwide
