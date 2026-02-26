@@ -82,10 +82,12 @@ publications:
     url: https://infoamazonia.org/2026/01/15/eneva-tem-autorizacao-para-perfurar-unico-bloco-de-gas-ativo-em-terra-indigena-na-amazonia-legal/
   name: InfoAmazonia 
   url: https://infoamazonia.org/
-- lang: "[FR]"
+- lang: "[FR, EN]"
   links:
   - name: 7,000 protected areas are threatened by oil and gas projects worldwide
     url: https://infocongo.org/en/fueling-ecocide-7000-protected-areas-threatened-by-oil-and-gas-projects-worldwide/
+  - name: 7000 aires protégées menacées par l’industrie fossile à travers le monde
+    url: https://infocongo.org/fr/fueling-ecocide-7000-protected-areas-threatened-by-oil-and-gas-projects-worldwide/
   name: infoCongo
   url: https://infocongo.org/
 - lang: "[EN]"
