@@ -78,10 +78,16 @@ publications:
   url: https://daraj.media/
 - lang: "[PT, ES, EN]"
   links:
-  - name:
+  - name: Eneva tem autorização para perfurar único bloco de gás ativo em terra indígena na Amazônia Legal
     url: https://infoamazonia.org/2026/01/15/eneva-tem-autorizacao-para-perfurar-unico-bloco-de-gas-ativo-em-terra-indigena-na-amazonia-legal/
   name: InfoAmazonia 
   url: https://infoamazonia.org/
+- lang: "[FR]"
+  links:
+  - name: 7,000 protected areas are threatened by oil and gas projects worldwide
+    url: https://infocongo.org/en/fueling-ecocide-7000-protected-areas-threatened-by-oil-and-gas-projects-worldwide/
+  name: infoCongo
+  url: https://infocongo.org/
 - lang: "[EN]"
   links:
   - name: Fueling Ecocide - 7,000 protected areas are threatened by oil and gas projects worldwide
