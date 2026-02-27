@@ -76,10 +76,10 @@ publications:
     url: https://daraj.media/%d9%81%d9%8a-%d9%85%d9%82%d8%af%d9%91%d9%85%d8%aa%d9%87%d8%a7-%d8%af%d9%88%d9%84-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9/
   - name: شركات نفط أوروبية تقضي على التنوع البيولوجي في تونس مشروع "الإبادة البيئية" - التنوع البيولوجي في تونس ضحية شركات النفط الأوروبية
     url: https://daraj.media/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d9%86%d9%88%d9%91%d8%b9-%d8%a7%d9%84%d8%a8%d9%8a%d9%88/
-  - name:
-    url:
-  - name:
-    url:
+  - name: Biodiversity in Tunisia Falls Victim to European Oil Companies
+    url: https://daraj.media/en/ecocide-project-biodiversity-in-tunisia-falls-victim-to-european-oil-companies
+  - name: وتقتل المرجان مصر تطوّق “أشتوم الجميل”“الإبادة البيئيّة”
+    url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d9%91%d8%a9-%d9%85%d8%af%d8%a7%d8%a6%d9%86-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%aa/
   - name:
     url:
   - name:
