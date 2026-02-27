@@ -86,15 +86,15 @@ publications:
     url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d9%91%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d9%83%d9%8a/
   - name: How Oil and Gas Companies Are Encroaching on the Last Strongholds of Nature
     url: https://daraj.media/en/ecocide-in-the-arab-world-how-oil-and-gas-companies-are-encroaching-on-the-last-strongholds-of-nature/
-  - name:
-    url:
-  - name:
-    url:
-  - name:
-    url:
-  - name:
-    url:
-  - name:
+  - name: الإبادة البيئية في سلطنة عمان - من يحمي الحوت الأحدب والنمر العربي من شركات النفط والغاز؟
+    url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d9%91%d8%a9-%d9%81%d9%8a-%d8%b3%d9%84%d8%b7%d9%86%d8%a9-%d8%b9%d9%85%d8%a7%d9%86-%d9%85%d9%86-%d9%8a%d8%ad%d9%85/
+  - name: Ecocide in the Sultanate of Oman - Who Is Protecting the Humpback Whale and the Arabian Leopard from Oil and Gas Companies?
+    url: https://daraj.media/en/ecocide-in-the-sultanate-of-oman-who-is-protecting-the-humpback-whale-and-the-arabian-leopard-from-oil-and-gas-companies/
+  - name: أكثر من 20 منطقة محميّة في الجزائر الإبادة البيئية 
+    url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d8%a9-%d8%b3%d9%88%d9%86%d8%a7%d8%b7%d8%b1%d8%a7%d9%83-%d8%aa%d8%ba%d8%b2%d9%88-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85/
+  - name: 
+    url: https://daraj.media/en/ecocide-sonatrach-encroaches-on-more-than-20-protected-areas-in-algeria/
+  - name: Sonatrach Encroaches on More Than 20 Protected Areas in Algeria
     url:
   - name:
     url:
