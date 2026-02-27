@@ -80,6 +80,20 @@ publications:
   links:
   - name: Eneva tem autorização para perfurar único bloco de gás ativo em terra indígena na Amazônia Legal
     url: https://infoamazonia.org/2026/01/15/eneva-tem-autorizacao-para-perfurar-unico-bloco-de-gas-ativo-em-terra-indigena-na-amazonia-legal/
+  - name: Eneva is authorized to drill the only active gas block on Indigenous Land in the Legal Amazon
+    url: https://infoamazonia.org/en/2026/01/15/eneva-is-authorized-to-drill-the-only-active-gas-block-on-indigenous-land-in-the-legal-amazon/
+  - name: 7 mil áreas protegidas estão ameaçadas por projetos de petróleo e gás em todo o mundo
+    url: https://infoamazonia.org/2026/01/14/7-mil-areas-protegidas-estao-ameacadas-por-projetos-de-petroleo-e-gas-em-todo-o-mundo/
+  - name: Fueling Ecocide - 7,000 protected areas are threatened by oil and gas projects worldwide
+    url: https://infoamazonia.org/en/2026/01/14/fueling-ecocide-7000-protected-areas-are-threatened-by-oil-and-gas-projects-worldwide/
+  - name: 7.000 áreas protegidas están amenazadas por proyectos de petróleo y gas en todo el mundo
+    url: https://infoamazonia.org/es/2026/01/14/7-000-areas-protegidas-estan-amenazadas-por-proyectos-de-petroleo-y-gas-en-todo-el-mundo/
+  - name: Las tensiones que ha dejado el petróleo en un área clave de la Amazonia colombiana
+    url: https://infoamazonia.org/es/2026/01/16/las-tensiones-que-ha-dejado-el-petroleo-en-un-area-clave-de-la-amazonia-colombiana/ 
+  - name: As tensões que o petróleo deixou em uma área fundamental da Amazônia colombiana
+    url: https://infoamazonia.org/es/2026/01/16/las-tensiones-que-ha-dejado-el-petroleo-en-un-area-clave-de-la-amazonia-colombiana/
+  - name: The tensions left behind by oil in a key area of ​​the Colombian Amazon
+    url: https://infoamazonia.org/en/2026/01/16/the-tensions-left-behind-by-oil-in-a-key-area-of-the-colombian-amazon/
   name: InfoAmazonia 
   url: https://infoamazonia.org/
 - lang: "[FR, EN]"
