@@ -80,12 +80,12 @@ publications:
     url: https://daraj.media/en/ecocide-project-biodiversity-in-tunisia-falls-victim-to-european-oil-companies
   - name: وتقتل المرجان مصر تطوّق “أشتوم الجميل”“الإبادة البيئيّة”
     url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d9%91%d8%a9-%d9%85%d8%af%d8%a7%d8%a6%d9%86-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%aa/
-  - name:
-    url:
-  - name:
-    url:
-  - name:
-    url:
+  - name: Reserves at the Heart of Danger - Oil Cities Encircle “Ashtoum El-Gamil” and the “Red Sea” and “Oil Viscosity” Kills Coral
+    url: https://daraj.media/en/ecocide-oil-cities-in-egypt-encircle-ashtoum-el-gamil-and-kill-the-coral/
+  - name: الإبادة البيئيّة في العالم العربي - كيف تغزو شركات النفط والغاز آخر معاقل الطبيعة؟
+    url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d9%91%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d9%83%d9%8a/
+  - name: How Oil and Gas Companies Are Encroaching on the Last Strongholds of Nature
+    url: https://daraj.media/en/ecocide-in-the-arab-world-how-oil-and-gas-companies-are-encroaching-on-the-last-strongholds-of-nature/
   - name:
     url:
   - name:
