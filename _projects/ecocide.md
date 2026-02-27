@@ -92,16 +92,16 @@ publications:
     url: https://daraj.media/en/ecocide-in-the-sultanate-of-oman-who-is-protecting-the-humpback-whale-and-the-arabian-leopard-from-oil-and-gas-companies/
   - name: أكثر من 20 منطقة محميّة في الجزائر الإبادة البيئية 
     url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d8%a9-%d8%b3%d9%88%d9%86%d8%a7%d8%b7%d8%b1%d8%a7%d9%83-%d8%aa%d8%ba%d8%b2%d9%88-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85/
-  - name: 
-    url: https://daraj.media/en/ecocide-sonatrach-encroaches-on-more-than-20-protected-areas-in-algeria/
   - name: Sonatrach Encroaches on More Than 20 Protected Areas in Algeria
-    url:
-  - name:
-    url:
-  - name:
-    url:
-  - name:
-    url:
+    url: https://daraj.media/en/ecocide-sonatrach-encroaches-on-more-than-20-protected-areas-in-algeria/
+  - name: الإبادة البيئية في الإمارات ونشاط شركات النفط والغاز على المناطق المحمية -  هل طائر الفلامنجو الكبير والأطوم في خطر؟
+    url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d9%86%d8%b4%d8%a7%d8%b7-%d8%b4%d8%b1/
+  - name: Ecocide in the UAE and the Activity of Oil and Gas Companies in Protected Areas - Are the Greater Flamingo and the Dugong at Risk?
+    url: https://daraj.media/en/ecocide-in-the-uae-and-the-activity-of-oil-and-gas-companies-in-protected-areas-are-the-greater-flamingo-and-the-dugong-at-risk/
+  - name: الإبادة بيئية بيئة فريدة في العالم على وشك التبخر العراق - التوسع النفطي يهدد هور الحويزة المدرج على قائمة اليونسكو
+    url: https://daraj.media/%d8%a7%d9%84%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d9%91%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%aa%d9%88%d8%b3%d9%91%d8%b9-%d8%a7/
+  - name: A Unique Environment on the Brink of Disappearance Iraq - Oil Expansion Threatens the UNESCO-Listed Hawizeh Marshes
+    url: https://daraj.media/en/ecocide-in-iraq-oil-expansion-threatens-to-remove-hawizeh-marsh-from-the-unesco-list/
   name: Daraj
   url: https://daraj.media/
 - lang: "[PT, ES, EN]"
