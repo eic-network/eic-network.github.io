@@ -28,6 +28,8 @@ publications:
   links:
   - name: Achter de schermen zorgde Israël ervoor dat Nederland honden kon blijven leveren aan het Israëlische leger
     url: https://www.nrc.nl/nieuws/2025/11/28/achter-de-schermen-zorgde-israel-ervoor-dat-nederland-honden-kon-blijven-leveren-aan-het-israelische-leger-a4913438
+  - name: Israëlische organisatie brengt ngo’s via De Telegraaf in het nauw – en blijkt niet ‘onafhankelijk’
+    url: https://www.nrc.nl/nieuws/2026/04/23/israelische-organisatie-brengt-ngos-via-de-telegraaf-in-het-nauw-en-blijkt-niet-onafhankelijk-a4925604
   name: NRC
   url: https://www.nrc.nl/
 - lang: "[PT]"
@@ -64,8 +66,10 @@ publications:
   url: https://www.vg.no/
 - lang: "[DE]"
   links:
-  - name: 
-    url: 
+  - name: Ein Nationalrat in fremden Diensten
+    url: https://www.woz.ch/2617/die-affaere-luescher/ein-nationalrat-in-fremden-diensten/!CXRSY3B8G0PR
+  - name: Christian Lüscher au service d’Israël
+    url: https://lecourrier.ch/2026/04/23/christian-luscher-au-service-disrael/
   name: Die Wochenzeitung
   url: https://www.woz.ch/
 - lang: "[GR]"
