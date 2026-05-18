@@ -44,6 +44,8 @@ publications:
     url: https://www.lesoir.be/716595/article/2025-12-12/israel-files-le-departement-des-affaires-speciales-machine-de-guerre-pour
   - name: Ce cabinet d’avocats bruxellois au cœur de la bataille contre le boycott
     url: https://www.lesoir.be/716593/article/2025-12-12/israel-files-ce-cabinet-davocats-bruxellois-au-coeur-de-la-bataille-contre-le
+  - name: Comment Israël a fait pression sur le système judiciaire belge
+    url: https://www.lesoir.be/747203/article/2026-05-18/israel-files-au-coeur-des-tactiques-dinfluence-politico-judiciaires-disrael-pour
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[ES]"
