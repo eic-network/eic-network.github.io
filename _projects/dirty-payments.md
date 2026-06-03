@@ -48,7 +48,9 @@ publications:
   - name: The Dirty Tricks of Online Scammers
     url: https://www.spiegel.de/international/business/free-iphones-fake-dating-sites-and-porn-chats-the-dirty-tricks-of-online-scammers-a-5e654bd6-7d6c-4232-a97a-249280ae8085
   - name: So nehmen Schweizer Datingfirmen viele Singles aus
-    url: https://www.spiegel.de/panorama/justiz/partnersuche-so-nehmen-schweizer-datingfirmen-viele-singles-aus-a-c3621399-2bbc-48be-9d55-e04d17e5f9aa?giftToken=622a38ae-e7fe-417f-a4f4-610d8b343086 
+    url: https://www.spiegel.de/panorama/justiz/partnersuche-so-nehmen-schweizer-datingfirmen-viele-singles-aus-a-c3621399-2bbc-48be-9d55-e04d17e5f9aa?giftToken=622a38ae-e7fe-417f-a4f4-610d8b343086
+  - name: Die schmutzigen Kunden des Zahlungsdienstleisters Wise
+    url: https://www.spiegel.de/wirtschaft/unternehmen/wise-ermittlungen-wegen-geldwaescheverdacht-bei-zahlungsdienstleister-a-cdd5311e-c686-465a-8fe7-984afaad9de8
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
@@ -63,6 +65,8 @@ publications:
     url: https://www.nrc.nl/nieuws/2025/06/27/de-oplichting-van-aether-ontrafeld-zes-bouwstenen-van-het-succes-van-de-scamwebsites-a4898303
   - name: Gestolen foto's en nepprofielen op datingsites - zo probeert Aether klanten aan zich te binden
     url: https://www.nrc.nl/nieuws/2025/06/30/seks-chatten-met-het-callcenter-in-manila-a4898808
+  - name: Justitie Belgie begint strafrechtelijk onderzoek naar betalingsdienst Wise wegens witwassen
+    url: https://www.nrc.nl/nieuws/2026/06/01/justitie-belgie-begint-strafrechtelijk-onderzoek-naar-betalingsdienst-wise-wegens-witwassen-a4928095
   name: NRC
   url: https://www.nrc.nl/
 - lang: "[PT]"
@@ -133,6 +137,8 @@ publications:
     url: https://www.standaard.be/economie/hoe-worldline-honderdduizenden-euro-s-verdiende-met-geile-heidi-klanten-van-datingsites-kunnen-de-overeenkomsten-onmogelijk-stopzetten/65625623.html
   - name: Als gewone banken afhaken, biedt ‘de helpdesk voor gok- en pornosites’ steun
     url: https://www.standaard.be/economie/als-gewone-banken-afhaken-biedt-de-helpdesk-voor-gok-en-pornosites-steun/72449950.html
+  - name: “Geld zonder grenzen” van Wise zet deur open naar internationale witwaspraktijken
+    url: https://www.standaard.be/economie/geld-zonder-grenzen-van-wise-zet-deur-open-naar-internationale-witwaspraktijken/154281520.html
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[GR]"
@@ -149,6 +155,8 @@ publications:
     url: https://www.infolibre.es/investigacion/estafas-prostitucion-casinos-oscuros-negocios-operaban-gigante-pagos-worldline_1_2020032.html
   - name: Un exproductor de Hollywood lidera una trama de webs falsas que ingresaba millones al año vía Worldline
     url: https://www.infolibre.es/investigacion/exproductor-hollywood-lidera-trama-webs-falsas-ingresaba-millones-ano-via-worldline_130_2020548.html
+  - name: Fraude, estafas y oscuros negocios - la empresa de pagos Wise en el foco de la Justicia europea
+    url: https://www.infolibre.es/investigacion/fraude-estafas-oscuros-negocios-empresa-pagos-wise-foco-justicia-europea_130_2199864.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[NO]"
