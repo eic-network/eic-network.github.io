@@ -29,6 +29,8 @@ publications:
     url: https://www.mediapart.fr/journal/economie-et-social/300625/dirty-payments-une-filiale-de-la-societe-generale-liee-des-arnaques-en-ligne
   - name: Scams, porn and illegal casinos - the dirty money of a French online payment giant
     url: https://www.mediapart.fr/en/journal/economie-et-social/300625/scams-porn-and-illegal-casinos-dirty-money-french-online-payment-giant
+  - name: Une enquête judiciaire pour le blanchiment de 500 millions d’euros vise la société de paiements Wise
+    url: https://www.mediapart.fr/journal/economie-et-social/010626/une-enquete-judiciaire-pour-le-blanchiment-de-500-millions-d-euros-vise-la-societe-de-paiement
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[DE, EN]"
@@ -111,6 +113,10 @@ publications:
     url: https://www.lesoir.be/684824/article/2025-06-30/dirty-payments-des-ex-worldline-boys-agents-sur-mesure-pour-clients-haut-risque
   - name: Les failles coupables dans la supervision du système de paiement
     url: https://www.lesoir.be/684319/article/2025-06-27/les-failles-coupables-dans-la-supervision-du-systeme-de-paiement
+  - name: Wise, poids lourd européen des paiements, rattrapée par la justice belge pour ses « Dirty Payments »
+    url: https://www.lesoir.be/750050/article/2026-06-01/wise-poids-lourd-europeen-des-paiements-rattrapee-par-la-justice-belge-pour-ses
+  - name: Journée noire en Bourse pour Wise après les révélations du « Soir »
+    url: https://www.lesoir.be/750234/article/2026-06-01/journee-noire-en-bourse-pour-wise-apres-les-revelations-du-soir 
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[NL]"
