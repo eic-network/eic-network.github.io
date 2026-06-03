@@ -77,6 +77,8 @@ publications:
     url: https://expresso.pt/sociedade/justica/2025-06-26-sites-sobre-relacionamentos-recrutam-falsos-donos-em-portugal-testas-de-ferro-recebem-dois-mil-a-tres-mil-euros-por-ano-9ec60bdc
   - name: Testa de ferro do maior site de prostituição em França é um português
     url: https://expresso.pt/sociedade/2025-07-07-dirty-payments-testa-de-ferro-do-maior-site-de-prostituicao-em-franca-e-um-portugues-aa05b3e4
+  - name: Portugal abriu mais de 30 processos-crime por suspeitas de lavagem de dinheiro através da Wise, uma aplicação para transferir dinheiro
+    url: https://expresso.pt/sociedade/2026-06-01-portugal-abriu-mais-de-30-processos-crime-por-suspeitas-de-lavagem-de-dinheiro-atraves-da-wise-uma-aplicacao-para-transferir-dinheiro-bc871f39
   name: Expresso
   url: https://expresso.pt/
 - lang: "[DK]"
@@ -171,6 +173,8 @@ publications:
   links:
   - name: Global crime network behind QR code car-park scam
     url: https://www.thebureauinvestigates.com/stories/2025-06-27/revealed-global-crime-network-behind-qr-code-car-park-scam
+  - name: Money transfer giant Wise investigated for half a billion in suspicious transactions
+    url: https://www.thebureauinvestigates.com/stories/2026-06-01/money-transfer-giant-wise-investigated-for-half-a-billion-in-suspicious-transactions
   name: The Bureau of Investigative Journalism
   url: https://www.thebureauinvestigates.com/
 - lang: "[DE]"
@@ -202,7 +206,9 @@ publications:
   - name: Margita, 79, sökte kärleken – då fastnade hon i dejtningsbluffen
     url: https://www.dn.se/sverige/margita-79-sokte-karleken-da-fastnade-hon-i-dejtningsbluffen/
   - name: Här säljs unga kvinnor – svenska Worldline tillät sexhandel
-    url: https://www.dn.se/sverige/har-saljs-unga-kvinnor-svenska-worldline-tillat-sexhandel/ 
+    url: https://www.dn.se/sverige/har-saljs-unga-kvinnor-svenska-worldline-tillat-sexhandel/
+  - name: Börsnoterade betaljätten utreds för penningtvätt – kopplas till svenska kriminella
+    url: https://www.dn.se/ekonomi/borsnoterade-betaljatten-utreds-for-penningtvatt-kopplas-till-svenska-kriminella/ 
   name: Dagens Nyheter
   url: https://www.dn.se/
 - lang: "[RO]"
