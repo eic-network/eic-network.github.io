@@ -258,5 +258,5 @@ team_participants: |-
 
     **Project Design & Guide**
 
-    Stefan Candea
+    Ștefan Cândea
 ---
