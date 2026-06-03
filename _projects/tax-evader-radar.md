@@ -9,7 +9,7 @@ description: |-
 
   The stories published by EIC partners, which will be listed below, reveal that through all political efforts to curb harmful tax practices and the global fight against offshore tax havens, a closer look into intransparent company registries like the Bahamas still show that wealthy individuals continue hiding their assets. It also shows how the registration methods have changed over the years and that corporate tax avoidance still poses a huge challenge for regulators.
 
-  All data used for this research is made available for further investigation by DDoS on [their website](https://ddosecrets.com/data/north_america/). Some portion of the documents were rendered to text via optical character recognition (OCR), with mixed results. The incomplete searchable data is loaded in DDoS' native [search platform Hunter](https://hunter.ddosecrets.com/datasets/84) for further investigations or download. A crowdsource effort to complete the text capture is happening via [the new tool Xray](https://xray.ddosecrets.com/).
+  All data used for this research is made available for further investigation by DDoS on [their website](https://ddosecrets.org/article/bahamas-registry). Some portion of the documents were rendered to text via optical character recognition (OCR), with mixed results. The incomplete searchable data is loaded in DDoS' native [search platform Hunter](https://search.libraryofleaks.org/datasets/35) for further investigations or download. A crowdsource effort to complete the text capture is happening via [the new tool Xray](https://web.archive.org/web/20210616234839/https://xray.ddosecrets.com/). 
 intro: A collective look behind intransparent company records.
 publications:
 - lang: "[DE, EN]"
