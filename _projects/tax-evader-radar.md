@@ -47,7 +47,7 @@ team_participants: |-
 
   Manuel Rico, Begoña P. Ramírez (InfoLibre), Craig Shaw, Zeynep Sentek (TBS), Elena Vinogradova, Ilya.Rozhdestvensky (Open Media/TBS), Nikolas Leontopoulos (Reporters United/TBS), Blaž Zgaga (Nacional), Catalin Prisacariu (RCIJ), Dimitri Zufferey (RTS), Sara Wess, Sabrina Winter, Muriel Kalisch, Malte Born (Henri-Nannen-Schule)
 
-  **Material provided by:** [DDoS](https://ddosecrets.com/) (Lorax Horne, Emma Best)
+  **Material provided by:** [DDoS](https://donorbox.org/ddosecrets) (Lorax Horne, Emma Best)
 
   **Project Guide:** Christoph Winterbach (Der Spiegel)
 ---
