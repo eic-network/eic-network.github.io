@@ -246,7 +246,7 @@ publications:
   name: Toronto Star
   url: https://www.thestar.com/
 date: '2025-06-27 22:52:00'
-team_initiators: For the Worldline stories, the initiators were "[European Investigative Collaborations](https://www.eic.network/) (Ștefan Cândea) and [Mediapart]( https://www.mediapart.fr/) (Yann Philippin)"; For the WISE stories, the initiator was [Le Soir](https://www.lesoir.be/) (Louis Colart)
+team_initiators: For the Worldline stories, the initiators were [European Investigative Collaborations](https://www.eic.network/) (Ștefan Cândea) and [Mediapart]( https://www.mediapart.fr/) (Yann Philippin); For the WISE stories, the initiator was [Le Soir](https://www.lesoir.be/) (Louis Colart)
 team_participants: |-
   **Reporting**
 
