@@ -5,6 +5,9 @@ description: |-
   The  #DirtyPayments series reveals a major European financial scandal. It shows how, during the last decade, the French giant payments company Worldline and its German subsidiary Payone have systematically processed dubious and fraudulent online transactions worth billions of Euros, facilitating large scale scamming, controversial porn sites, prostitution networks, illegal casinos and even possible money laundering operations. This happened right under the noses of European bank regulators.
 
   Dirty Payments exposes the extent of systemic structural flaws of the payments industry and some of those behind well-disguised scams that have defrauded people across the world. [Published 25.06.2025]
+
+  **UPDATE**: During June 2026 EIC continues publishing about the “Dirty Payments” industry, this time focusing on the British payments platform WISE, which is investigated in Belgium by judicial authorities related to possible money laundering in in hundreds of criminal investigations in Europe, for more then EUR 500 million suspicious transactions.  
+  
 publications:
 - lang: "[FR, EN, ES]"
   links:
