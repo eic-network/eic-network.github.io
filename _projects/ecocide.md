@@ -12,6 +12,8 @@ publications:
   links:
   - name: Fueling Ecocide - the investigation, the map and the methodology
     url: https://ecocide.reportersunited.gr/
+  - name: Φαντασιώνονται πετρέλαιο και απειλούν τον θαλάσσιο πλούτο
+    url: https://www.reportersunited.gr/18828/ecocide-prostatevomenes-perioxes/
   name: Reporters United
   url: https://www.reportersunited.gr/
 - lang: "[FR, EN, ES]"
