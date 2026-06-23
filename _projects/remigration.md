@@ -34,7 +34,7 @@ publications:
     url: https://www.standaard.be/buitenland/de-megafoon-van-musk-hoe-uiterst-rechts-x-gebruikt-om-haat-te-normaliseren/156874873.html 
   name: De Standaard
   url: https://www.standaard.be/
-team_initiator: "Micael Pereira [Expresso]( www.expresso.pt)"
+team_initiators: "Micael Pereira [Expresso]( www.expresso.pt)"
 team_participants: |-
 
   **Reporting**
