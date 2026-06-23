@@ -34,9 +34,11 @@ publications:
     url: https://www.standaard.be/buitenland/de-megafoon-van-musk-hoe-uiterst-rechts-x-gebruikt-om-haat-te-normaliseren/156874873.html 
   name: De Standaard
   url: https://www.standaard.be/
-date: '2026-06-22 22:00:00'
+
+date: '2026-06-12 12:00:00'
 team_initiator: "Micael Pereira [Expresso]( www.expresso.pt)"
 team_participants: |-
+
   **Reporting**
 
     Micael Pereira and Johan Schäfer (Expresso), Wilmer Heck and Tom Kreling (NRC), Sergio Sangiao (infoLibre), Nikolas Vanhecke (De Standaard).
