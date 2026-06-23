@@ -4,7 +4,7 @@ intro: A summit of hate speech
 description: |- 
   A large “Remigration Summit” was held in Portugal, reflecting the rise of a far-right cross-border movement, as well as the normalisation of hate speech in Europe. 
   
-  This Remigration movement is amplified by social media platforms who refuse to sanction hate speech without, however, suffering any consequences from the European regulators. [Published June 2026] 
+  This Remigration movement is amplified by social media platforms who refuse to sanction hate speech without, however, suffering any  consequences from the European regulators. [Published June 2026] 
 publications:
 - lang: "[PT]"
   links:
@@ -34,7 +34,6 @@ publications:
     url: https://www.standaard.be/buitenland/de-megafoon-van-musk-hoe-uiterst-rechts-x-gebruikt-om-haat-te-normaliseren/156874873.html 
   name: De Standaard
   url: https://www.standaard.be/
-
 date: '2026-06-12 12:00:00'
 team_initiator: "Micael Pereira [Expresso]( www.expresso.pt)"
 team_participants: |-
