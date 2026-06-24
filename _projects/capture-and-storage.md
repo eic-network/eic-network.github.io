@@ -42,5 +42,5 @@ team_participants: |-
     **Project Design & Guide**
 
     Ștefan Cândea
-date: '2026-06-24 11:52:00'
+date: '2026-06-24 10:52:00'
 ---
