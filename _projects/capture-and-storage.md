@@ -6,7 +6,7 @@ description: |-
 
   Largely subsidised by public funds and heavy publicised, the technologies involved create a complex system of capturing CO2 at the emission source, liquifying, transporting by ship and storing again under the sea bed.
 
-  We looked at the first year of Longship, the flagship European project to capture and store CO2, and found out a deeply troubled pilot year, subsidised with billions of Euros in public money.. [Published June 2026] 
+  We looked at the first year of Longship, the flagship European project to capture and store CO2, and found out a deeply troubled pilot year, subsidised with billions of Euros in public money. [Published June 2026] 
 publications:
 - lang: "[FR]"
   links:
