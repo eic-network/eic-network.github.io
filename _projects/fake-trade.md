@@ -13,7 +13,11 @@ publications:
   - name: Sie versprechen Geldanlegern Traumgewinne. Und bringen sie um ihr Vermögen
     url: https://www.spiegel.de/panorama/justiz/cyberbetrug-wie-eine-israelische-it-firma-ein-weltweites-abzock-system-ermoeglichte-a-391792f5-67de-4927-a3b6-f5b746977059?giftToken=0b13dedd-57a7-450d-ba50-90acb36719f1
   - name: Aus dem Innenleben der Online-Betrugsindustrie – was Sie zur Recherche wissen müssen
-    url: https://www.spiegel.de/panorama/justiz/airsoft-und-faketrade-aus-dem-innenleben-der-online-betrugsindustrie-was-sie-zur-recherche-wissen-muessen-a-4c838a56-6c37-47da-b6ad-65fc30cad403?giftToken=2ea44b56-aa7b-46d9-a46f-6dce52eb5e8d 
+    url: https://www.spiegel.de/panorama/justiz/airsoft-und-faketrade-aus-dem-innenleben-der-online-betrugsindustrie-was-sie-zur-recherche-wissen-muessen-a-4c838a56-6c37-47da-b6ad-65fc30cad403?giftToken=2ea44b56-aa7b-46d9-a46f-6dce52eb5e8d
+  - name: https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a
+    url: https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a
+  - name: So entgehen Sie dem Betrug bei der Online-Geldanlage
+    url: https://www.spiegel.de/panorama/justiz/cybertrading-so-entgehen-sie-dem-betrug-bei-der-online-geldanlage-a-b42cbe83-455e-406c-95f7-e9f26b79e4f2
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[FR]"
