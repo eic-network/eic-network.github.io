@@ -6,7 +6,7 @@ description: |-
   
   The [#FakeTrade](https://x.com/hashtag/FakeTrade?src=hashtag_click) project reveals who enables such criminal schemes in the first place. Coordinated by the European Investigative Collaborations (EIC) network, the investigation is based on thousands of documents obtained by Der Spiegel and shared with EIC. At the centre of the investigation is the Israeli technology company Airsoft, which supplied organised crime with key fraud software for years. The investigation also follows the trail to a French mafia family.
   
-  [#FakeTrade](https://x.com/hashtag/FakeTrade?src=hashtag_click) offers deep insights into the industry behind online investment fraud for the first time. The investigation also shows that victims and investigators are not powerless. One Canadian victim took action against the scammers, and a German public prosecutor successfully brought the fraudsters to justice. [Published September 2026] 
+  [#FakeTrade](https://x.com/hashtag/FakeTrade?src=hashtag_click) offers deep insights into the industry behind online investment fraud for the first time. The investigation also shows that victims and investigators are not powerless. One Canadian victim took action against the scammers, and a German public prosecutor successfully brought the fraudsters to justice. [**Published September 2026**] 
 publications:
 - lang: "[DE]"
   links:
