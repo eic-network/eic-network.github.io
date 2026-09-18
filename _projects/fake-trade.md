@@ -50,10 +50,10 @@ publications:
   url: https://politiken.dk/
 - lang: "[NL]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url:  
+  - name: Hoe een Israëlisch softwarebedrijfje beleggers over de hele wereld bijna een miljard euro kon ontfutselen
+    url: https://www.standaard.be/economie/hoe-een-israelisch-softwarebedrijfje-beleggers-over-de-hele-wereld-bijna-een-miljard-euro-kon-ontfutselen/161083625.html
+  - name: “Oplichters nemen software mee en beginnen gewoon opnieuw” - waarom beleggingsfraude zo moeilijk te stoppen is
+    url: https://www.standaard.be/economie/oplichters-nemen-software-mee-en-beginnen-gewoon-opnieuw-waarom-beleggingsfraude-zo-moeilijk-te-stoppen-is/161254154.html?utm_campaign=share&utm_medium=referral&utm_source=hyperlink 
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[IL]"
