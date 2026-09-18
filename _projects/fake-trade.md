@@ -78,7 +78,6 @@ publications:
     url: https://www.journaldemontreal.com/2026/09/17/un-ex-montrealais-derriere-une-fraude-internationale-qui-aurait-permis-de-derober-plus-dun-milliard 
   name: Journal de Montréal
   url: https://www.journaldemontreal.com/
-date: '2026'
 team_initiators: "Sara Wess [Der Spiegel](https://www.spiegel.de/)"
 team_participants: |-
 
