@@ -77,7 +77,8 @@ publications:
   - name: Un homme qui a grandi à Montréal derrière une fraude internationale qui dépasserait le milliard
     url: https://www.journaldemontreal.com/2026/09/17/un-ex-montrealais-derriere-une-fraude-internationale-qui-aurait-permis-de-derober-plus-dun-milliard 
   name: Journal de Montréal
-  url: 
+  url: https://www.journaldemontreal.com/
+date: '2026-09-17 22:00:00'
 team_initiators: "Sara Wess [Der Spiegel](https://www.spiegel.de/)"
 team_participants: |-
 
