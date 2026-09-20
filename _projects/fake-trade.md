@@ -18,6 +18,8 @@ publications:
     url: https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a
   - name: So entgehen Sie dem Betrug bei der Online-Geldanlage
     url: https://www.spiegel.de/panorama/justiz/cybertrading-so-entgehen-sie-dem-betrug-bei-der-online-geldanlage-a-b42cbe83-455e-406c-95f7-e9f26b79e4f2
+  - name: The Shady World of Fraudulent Investment Sites
+    url: https://www.spiegel.de/international/world/online-scams-the-shady-world-of-fraudulent-investment-sites-a-36d59b48-23ea-4ae5-9532-7a6d3fb086d3
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[FR]"
@@ -48,8 +50,10 @@ publications:
   url: https://www.infolibre.es/
 - lang: "[DK]"
   links:
-  - name:
-    url:
+  - name: Da svindlerne stak af med Henriks millioner, mistede han sit firma, sin kone – og nærmest også sit liv
+    url: https://politiken.dk/del/Jm-XLBAHTmsQ
+  - name: Hun investerede gennem en platform, Mads Mikkelsen tilsyneladende havde anbefalet. To måneder senere var hele hendes opsparing væk
+    url: https://politiken.dk/del/eQFnAbAHTmsA
   name: Politiken
   url: https://politiken.dk/
 - lang: "[NL]"
