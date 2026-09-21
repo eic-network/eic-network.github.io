@@ -79,7 +79,13 @@ publications:
 - lang: "[FR]"
   links:
   - name: Un homme qui a grandi à Montréal derrière une fraude internationale qui dépasserait le milliard
-    url: https://www.journaldemontreal.com/2026/09/17/un-ex-montrealais-derriere-une-fraude-internationale-qui-aurait-permis-de-derober-plus-dun-milliard 
+    url: https://www.journaldemontreal.com/2026/09/17/un-ex-montrealais-derriere-une-fraude-internationale-qui-aurait-permis-de-derober-plus-dun-milliard
+  - name: Airsoft - le logiciel «tout-en-un» qui rend possible la fraude en série
+    url: https://www.journaldemontreal.com/2026/09/17/airsoft-le-logiciel-tout-en-un-qui-rend-possible-la-fraude-en-serie
+  - name: «Je voulais juste rétablir la justice» - un père de famille a passé des années à enquêter sur des fraudeurs
+    url: https://www.journaldemontreal.com/2026/09/18/je-voulais-juste-retablir-la-justice--un-pere-de-famille-a-passe-des-annees-a-enqueter-sur-des-fraudeurs
+  - name: Des fraudes à l’investissement coûteuses et dures à contrer
+    url: https://www.journaldemontreal.com/2026/09/18/des-fraudes-a-linvestissement-couteuses-et-dures-a-contrer
   name: Journal de Montréal
   url: https://www.journaldemontreal.com/
 team_initiators: "Sara Wess [Der Spiegel](https://www.spiegel.de/)"
