@@ -38,8 +38,8 @@ publications:
   links:
   - name: Nep-websites, nep-winst en nep-vriendelijkheid. Hoe Hans en duizenden anderen werden opgelicht
     url:  https://www.nrc.nl/nieuws/2026/09/18/nep-websites-nep-winst-en-nep-vriendelijkheid-hoe-hans-en-duizenden-anderen-werden-opgelicht-a4935130?gift_token=4935130~1790314826~U7jG8i8rRf2W15SJU_dK-g~Q2O6-_c1yEUO7kv_RBFrffvuXE-IOZn6LXJodqXlD7s 
-  - name: 
-    url:  
+  - name: Hoe krijgen oplichters je zover dat je al je spaargeld overmaakt?
+    url: https://www.nrc.nl/nieuws/2026/09/18/hoe-krijgen-oplichters-je-zover-dat-je-al-je-spaargeld-overmaakt-a4936994
   name: NRC
   url: https://www.nrc.nl/
 - lang: "[ES]"
